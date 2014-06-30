@@ -45,7 +45,7 @@ def GenerateInputs(testname):
         for col in range(32):    
     	    inputPattern.initializeLoadPhase()   	    
     	    inputPattern.loadSinglePattern(row, col,[data,data,data,data], 18)
-    	    print "-Loading Data:", data, "in Row:", row," Col:", col, "in all layers"
+    	    print "-Loaded Data:", data, "in Row:", row," Col:", col, "in all layers"
 
     inputPattern.close()
     return inputPattern

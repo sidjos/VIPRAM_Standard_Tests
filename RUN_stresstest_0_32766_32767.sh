@@ -54,8 +54,14 @@ done
 echo "Plotting mismatches...saving image in png file $log"
 python eventMismatch.py $log| tee -a $log
 
-eog $image_name &
+
 rm checkData.txt
 
 timestamp=$(date +%T)
 echo $timestamp |tee -a $log
+
+mv $log ./results/.
+mv $image_name ./results/.
+eog ./results/$image_name &
+
+echo "Test End, Results stored in ./results/. "

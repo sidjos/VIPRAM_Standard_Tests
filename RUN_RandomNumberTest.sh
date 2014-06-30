@@ -55,3 +55,7 @@ rm checkData.txt
 
 timestamp=$(date +%T)
 echo $timestamp |tee -a $log
+
+mv $log ./results/.
+mv $image_name ./results/.
+echo "Test End, Results stored in ./results/. "

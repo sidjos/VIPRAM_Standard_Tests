@@ -38,7 +38,7 @@ def GenerateInputs(testname):
     inputPattern = inputBuilder("root/"+testname+".root");
     
     row = 0 
-    col = 10
+    col = 0
     
     data = 32767
     data_load = 32767
