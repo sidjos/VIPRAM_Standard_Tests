@@ -39,8 +39,7 @@ def GenerateInputs(testname):
     
     row_start = int(sys.argv[1])
     row_end = int(sys.argv[2])
-    data = int(sys.argv[3])		
-    
+
     for row in range(row_start, row_end):
         for col in range(32):    
 	    

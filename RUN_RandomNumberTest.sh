@@ -9,8 +9,8 @@ echo "Starting test:"
 log=RandomNumberTest.log
 image_name=RandomNumberTest.png
 
-rm $log
-rm $image_name
+rm ./results/$log
+rm ./results/$image_name
 
 timestamp=$(date +%T)
 echo $timestamp |tee -a $log
@@ -25,8 +25,8 @@ while [ $row_end -le 128 ]
 do
 timestamp=$(date +%T)
 echo $timestamp |tee -a $log
-echo "----Loading Rows $row_start to $row_end with $initial_data_load"
-python load_rowRange_Random.py $row_start $row_end --go | grep 'match\|Testing Row\|shift\|Loaded|\Loading\|number of hits'| tee -a $log
+echo "----Loading Rows $row_start to $row_end"
+python load_rowRange_Random.py $row_start $row_end --go | grep 'match\|Testing Row\|shift\|Loaded|\Loading\|number of hits\-'| tee -a $log
 sleep 1s
 row_start=$[$row_start+4]
 row_end=$[$row_end+4]
@@ -43,14 +43,14 @@ do
 timestamp=$(date +%T)
 echo $timestamp | tee -a $log
 echo "----Testing Row $rowaddr"
-python singleRowTest.py $rowaddr $data_look $data_load_after --go | grep 'match\|Testing Row\|shift\|Loaded\|number of hits'| tee -a $log
+python RandomNumberTest.py $rowaddr --go | grep 'match\|Testing Row\|shift\|Loaded\|number of hits'| tee -a $log
 sleep 1s 
 done
 
 echo "Plotting mismatches...saving image in png file $log"
 python eventMismatch.py $log| tee -a $log
 
-eog $image_name &
+
 rm checkData.txt
 
 timestamp=$(date +%T)
@@ -58,4 +58,6 @@ echo $timestamp |tee -a $log
 
 mv $log ./results/.
 mv $image_name ./results/.
+eog ./$image_name &
+
 echo "Test End, Results stored in ./results/. "
