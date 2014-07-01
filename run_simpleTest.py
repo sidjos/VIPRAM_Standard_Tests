@@ -38,10 +38,9 @@ def GenerateInputs(testname):
     inputPattern = inputBuilder("root/"+testname+".root");
     
     row = 0 
-    col = 0
-    
+    col = 0    
     data = 32767
-    data_load = 32767
+    data_load = 0
     
     print "\nTesting Row:"+str(row)+" with data:",data,"and loading:",data_load,"after test","\n"		
     
@@ -55,20 +54,17 @@ def GenerateInputs(testname):
     inputPattern.checkPattern( [21845, 21845, 21845, 21845] ,row)
     inputPattern.checkPattern( [data,data,data,data] ,row)
     
-    for r in range(128):
-        for i in range(10):inputPattern.checkPattern( [21845, 21845, 21845, 21845] ,r)
-        inputPattern.doRowChecker(r)
-    for i in range(10):inputPattern.checkPattern( [21845, 21845, 21845, 21845] ,r)
+    
+    for i in range(10):inputPattern.checkPattern( [21845, 21845, 21845, 21845] ,row)
+    inputPattern.doRowChecker(row)
+    for i in range(10):inputPattern.checkPattern( [21845, 21845, 21845, 21845] ,row)
     
     inputPattern.initializeLoadPhase()
     inputPattern.loadSinglePattern(row, col,[data_load,data_load,data_load,data_load], 20)
     print "-Loaded Data:", data_load, "in Row:", row," Col:", col, "in all layers"
 
-
     inputPattern.close()
     return inputPattern
-
-
 
 ############################################################
 

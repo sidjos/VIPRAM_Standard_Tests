@@ -6,8 +6,8 @@
 
 echo "Starting test:"
 
-log=stresstest_initialLoad32767_Look1_afterLoad32767.log
-image_name=stresstest_initialLoad32767_Look1_afterLoad32767.png
+log=least_stresstest_initialLoad32767_Look1_afterLoad32767.log
+image_name=least_stresstest_initialLoad32767_Look1_afterLoad32767.png
 
 initial_data_load=32767
 data_look=1
