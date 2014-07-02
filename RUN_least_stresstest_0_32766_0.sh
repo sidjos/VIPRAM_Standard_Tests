@@ -13,8 +13,11 @@ initial_data_load=0
 data_look=32766
 data_load_after=0
 
-rm $log
-rm $image_name
+rm ./results/$log
+rm ./results/$image_name
+rm ./root/tmp1_i.txt
+rm ./root/tmp1_f.txt
+rm ./root/tmp.root
 
 timestamp=$(date +%T)
 echo $timestamp |tee -a $log

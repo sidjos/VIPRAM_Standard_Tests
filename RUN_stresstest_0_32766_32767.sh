@@ -13,8 +13,15 @@ initial_data_load=0
 data_look=32766
 data_load_after=32767
 
-rm $log
-rm $image_name
+#cleaning results from previous runs of same test
+
+rm ./results/$log
+rm ./results/$image_name
+rm ./root/tmp1_i.txt
+rm ./root/tmp1_f.txt
+rm ./root/tmp.root
+
+echo "-----cleaned previous results-----"
 
 timestamp=$(date +%T)
 echo $timestamp |tee -a $log

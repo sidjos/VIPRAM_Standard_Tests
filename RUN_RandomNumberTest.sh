@@ -11,6 +11,9 @@ image_name=RandomNumberTest.png
 
 rm ./results/$log
 rm ./results/$image_name
+rm ./root/tmp1_i.txt
+rm ./root/tmp1_f.txt
+rm ./root/tmp.root
 
 timestamp=$(date +%T)
 echo $timestamp |tee -a $log

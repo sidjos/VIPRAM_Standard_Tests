@@ -5909,3 +5909,3453 @@ Using output shift: 0
 No Mismatches!!!, 32 matches
 Everything Works!! Total number of hits = 32
 16:32:43
+Testing Row:43 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 43  Col: 0 in all layers
+-Loaded Data: 0 in Row: 43  Col: 0 in all layers
+-Loaded Data: 1 in Row: 43  Col: 1 in all layers
+-Loaded Data: 0 in Row: 43  Col: 1 in all layers
+-Loaded Data: 1 in Row: 43  Col: 2 in all layers
+-Loaded Data: 0 in Row: 43  Col: 2 in all layers
+-Loaded Data: 1 in Row: 43  Col: 3 in all layers
+-Loaded Data: 0 in Row: 43  Col: 3 in all layers
+-Loaded Data: 1 in Row: 43  Col: 4 in all layers
+-Loaded Data: 0 in Row: 43  Col: 4 in all layers
+-Loaded Data: 1 in Row: 43  Col: 5 in all layers
+-Loaded Data: 0 in Row: 43  Col: 5 in all layers
+-Loaded Data: 1 in Row: 43  Col: 6 in all layers
+-Loaded Data: 0 in Row: 43  Col: 6 in all layers
+-Loaded Data: 1 in Row: 43  Col: 7 in all layers
+-Loaded Data: 0 in Row: 43  Col: 7 in all layers
+-Loaded Data: 1 in Row: 43  Col: 8 in all layers
+-Loaded Data: 0 in Row: 43  Col: 8 in all layers
+-Loaded Data: 1 in Row: 43  Col: 9 in all layers
+-Loaded Data: 0 in Row: 43  Col: 9 in all layers
+-Loaded Data: 1 in Row: 43  Col: 10 in all layers
+-Loaded Data: 0 in Row: 43  Col: 10 in all layers
+-Loaded Data: 1 in Row: 43  Col: 11 in all layers
+-Loaded Data: 0 in Row: 43  Col: 11 in all layers
+-Loaded Data: 1 in Row: 43  Col: 12 in all layers
+-Loaded Data: 0 in Row: 43  Col: 12 in all layers
+-Loaded Data: 1 in Row: 43  Col: 13 in all layers
+-Loaded Data: 0 in Row: 43  Col: 13 in all layers
+-Loaded Data: 1 in Row: 43  Col: 14 in all layers
+-Loaded Data: 0 in Row: 43  Col: 14 in all layers
+-Loaded Data: 1 in Row: 43  Col: 15 in all layers
+-Loaded Data: 0 in Row: 43  Col: 15 in all layers
+-Loaded Data: 1 in Row: 43  Col: 16 in all layers
+-Loaded Data: 0 in Row: 43  Col: 16 in all layers
+-Loaded Data: 1 in Row: 43  Col: 17 in all layers
+-Loaded Data: 0 in Row: 43  Col: 17 in all layers
+-Loaded Data: 1 in Row: 43  Col: 18 in all layers
+-Loaded Data: 0 in Row: 43  Col: 18 in all layers
+-Loaded Data: 1 in Row: 43  Col: 19 in all layers
+-Loaded Data: 0 in Row: 43  Col: 19 in all layers
+-Loaded Data: 1 in Row: 43  Col: 20 in all layers
+-Loaded Data: 0 in Row: 43  Col: 20 in all layers
+-Loaded Data: 1 in Row: 43  Col: 21 in all layers
+-Loaded Data: 0 in Row: 43  Col: 21 in all layers
+-Loaded Data: 1 in Row: 43  Col: 22 in all layers
+-Loaded Data: 0 in Row: 43  Col: 22 in all layers
+-Loaded Data: 1 in Row: 43  Col: 23 in all layers
+-Loaded Data: 0 in Row: 43  Col: 23 in all layers
+-Loaded Data: 1 in Row: 43  Col: 24 in all layers
+-Loaded Data: 0 in Row: 43  Col: 24 in all layers
+-Loaded Data: 1 in Row: 43  Col: 25 in all layers
+-Loaded Data: 0 in Row: 43  Col: 25 in all layers
+-Loaded Data: 1 in Row: 43  Col: 26 in all layers
+-Loaded Data: 0 in Row: 43  Col: 26 in all layers
+-Loaded Data: 1 in Row: 43  Col: 27 in all layers
+-Loaded Data: 0 in Row: 43  Col: 27 in all layers
+-Loaded Data: 1 in Row: 43  Col: 28 in all layers
+-Loaded Data: 0 in Row: 43  Col: 28 in all layers
+-Loaded Data: 1 in Row: 43  Col: 29 in all layers
+-Loaded Data: 0 in Row: 43  Col: 29 in all layers
+-Loaded Data: 1 in Row: 43  Col: 30 in all layers
+-Loaded Data: 0 in Row: 43  Col: 30 in all layers
+-Loaded Data: 1 in Row: 43  Col: 31 in all layers
+-Loaded Data: 0 in Row: 43  Col: 31 in all layers
+calculated Output shift is  3411
+Using output shift: 0
+No Mismatches!!!, 32 matches
+Everything Works!! Total number of hits = 32
+16:33:13
+Testing Row:42 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 42  Col: 0 in all layers
+-Loaded Data: 0 in Row: 42  Col: 0 in all layers
+-Loaded Data: 1 in Row: 42  Col: 1 in all layers
+-Loaded Data: 0 in Row: 42  Col: 1 in all layers
+-Loaded Data: 1 in Row: 42  Col: 2 in all layers
+-Loaded Data: 0 in Row: 42  Col: 2 in all layers
+-Loaded Data: 1 in Row: 42  Col: 3 in all layers
+-Loaded Data: 0 in Row: 42  Col: 3 in all layers
+-Loaded Data: 1 in Row: 42  Col: 4 in all layers
+-Loaded Data: 0 in Row: 42  Col: 4 in all layers
+-Loaded Data: 1 in Row: 42  Col: 5 in all layers
+-Loaded Data: 0 in Row: 42  Col: 5 in all layers
+-Loaded Data: 1 in Row: 42  Col: 6 in all layers
+-Loaded Data: 0 in Row: 42  Col: 6 in all layers
+-Loaded Data: 1 in Row: 42  Col: 7 in all layers
+-Loaded Data: 0 in Row: 42  Col: 7 in all layers
+-Loaded Data: 1 in Row: 42  Col: 8 in all layers
+-Loaded Data: 0 in Row: 42  Col: 8 in all layers
+-Loaded Data: 1 in Row: 42  Col: 9 in all layers
+-Loaded Data: 0 in Row: 42  Col: 9 in all layers
+-Loaded Data: 1 in Row: 42  Col: 10 in all layers
+-Loaded Data: 0 in Row: 42  Col: 10 in all layers
+-Loaded Data: 1 in Row: 42  Col: 11 in all layers
+-Loaded Data: 0 in Row: 42  Col: 11 in all layers
+-Loaded Data: 1 in Row: 42  Col: 12 in all layers
+-Loaded Data: 0 in Row: 42  Col: 12 in all layers
+-Loaded Data: 1 in Row: 42  Col: 13 in all layers
+-Loaded Data: 0 in Row: 42  Col: 13 in all layers
+-Loaded Data: 1 in Row: 42  Col: 14 in all layers
+-Loaded Data: 0 in Row: 42  Col: 14 in all layers
+-Loaded Data: 1 in Row: 42  Col: 15 in all layers
+-Loaded Data: 0 in Row: 42  Col: 15 in all layers
+-Loaded Data: 1 in Row: 42  Col: 16 in all layers
+-Loaded Data: 0 in Row: 42  Col: 16 in all layers
+-Loaded Data: 1 in Row: 42  Col: 17 in all layers
+-Loaded Data: 0 in Row: 42  Col: 17 in all layers
+-Loaded Data: 1 in Row: 42  Col: 18 in all layers
+-Loaded Data: 0 in Row: 42  Col: 18 in all layers
+-Loaded Data: 1 in Row: 42  Col: 19 in all layers
+-Loaded Data: 0 in Row: 42  Col: 19 in all layers
+-Loaded Data: 1 in Row: 42  Col: 20 in all layers
+-Loaded Data: 0 in Row: 42  Col: 20 in all layers
+-Loaded Data: 1 in Row: 42  Col: 21 in all layers
+-Loaded Data: 0 in Row: 42  Col: 21 in all layers
+-Loaded Data: 1 in Row: 42  Col: 22 in all layers
+-Loaded Data: 0 in Row: 42  Col: 22 in all layers
+-Loaded Data: 1 in Row: 42  Col: 23 in all layers
+-Loaded Data: 0 in Row: 42  Col: 23 in all layers
+-Loaded Data: 1 in Row: 42  Col: 24 in all layers
+-Loaded Data: 0 in Row: 42  Col: 24 in all layers
+-Loaded Data: 1 in Row: 42  Col: 25 in all layers
+-Loaded Data: 0 in Row: 42  Col: 25 in all layers
+-Loaded Data: 1 in Row: 42  Col: 26 in all layers
+-Loaded Data: 0 in Row: 42  Col: 26 in all layers
+-Loaded Data: 1 in Row: 42  Col: 27 in all layers
+-Loaded Data: 0 in Row: 42  Col: 27 in all layers
+-Loaded Data: 1 in Row: 42  Col: 28 in all layers
+-Loaded Data: 0 in Row: 42  Col: 28 in all layers
+-Loaded Data: 1 in Row: 42  Col: 29 in all layers
+-Loaded Data: 0 in Row: 42  Col: 29 in all layers
+-Loaded Data: 1 in Row: 42  Col: 30 in all layers
+-Loaded Data: 0 in Row: 42  Col: 30 in all layers
+-Loaded Data: 1 in Row: 42  Col: 31 in all layers
+-Loaded Data: 0 in Row: 42  Col: 31 in all layers
+calculated Output shift is  -201
+Using output shift: 0
+No Mismatches!!!, 32 matches
+Everything Works!! Total number of hits = 32
+16:33:43
+Testing Row:41 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 41  Col: 0 in all layers
+-Loaded Data: 0 in Row: 41  Col: 0 in all layers
+-Loaded Data: 1 in Row: 41  Col: 1 in all layers
+-Loaded Data: 0 in Row: 41  Col: 1 in all layers
+-Loaded Data: 1 in Row: 41  Col: 2 in all layers
+-Loaded Data: 0 in Row: 41  Col: 2 in all layers
+-Loaded Data: 1 in Row: 41  Col: 3 in all layers
+-Loaded Data: 0 in Row: 41  Col: 3 in all layers
+-Loaded Data: 1 in Row: 41  Col: 4 in all layers
+-Loaded Data: 0 in Row: 41  Col: 4 in all layers
+-Loaded Data: 1 in Row: 41  Col: 5 in all layers
+-Loaded Data: 0 in Row: 41  Col: 5 in all layers
+-Loaded Data: 1 in Row: 41  Col: 6 in all layers
+-Loaded Data: 0 in Row: 41  Col: 6 in all layers
+-Loaded Data: 1 in Row: 41  Col: 7 in all layers
+-Loaded Data: 0 in Row: 41  Col: 7 in all layers
+-Loaded Data: 1 in Row: 41  Col: 8 in all layers
+-Loaded Data: 0 in Row: 41  Col: 8 in all layers
+-Loaded Data: 1 in Row: 41  Col: 9 in all layers
+-Loaded Data: 0 in Row: 41  Col: 9 in all layers
+-Loaded Data: 1 in Row: 41  Col: 10 in all layers
+-Loaded Data: 0 in Row: 41  Col: 10 in all layers
+-Loaded Data: 1 in Row: 41  Col: 11 in all layers
+-Loaded Data: 0 in Row: 41  Col: 11 in all layers
+-Loaded Data: 1 in Row: 41  Col: 12 in all layers
+-Loaded Data: 0 in Row: 41  Col: 12 in all layers
+-Loaded Data: 1 in Row: 41  Col: 13 in all layers
+-Loaded Data: 0 in Row: 41  Col: 13 in all layers
+-Loaded Data: 1 in Row: 41  Col: 14 in all layers
+-Loaded Data: 0 in Row: 41  Col: 14 in all layers
+-Loaded Data: 1 in Row: 41  Col: 15 in all layers
+-Loaded Data: 0 in Row: 41  Col: 15 in all layers
+-Loaded Data: 1 in Row: 41  Col: 16 in all layers
+-Loaded Data: 0 in Row: 41  Col: 16 in all layers
+-Loaded Data: 1 in Row: 41  Col: 17 in all layers
+-Loaded Data: 0 in Row: 41  Col: 17 in all layers
+-Loaded Data: 1 in Row: 41  Col: 18 in all layers
+-Loaded Data: 0 in Row: 41  Col: 18 in all layers
+-Loaded Data: 1 in Row: 41  Col: 19 in all layers
+-Loaded Data: 0 in Row: 41  Col: 19 in all layers
+-Loaded Data: 1 in Row: 41  Col: 20 in all layers
+-Loaded Data: 0 in Row: 41  Col: 20 in all layers
+-Loaded Data: 1 in Row: 41  Col: 21 in all layers
+-Loaded Data: 0 in Row: 41  Col: 21 in all layers
+-Loaded Data: 1 in Row: 41  Col: 22 in all layers
+-Loaded Data: 0 in Row: 41  Col: 22 in all layers
+-Loaded Data: 1 in Row: 41  Col: 23 in all layers
+-Loaded Data: 0 in Row: 41  Col: 23 in all layers
+-Loaded Data: 1 in Row: 41  Col: 24 in all layers
+-Loaded Data: 0 in Row: 41  Col: 24 in all layers
+-Loaded Data: 1 in Row: 41  Col: 25 in all layers
+-Loaded Data: 0 in Row: 41  Col: 25 in all layers
+-Loaded Data: 1 in Row: 41  Col: 26 in all layers
+-Loaded Data: 0 in Row: 41  Col: 26 in all layers
+-Loaded Data: 1 in Row: 41  Col: 27 in all layers
+-Loaded Data: 0 in Row: 41  Col: 27 in all layers
+-Loaded Data: 1 in Row: 41  Col: 28 in all layers
+-Loaded Data: 0 in Row: 41  Col: 28 in all layers
+-Loaded Data: 1 in Row: 41  Col: 29 in all layers
+-Loaded Data: 0 in Row: 41  Col: 29 in all layers
+-Loaded Data: 1 in Row: 41  Col: 30 in all layers
+-Loaded Data: 0 in Row: 41  Col: 30 in all layers
+-Loaded Data: 1 in Row: 41  Col: 31 in all layers
+-Loaded Data: 0 in Row: 41  Col: 31 in all layers
+calculated Output shift is  7245
+Using output shift: 0
+No Mismatches!!!, 32 matches
+Everything Works!! Total number of hits = 32
+16:34:13
+Testing Row:40 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 40  Col: 0 in all layers
+-Loaded Data: 0 in Row: 40  Col: 0 in all layers
+-Loaded Data: 1 in Row: 40  Col: 1 in all layers
+-Loaded Data: 0 in Row: 40  Col: 1 in all layers
+-Loaded Data: 1 in Row: 40  Col: 2 in all layers
+-Loaded Data: 0 in Row: 40  Col: 2 in all layers
+-Loaded Data: 1 in Row: 40  Col: 3 in all layers
+-Loaded Data: 0 in Row: 40  Col: 3 in all layers
+-Loaded Data: 1 in Row: 40  Col: 4 in all layers
+-Loaded Data: 0 in Row: 40  Col: 4 in all layers
+-Loaded Data: 1 in Row: 40  Col: 5 in all layers
+-Loaded Data: 0 in Row: 40  Col: 5 in all layers
+-Loaded Data: 1 in Row: 40  Col: 6 in all layers
+-Loaded Data: 0 in Row: 40  Col: 6 in all layers
+-Loaded Data: 1 in Row: 40  Col: 7 in all layers
+-Loaded Data: 0 in Row: 40  Col: 7 in all layers
+-Loaded Data: 1 in Row: 40  Col: 8 in all layers
+-Loaded Data: 0 in Row: 40  Col: 8 in all layers
+-Loaded Data: 1 in Row: 40  Col: 9 in all layers
+-Loaded Data: 0 in Row: 40  Col: 9 in all layers
+-Loaded Data: 1 in Row: 40  Col: 10 in all layers
+-Loaded Data: 0 in Row: 40  Col: 10 in all layers
+-Loaded Data: 1 in Row: 40  Col: 11 in all layers
+-Loaded Data: 0 in Row: 40  Col: 11 in all layers
+-Loaded Data: 1 in Row: 40  Col: 12 in all layers
+-Loaded Data: 0 in Row: 40  Col: 12 in all layers
+-Loaded Data: 1 in Row: 40  Col: 13 in all layers
+-Loaded Data: 0 in Row: 40  Col: 13 in all layers
+-Loaded Data: 1 in Row: 40  Col: 14 in all layers
+-Loaded Data: 0 in Row: 40  Col: 14 in all layers
+-Loaded Data: 1 in Row: 40  Col: 15 in all layers
+-Loaded Data: 0 in Row: 40  Col: 15 in all layers
+-Loaded Data: 1 in Row: 40  Col: 16 in all layers
+-Loaded Data: 0 in Row: 40  Col: 16 in all layers
+-Loaded Data: 1 in Row: 40  Col: 17 in all layers
+-Loaded Data: 0 in Row: 40  Col: 17 in all layers
+-Loaded Data: 1 in Row: 40  Col: 18 in all layers
+-Loaded Data: 0 in Row: 40  Col: 18 in all layers
+-Loaded Data: 1 in Row: 40  Col: 19 in all layers
+-Loaded Data: 0 in Row: 40  Col: 19 in all layers
+-Loaded Data: 1 in Row: 40  Col: 20 in all layers
+-Loaded Data: 0 in Row: 40  Col: 20 in all layers
+-Loaded Data: 1 in Row: 40  Col: 21 in all layers
+-Loaded Data: 0 in Row: 40  Col: 21 in all layers
+-Loaded Data: 1 in Row: 40  Col: 22 in all layers
+-Loaded Data: 0 in Row: 40  Col: 22 in all layers
+-Loaded Data: 1 in Row: 40  Col: 23 in all layers
+-Loaded Data: 0 in Row: 40  Col: 23 in all layers
+-Loaded Data: 1 in Row: 40  Col: 24 in all layers
+-Loaded Data: 0 in Row: 40  Col: 24 in all layers
+-Loaded Data: 1 in Row: 40  Col: 25 in all layers
+-Loaded Data: 0 in Row: 40  Col: 25 in all layers
+-Loaded Data: 1 in Row: 40  Col: 26 in all layers
+-Loaded Data: 0 in Row: 40  Col: 26 in all layers
+-Loaded Data: 1 in Row: 40  Col: 27 in all layers
+-Loaded Data: 0 in Row: 40  Col: 27 in all layers
+-Loaded Data: 1 in Row: 40  Col: 28 in all layers
+-Loaded Data: 0 in Row: 40  Col: 28 in all layers
+-Loaded Data: 1 in Row: 40  Col: 29 in all layers
+-Loaded Data: 0 in Row: 40  Col: 29 in all layers
+-Loaded Data: 1 in Row: 40  Col: 30 in all layers
+-Loaded Data: 0 in Row: 40  Col: 30 in all layers
+-Loaded Data: 1 in Row: 40  Col: 31 in all layers
+-Loaded Data: 0 in Row: 40  Col: 31 in all layers
+calculated Output shift is  2559
+Using output shift: 0
+No Mismatches!!!, 32 matches
+Everything Works!! Total number of hits = 32
+16:34:43
+Testing Row:39 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 39  Col: 0 in all layers
+-Loaded Data: 0 in Row: 39  Col: 0 in all layers
+-Loaded Data: 1 in Row: 39  Col: 1 in all layers
+-Loaded Data: 0 in Row: 39  Col: 1 in all layers
+-Loaded Data: 1 in Row: 39  Col: 2 in all layers
+-Loaded Data: 0 in Row: 39  Col: 2 in all layers
+-Loaded Data: 1 in Row: 39  Col: 3 in all layers
+-Loaded Data: 0 in Row: 39  Col: 3 in all layers
+-Loaded Data: 1 in Row: 39  Col: 4 in all layers
+-Loaded Data: 0 in Row: 39  Col: 4 in all layers
+-Loaded Data: 1 in Row: 39  Col: 5 in all layers
+-Loaded Data: 0 in Row: 39  Col: 5 in all layers
+-Loaded Data: 1 in Row: 39  Col: 6 in all layers
+-Loaded Data: 0 in Row: 39  Col: 6 in all layers
+-Loaded Data: 1 in Row: 39  Col: 7 in all layers
+-Loaded Data: 0 in Row: 39  Col: 7 in all layers
+-Loaded Data: 1 in Row: 39  Col: 8 in all layers
+-Loaded Data: 0 in Row: 39  Col: 8 in all layers
+-Loaded Data: 1 in Row: 39  Col: 9 in all layers
+-Loaded Data: 0 in Row: 39  Col: 9 in all layers
+-Loaded Data: 1 in Row: 39  Col: 10 in all layers
+-Loaded Data: 0 in Row: 39  Col: 10 in all layers
+-Loaded Data: 1 in Row: 39  Col: 11 in all layers
+-Loaded Data: 0 in Row: 39  Col: 11 in all layers
+-Loaded Data: 1 in Row: 39  Col: 12 in all layers
+-Loaded Data: 0 in Row: 39  Col: 12 in all layers
+-Loaded Data: 1 in Row: 39  Col: 13 in all layers
+-Loaded Data: 0 in Row: 39  Col: 13 in all layers
+-Loaded Data: 1 in Row: 39  Col: 14 in all layers
+-Loaded Data: 0 in Row: 39  Col: 14 in all layers
+-Loaded Data: 1 in Row: 39  Col: 15 in all layers
+-Loaded Data: 0 in Row: 39  Col: 15 in all layers
+-Loaded Data: 1 in Row: 39  Col: 16 in all layers
+-Loaded Data: 0 in Row: 39  Col: 16 in all layers
+-Loaded Data: 1 in Row: 39  Col: 17 in all layers
+-Loaded Data: 0 in Row: 39  Col: 17 in all layers
+-Loaded Data: 1 in Row: 39  Col: 18 in all layers
+-Loaded Data: 0 in Row: 39  Col: 18 in all layers
+-Loaded Data: 1 in Row: 39  Col: 19 in all layers
+-Loaded Data: 0 in Row: 39  Col: 19 in all layers
+-Loaded Data: 1 in Row: 39  Col: 20 in all layers
+-Loaded Data: 0 in Row: 39  Col: 20 in all layers
+-Loaded Data: 1 in Row: 39  Col: 21 in all layers
+-Loaded Data: 0 in Row: 39  Col: 21 in all layers
+-Loaded Data: 1 in Row: 39  Col: 22 in all layers
+-Loaded Data: 0 in Row: 39  Col: 22 in all layers
+-Loaded Data: 1 in Row: 39  Col: 23 in all layers
+-Loaded Data: 0 in Row: 39  Col: 23 in all layers
+-Loaded Data: 1 in Row: 39  Col: 24 in all layers
+-Loaded Data: 0 in Row: 39  Col: 24 in all layers
+-Loaded Data: 1 in Row: 39  Col: 25 in all layers
+-Loaded Data: 0 in Row: 39  Col: 25 in all layers
+-Loaded Data: 1 in Row: 39  Col: 26 in all layers
+-Loaded Data: 0 in Row: 39  Col: 26 in all layers
+-Loaded Data: 1 in Row: 39  Col: 27 in all layers
+-Loaded Data: 0 in Row: 39  Col: 27 in all layers
+-Loaded Data: 1 in Row: 39  Col: 28 in all layers
+-Loaded Data: 0 in Row: 39  Col: 28 in all layers
+-Loaded Data: 1 in Row: 39  Col: 29 in all layers
+-Loaded Data: 0 in Row: 39  Col: 29 in all layers
+-Loaded Data: 1 in Row: 39  Col: 30 in all layers
+-Loaded Data: 0 in Row: 39  Col: 30 in all layers
+-Loaded Data: 1 in Row: 39  Col: 31 in all layers
+-Loaded Data: 0 in Row: 39  Col: 31 in all layers
+calculated Output shift is  2559
+Using output shift: 0
+No Mismatches!!!, 32 matches
+Everything Works!! Total number of hits = 32
+16:35:13
+Testing Row:38 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 38  Col: 0 in all layers
+-Loaded Data: 0 in Row: 38  Col: 0 in all layers
+-Loaded Data: 1 in Row: 38  Col: 1 in all layers
+-Loaded Data: 0 in Row: 38  Col: 1 in all layers
+-Loaded Data: 1 in Row: 38  Col: 2 in all layers
+-Loaded Data: 0 in Row: 38  Col: 2 in all layers
+-Loaded Data: 1 in Row: 38  Col: 3 in all layers
+-Loaded Data: 0 in Row: 38  Col: 3 in all layers
+-Loaded Data: 1 in Row: 38  Col: 4 in all layers
+-Loaded Data: 0 in Row: 38  Col: 4 in all layers
+-Loaded Data: 1 in Row: 38  Col: 5 in all layers
+-Loaded Data: 0 in Row: 38  Col: 5 in all layers
+-Loaded Data: 1 in Row: 38  Col: 6 in all layers
+-Loaded Data: 0 in Row: 38  Col: 6 in all layers
+-Loaded Data: 1 in Row: 38  Col: 7 in all layers
+-Loaded Data: 0 in Row: 38  Col: 7 in all layers
+-Loaded Data: 1 in Row: 38  Col: 8 in all layers
+-Loaded Data: 0 in Row: 38  Col: 8 in all layers
+-Loaded Data: 1 in Row: 38  Col: 9 in all layers
+-Loaded Data: 0 in Row: 38  Col: 9 in all layers
+-Loaded Data: 1 in Row: 38  Col: 10 in all layers
+-Loaded Data: 0 in Row: 38  Col: 10 in all layers
+-Loaded Data: 1 in Row: 38  Col: 11 in all layers
+-Loaded Data: 0 in Row: 38  Col: 11 in all layers
+-Loaded Data: 1 in Row: 38  Col: 12 in all layers
+-Loaded Data: 0 in Row: 38  Col: 12 in all layers
+-Loaded Data: 1 in Row: 38  Col: 13 in all layers
+-Loaded Data: 0 in Row: 38  Col: 13 in all layers
+-Loaded Data: 1 in Row: 38  Col: 14 in all layers
+-Loaded Data: 0 in Row: 38  Col: 14 in all layers
+-Loaded Data: 1 in Row: 38  Col: 15 in all layers
+-Loaded Data: 0 in Row: 38  Col: 15 in all layers
+-Loaded Data: 1 in Row: 38  Col: 16 in all layers
+-Loaded Data: 0 in Row: 38  Col: 16 in all layers
+-Loaded Data: 1 in Row: 38  Col: 17 in all layers
+-Loaded Data: 0 in Row: 38  Col: 17 in all layers
+-Loaded Data: 1 in Row: 38  Col: 18 in all layers
+-Loaded Data: 0 in Row: 38  Col: 18 in all layers
+-Loaded Data: 1 in Row: 38  Col: 19 in all layers
+-Loaded Data: 0 in Row: 38  Col: 19 in all layers
+-Loaded Data: 1 in Row: 38  Col: 20 in all layers
+-Loaded Data: 0 in Row: 38  Col: 20 in all layers
+-Loaded Data: 1 in Row: 38  Col: 21 in all layers
+-Loaded Data: 0 in Row: 38  Col: 21 in all layers
+-Loaded Data: 1 in Row: 38  Col: 22 in all layers
+-Loaded Data: 0 in Row: 38  Col: 22 in all layers
+-Loaded Data: 1 in Row: 38  Col: 23 in all layers
+-Loaded Data: 0 in Row: 38  Col: 23 in all layers
+-Loaded Data: 1 in Row: 38  Col: 24 in all layers
+-Loaded Data: 0 in Row: 38  Col: 24 in all layers
+-Loaded Data: 1 in Row: 38  Col: 25 in all layers
+-Loaded Data: 0 in Row: 38  Col: 25 in all layers
+-Loaded Data: 1 in Row: 38  Col: 26 in all layers
+-Loaded Data: 0 in Row: 38  Col: 26 in all layers
+-Loaded Data: 1 in Row: 38  Col: 27 in all layers
+-Loaded Data: 0 in Row: 38  Col: 27 in all layers
+-Loaded Data: 1 in Row: 38  Col: 28 in all layers
+-Loaded Data: 0 in Row: 38  Col: 28 in all layers
+-Loaded Data: 1 in Row: 38  Col: 29 in all layers
+-Loaded Data: 0 in Row: 38  Col: 29 in all layers
+-Loaded Data: 1 in Row: 38  Col: 30 in all layers
+-Loaded Data: 0 in Row: 38  Col: 30 in all layers
+-Loaded Data: 1 in Row: 38  Col: 31 in all layers
+-Loaded Data: 0 in Row: 38  Col: 31 in all layers
+calculated Output shift is  -201
+Using output shift: 0
+--no match for time slice:  3623 , checkData =  1 row = 38 Column/s Supposed to Match [8]
+There are 1 mismatches!
+There are 31 matches!
+Expected number of hits : 32
+Actual number of hits : 31
+16:35:43
+Testing Row:37 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 37  Col: 0 in all layers
+-Loaded Data: 0 in Row: 37  Col: 0 in all layers
+-Loaded Data: 1 in Row: 37  Col: 1 in all layers
+-Loaded Data: 0 in Row: 37  Col: 1 in all layers
+-Loaded Data: 1 in Row: 37  Col: 2 in all layers
+-Loaded Data: 0 in Row: 37  Col: 2 in all layers
+-Loaded Data: 1 in Row: 37  Col: 3 in all layers
+-Loaded Data: 0 in Row: 37  Col: 3 in all layers
+-Loaded Data: 1 in Row: 37  Col: 4 in all layers
+-Loaded Data: 0 in Row: 37  Col: 4 in all layers
+-Loaded Data: 1 in Row: 37  Col: 5 in all layers
+-Loaded Data: 0 in Row: 37  Col: 5 in all layers
+-Loaded Data: 1 in Row: 37  Col: 6 in all layers
+-Loaded Data: 0 in Row: 37  Col: 6 in all layers
+-Loaded Data: 1 in Row: 37  Col: 7 in all layers
+-Loaded Data: 0 in Row: 37  Col: 7 in all layers
+-Loaded Data: 1 in Row: 37  Col: 8 in all layers
+-Loaded Data: 0 in Row: 37  Col: 8 in all layers
+-Loaded Data: 1 in Row: 37  Col: 9 in all layers
+-Loaded Data: 0 in Row: 37  Col: 9 in all layers
+-Loaded Data: 1 in Row: 37  Col: 10 in all layers
+-Loaded Data: 0 in Row: 37  Col: 10 in all layers
+-Loaded Data: 1 in Row: 37  Col: 11 in all layers
+-Loaded Data: 0 in Row: 37  Col: 11 in all layers
+-Loaded Data: 1 in Row: 37  Col: 12 in all layers
+-Loaded Data: 0 in Row: 37  Col: 12 in all layers
+-Loaded Data: 1 in Row: 37  Col: 13 in all layers
+-Loaded Data: 0 in Row: 37  Col: 13 in all layers
+-Loaded Data: 1 in Row: 37  Col: 14 in all layers
+-Loaded Data: 0 in Row: 37  Col: 14 in all layers
+-Loaded Data: 1 in Row: 37  Col: 15 in all layers
+-Loaded Data: 0 in Row: 37  Col: 15 in all layers
+-Loaded Data: 1 in Row: 37  Col: 16 in all layers
+-Loaded Data: 0 in Row: 37  Col: 16 in all layers
+-Loaded Data: 1 in Row: 37  Col: 17 in all layers
+-Loaded Data: 0 in Row: 37  Col: 17 in all layers
+-Loaded Data: 1 in Row: 37  Col: 18 in all layers
+-Loaded Data: 0 in Row: 37  Col: 18 in all layers
+-Loaded Data: 1 in Row: 37  Col: 19 in all layers
+-Loaded Data: 0 in Row: 37  Col: 19 in all layers
+-Loaded Data: 1 in Row: 37  Col: 20 in all layers
+-Loaded Data: 0 in Row: 37  Col: 20 in all layers
+-Loaded Data: 1 in Row: 37  Col: 21 in all layers
+-Loaded Data: 0 in Row: 37  Col: 21 in all layers
+-Loaded Data: 1 in Row: 37  Col: 22 in all layers
+-Loaded Data: 0 in Row: 37  Col: 22 in all layers
+-Loaded Data: 1 in Row: 37  Col: 23 in all layers
+-Loaded Data: 0 in Row: 37  Col: 23 in all layers
+-Loaded Data: 1 in Row: 37  Col: 24 in all layers
+-Loaded Data: 0 in Row: 37  Col: 24 in all layers
+-Loaded Data: 1 in Row: 37  Col: 25 in all layers
+-Loaded Data: 0 in Row: 37  Col: 25 in all layers
+-Loaded Data: 1 in Row: 37  Col: 26 in all layers
+-Loaded Data: 0 in Row: 37  Col: 26 in all layers
+-Loaded Data: 1 in Row: 37  Col: 27 in all layers
+-Loaded Data: 0 in Row: 37  Col: 27 in all layers
+-Loaded Data: 1 in Row: 37  Col: 28 in all layers
+-Loaded Data: 0 in Row: 37  Col: 28 in all layers
+-Loaded Data: 1 in Row: 37  Col: 29 in all layers
+-Loaded Data: 0 in Row: 37  Col: 29 in all layers
+-Loaded Data: 1 in Row: 37  Col: 30 in all layers
+-Loaded Data: 0 in Row: 37  Col: 30 in all layers
+-Loaded Data: 1 in Row: 37  Col: 31 in all layers
+-Loaded Data: 0 in Row: 37  Col: 31 in all layers
+calculated Output shift is  2559
+Using output shift: 0
+--no match for time slice:  6605 , checkData =  1 row = 37 Column/s Supposed to Match [15]
+There are 1 mismatches!
+There are 31 matches!
+Expected number of hits : 32
+Actual number of hits : 31
+16:36:13
+Testing Row:36 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 36  Col: 0 in all layers
+-Loaded Data: 0 in Row: 36  Col: 0 in all layers
+-Loaded Data: 1 in Row: 36  Col: 1 in all layers
+-Loaded Data: 0 in Row: 36  Col: 1 in all layers
+-Loaded Data: 1 in Row: 36  Col: 2 in all layers
+-Loaded Data: 0 in Row: 36  Col: 2 in all layers
+-Loaded Data: 1 in Row: 36  Col: 3 in all layers
+-Loaded Data: 0 in Row: 36  Col: 3 in all layers
+-Loaded Data: 1 in Row: 36  Col: 4 in all layers
+-Loaded Data: 0 in Row: 36  Col: 4 in all layers
+-Loaded Data: 1 in Row: 36  Col: 5 in all layers
+-Loaded Data: 0 in Row: 36  Col: 5 in all layers
+-Loaded Data: 1 in Row: 36  Col: 6 in all layers
+-Loaded Data: 0 in Row: 36  Col: 6 in all layers
+-Loaded Data: 1 in Row: 36  Col: 7 in all layers
+-Loaded Data: 0 in Row: 36  Col: 7 in all layers
+-Loaded Data: 1 in Row: 36  Col: 8 in all layers
+-Loaded Data: 0 in Row: 36  Col: 8 in all layers
+-Loaded Data: 1 in Row: 36  Col: 9 in all layers
+-Loaded Data: 0 in Row: 36  Col: 9 in all layers
+-Loaded Data: 1 in Row: 36  Col: 10 in all layers
+-Loaded Data: 0 in Row: 36  Col: 10 in all layers
+-Loaded Data: 1 in Row: 36  Col: 11 in all layers
+-Loaded Data: 0 in Row: 36  Col: 11 in all layers
+-Loaded Data: 1 in Row: 36  Col: 12 in all layers
+-Loaded Data: 0 in Row: 36  Col: 12 in all layers
+-Loaded Data: 1 in Row: 36  Col: 13 in all layers
+-Loaded Data: 0 in Row: 36  Col: 13 in all layers
+-Loaded Data: 1 in Row: 36  Col: 14 in all layers
+-Loaded Data: 0 in Row: 36  Col: 14 in all layers
+-Loaded Data: 1 in Row: 36  Col: 15 in all layers
+-Loaded Data: 0 in Row: 36  Col: 15 in all layers
+-Loaded Data: 1 in Row: 36  Col: 16 in all layers
+-Loaded Data: 0 in Row: 36  Col: 16 in all layers
+-Loaded Data: 1 in Row: 36  Col: 17 in all layers
+-Loaded Data: 0 in Row: 36  Col: 17 in all layers
+-Loaded Data: 1 in Row: 36  Col: 18 in all layers
+-Loaded Data: 0 in Row: 36  Col: 18 in all layers
+-Loaded Data: 1 in Row: 36  Col: 19 in all layers
+-Loaded Data: 0 in Row: 36  Col: 19 in all layers
+-Loaded Data: 1 in Row: 36  Col: 20 in all layers
+-Loaded Data: 0 in Row: 36  Col: 20 in all layers
+-Loaded Data: 1 in Row: 36  Col: 21 in all layers
+-Loaded Data: 0 in Row: 36  Col: 21 in all layers
+-Loaded Data: 1 in Row: 36  Col: 22 in all layers
+-Loaded Data: 0 in Row: 36  Col: 22 in all layers
+-Loaded Data: 1 in Row: 36  Col: 23 in all layers
+-Loaded Data: 0 in Row: 36  Col: 23 in all layers
+-Loaded Data: 1 in Row: 36  Col: 24 in all layers
+-Loaded Data: 0 in Row: 36  Col: 24 in all layers
+-Loaded Data: 1 in Row: 36  Col: 25 in all layers
+-Loaded Data: 0 in Row: 36  Col: 25 in all layers
+-Loaded Data: 1 in Row: 36  Col: 26 in all layers
+-Loaded Data: 0 in Row: 36  Col: 26 in all layers
+-Loaded Data: 1 in Row: 36  Col: 27 in all layers
+-Loaded Data: 0 in Row: 36  Col: 27 in all layers
+-Loaded Data: 1 in Row: 36  Col: 28 in all layers
+-Loaded Data: 0 in Row: 36  Col: 28 in all layers
+-Loaded Data: 1 in Row: 36  Col: 29 in all layers
+-Loaded Data: 0 in Row: 36  Col: 29 in all layers
+-Loaded Data: 1 in Row: 36  Col: 30 in all layers
+-Loaded Data: 0 in Row: 36  Col: 30 in all layers
+-Loaded Data: 1 in Row: 36  Col: 31 in all layers
+-Loaded Data: 0 in Row: 36  Col: 31 in all layers
+calculated Output shift is  2559
+Using output shift: 0
+--no match for time slice:  7457 , checkData =  1 row = 36 Column/s Supposed to Match [17]
+There are 1 mismatches!
+There are 31 matches!
+Expected number of hits : 32
+Actual number of hits : 31
+16:36:43
+Testing Row:35 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 35  Col: 0 in all layers
+-Loaded Data: 0 in Row: 35  Col: 0 in all layers
+-Loaded Data: 1 in Row: 35  Col: 1 in all layers
+-Loaded Data: 0 in Row: 35  Col: 1 in all layers
+-Loaded Data: 1 in Row: 35  Col: 2 in all layers
+-Loaded Data: 0 in Row: 35  Col: 2 in all layers
+-Loaded Data: 1 in Row: 35  Col: 3 in all layers
+-Loaded Data: 0 in Row: 35  Col: 3 in all layers
+-Loaded Data: 1 in Row: 35  Col: 4 in all layers
+-Loaded Data: 0 in Row: 35  Col: 4 in all layers
+-Loaded Data: 1 in Row: 35  Col: 5 in all layers
+-Loaded Data: 0 in Row: 35  Col: 5 in all layers
+-Loaded Data: 1 in Row: 35  Col: 6 in all layers
+-Loaded Data: 0 in Row: 35  Col: 6 in all layers
+-Loaded Data: 1 in Row: 35  Col: 7 in all layers
+-Loaded Data: 0 in Row: 35  Col: 7 in all layers
+-Loaded Data: 1 in Row: 35  Col: 8 in all layers
+-Loaded Data: 0 in Row: 35  Col: 8 in all layers
+-Loaded Data: 1 in Row: 35  Col: 9 in all layers
+-Loaded Data: 0 in Row: 35  Col: 9 in all layers
+-Loaded Data: 1 in Row: 35  Col: 10 in all layers
+-Loaded Data: 0 in Row: 35  Col: 10 in all layers
+-Loaded Data: 1 in Row: 35  Col: 11 in all layers
+-Loaded Data: 0 in Row: 35  Col: 11 in all layers
+-Loaded Data: 1 in Row: 35  Col: 12 in all layers
+-Loaded Data: 0 in Row: 35  Col: 12 in all layers
+-Loaded Data: 1 in Row: 35  Col: 13 in all layers
+-Loaded Data: 0 in Row: 35  Col: 13 in all layers
+-Loaded Data: 1 in Row: 35  Col: 14 in all layers
+-Loaded Data: 0 in Row: 35  Col: 14 in all layers
+-Loaded Data: 1 in Row: 35  Col: 15 in all layers
+-Loaded Data: 0 in Row: 35  Col: 15 in all layers
+-Loaded Data: 1 in Row: 35  Col: 16 in all layers
+-Loaded Data: 0 in Row: 35  Col: 16 in all layers
+-Loaded Data: 1 in Row: 35  Col: 17 in all layers
+-Loaded Data: 0 in Row: 35  Col: 17 in all layers
+-Loaded Data: 1 in Row: 35  Col: 18 in all layers
+-Loaded Data: 0 in Row: 35  Col: 18 in all layers
+-Loaded Data: 1 in Row: 35  Col: 19 in all layers
+-Loaded Data: 0 in Row: 35  Col: 19 in all layers
+-Loaded Data: 1 in Row: 35  Col: 20 in all layers
+-Loaded Data: 0 in Row: 35  Col: 20 in all layers
+-Loaded Data: 1 in Row: 35  Col: 21 in all layers
+-Loaded Data: 0 in Row: 35  Col: 21 in all layers
+-Loaded Data: 1 in Row: 35  Col: 22 in all layers
+-Loaded Data: 0 in Row: 35  Col: 22 in all layers
+-Loaded Data: 1 in Row: 35  Col: 23 in all layers
+-Loaded Data: 0 in Row: 35  Col: 23 in all layers
+-Loaded Data: 1 in Row: 35  Col: 24 in all layers
+-Loaded Data: 0 in Row: 35  Col: 24 in all layers
+-Loaded Data: 1 in Row: 35  Col: 25 in all layers
+-Loaded Data: 0 in Row: 35  Col: 25 in all layers
+-Loaded Data: 1 in Row: 35  Col: 26 in all layers
+-Loaded Data: 0 in Row: 35  Col: 26 in all layers
+-Loaded Data: 1 in Row: 35  Col: 27 in all layers
+-Loaded Data: 0 in Row: 35  Col: 27 in all layers
+-Loaded Data: 1 in Row: 35  Col: 28 in all layers
+-Loaded Data: 0 in Row: 35  Col: 28 in all layers
+-Loaded Data: 1 in Row: 35  Col: 29 in all layers
+-Loaded Data: 0 in Row: 35  Col: 29 in all layers
+-Loaded Data: 1 in Row: 35  Col: 30 in all layers
+-Loaded Data: 0 in Row: 35  Col: 30 in all layers
+-Loaded Data: 1 in Row: 35  Col: 31 in all layers
+-Loaded Data: 0 in Row: 35  Col: 31 in all layers
+calculated Output shift is  2559
+Using output shift: 0
+No Mismatches!!!, 32 matches
+Everything Works!! Total number of hits = 32
+16:37:13
+Testing Row:34 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 34  Col: 0 in all layers
+-Loaded Data: 0 in Row: 34  Col: 0 in all layers
+-Loaded Data: 1 in Row: 34  Col: 1 in all layers
+-Loaded Data: 0 in Row: 34  Col: 1 in all layers
+-Loaded Data: 1 in Row: 34  Col: 2 in all layers
+-Loaded Data: 0 in Row: 34  Col: 2 in all layers
+-Loaded Data: 1 in Row: 34  Col: 3 in all layers
+-Loaded Data: 0 in Row: 34  Col: 3 in all layers
+-Loaded Data: 1 in Row: 34  Col: 4 in all layers
+-Loaded Data: 0 in Row: 34  Col: 4 in all layers
+-Loaded Data: 1 in Row: 34  Col: 5 in all layers
+-Loaded Data: 0 in Row: 34  Col: 5 in all layers
+-Loaded Data: 1 in Row: 34  Col: 6 in all layers
+-Loaded Data: 0 in Row: 34  Col: 6 in all layers
+-Loaded Data: 1 in Row: 34  Col: 7 in all layers
+-Loaded Data: 0 in Row: 34  Col: 7 in all layers
+-Loaded Data: 1 in Row: 34  Col: 8 in all layers
+-Loaded Data: 0 in Row: 34  Col: 8 in all layers
+-Loaded Data: 1 in Row: 34  Col: 9 in all layers
+-Loaded Data: 0 in Row: 34  Col: 9 in all layers
+-Loaded Data: 1 in Row: 34  Col: 10 in all layers
+-Loaded Data: 0 in Row: 34  Col: 10 in all layers
+-Loaded Data: 1 in Row: 34  Col: 11 in all layers
+-Loaded Data: 0 in Row: 34  Col: 11 in all layers
+-Loaded Data: 1 in Row: 34  Col: 12 in all layers
+-Loaded Data: 0 in Row: 34  Col: 12 in all layers
+-Loaded Data: 1 in Row: 34  Col: 13 in all layers
+-Loaded Data: 0 in Row: 34  Col: 13 in all layers
+-Loaded Data: 1 in Row: 34  Col: 14 in all layers
+-Loaded Data: 0 in Row: 34  Col: 14 in all layers
+-Loaded Data: 1 in Row: 34  Col: 15 in all layers
+-Loaded Data: 0 in Row: 34  Col: 15 in all layers
+-Loaded Data: 1 in Row: 34  Col: 16 in all layers
+-Loaded Data: 0 in Row: 34  Col: 16 in all layers
+-Loaded Data: 1 in Row: 34  Col: 17 in all layers
+-Loaded Data: 0 in Row: 34  Col: 17 in all layers
+-Loaded Data: 1 in Row: 34  Col: 18 in all layers
+-Loaded Data: 0 in Row: 34  Col: 18 in all layers
+-Loaded Data: 1 in Row: 34  Col: 19 in all layers
+-Loaded Data: 0 in Row: 34  Col: 19 in all layers
+-Loaded Data: 1 in Row: 34  Col: 20 in all layers
+-Loaded Data: 0 in Row: 34  Col: 20 in all layers
+-Loaded Data: 1 in Row: 34  Col: 21 in all layers
+-Loaded Data: 0 in Row: 34  Col: 21 in all layers
+-Loaded Data: 1 in Row: 34  Col: 22 in all layers
+-Loaded Data: 0 in Row: 34  Col: 22 in all layers
+-Loaded Data: 1 in Row: 34  Col: 23 in all layers
+-Loaded Data: 0 in Row: 34  Col: 23 in all layers
+-Loaded Data: 1 in Row: 34  Col: 24 in all layers
+-Loaded Data: 0 in Row: 34  Col: 24 in all layers
+-Loaded Data: 1 in Row: 34  Col: 25 in all layers
+-Loaded Data: 0 in Row: 34  Col: 25 in all layers
+-Loaded Data: 1 in Row: 34  Col: 26 in all layers
+-Loaded Data: 0 in Row: 34  Col: 26 in all layers
+-Loaded Data: 1 in Row: 34  Col: 27 in all layers
+-Loaded Data: 0 in Row: 34  Col: 27 in all layers
+-Loaded Data: 1 in Row: 34  Col: 28 in all layers
+-Loaded Data: 0 in Row: 34  Col: 28 in all layers
+-Loaded Data: 1 in Row: 34  Col: 29 in all layers
+-Loaded Data: 0 in Row: 34  Col: 29 in all layers
+-Loaded Data: 1 in Row: 34  Col: 30 in all layers
+-Loaded Data: 0 in Row: 34  Col: 30 in all layers
+-Loaded Data: 1 in Row: 34  Col: 31 in all layers
+-Loaded Data: 0 in Row: 34  Col: 31 in all layers
+calculated Output shift is  -201
+Using output shift: 0
+No Mismatches!!!, 32 matches
+Everything Works!! Total number of hits = 32
+16:37:43
+Testing Row:33 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 33  Col: 0 in all layers
+-Loaded Data: 0 in Row: 33  Col: 0 in all layers
+-Loaded Data: 1 in Row: 33  Col: 1 in all layers
+-Loaded Data: 0 in Row: 33  Col: 1 in all layers
+-Loaded Data: 1 in Row: 33  Col: 2 in all layers
+-Loaded Data: 0 in Row: 33  Col: 2 in all layers
+-Loaded Data: 1 in Row: 33  Col: 3 in all layers
+-Loaded Data: 0 in Row: 33  Col: 3 in all layers
+-Loaded Data: 1 in Row: 33  Col: 4 in all layers
+-Loaded Data: 0 in Row: 33  Col: 4 in all layers
+-Loaded Data: 1 in Row: 33  Col: 5 in all layers
+-Loaded Data: 0 in Row: 33  Col: 5 in all layers
+-Loaded Data: 1 in Row: 33  Col: 6 in all layers
+-Loaded Data: 0 in Row: 33  Col: 6 in all layers
+-Loaded Data: 1 in Row: 33  Col: 7 in all layers
+-Loaded Data: 0 in Row: 33  Col: 7 in all layers
+-Loaded Data: 1 in Row: 33  Col: 8 in all layers
+-Loaded Data: 0 in Row: 33  Col: 8 in all layers
+-Loaded Data: 1 in Row: 33  Col: 9 in all layers
+-Loaded Data: 0 in Row: 33  Col: 9 in all layers
+-Loaded Data: 1 in Row: 33  Col: 10 in all layers
+-Loaded Data: 0 in Row: 33  Col: 10 in all layers
+-Loaded Data: 1 in Row: 33  Col: 11 in all layers
+-Loaded Data: 0 in Row: 33  Col: 11 in all layers
+-Loaded Data: 1 in Row: 33  Col: 12 in all layers
+-Loaded Data: 0 in Row: 33  Col: 12 in all layers
+-Loaded Data: 1 in Row: 33  Col: 13 in all layers
+-Loaded Data: 0 in Row: 33  Col: 13 in all layers
+-Loaded Data: 1 in Row: 33  Col: 14 in all layers
+-Loaded Data: 0 in Row: 33  Col: 14 in all layers
+-Loaded Data: 1 in Row: 33  Col: 15 in all layers
+-Loaded Data: 0 in Row: 33  Col: 15 in all layers
+-Loaded Data: 1 in Row: 33  Col: 16 in all layers
+-Loaded Data: 0 in Row: 33  Col: 16 in all layers
+-Loaded Data: 1 in Row: 33  Col: 17 in all layers
+-Loaded Data: 0 in Row: 33  Col: 17 in all layers
+-Loaded Data: 1 in Row: 33  Col: 18 in all layers
+-Loaded Data: 0 in Row: 33  Col: 18 in all layers
+-Loaded Data: 1 in Row: 33  Col: 19 in all layers
+-Loaded Data: 0 in Row: 33  Col: 19 in all layers
+-Loaded Data: 1 in Row: 33  Col: 20 in all layers
+-Loaded Data: 0 in Row: 33  Col: 20 in all layers
+-Loaded Data: 1 in Row: 33  Col: 21 in all layers
+-Loaded Data: 0 in Row: 33  Col: 21 in all layers
+-Loaded Data: 1 in Row: 33  Col: 22 in all layers
+-Loaded Data: 0 in Row: 33  Col: 22 in all layers
+-Loaded Data: 1 in Row: 33  Col: 23 in all layers
+-Loaded Data: 0 in Row: 33  Col: 23 in all layers
+-Loaded Data: 1 in Row: 33  Col: 24 in all layers
+-Loaded Data: 0 in Row: 33  Col: 24 in all layers
+-Loaded Data: 1 in Row: 33  Col: 25 in all layers
+-Loaded Data: 0 in Row: 33  Col: 25 in all layers
+-Loaded Data: 1 in Row: 33  Col: 26 in all layers
+-Loaded Data: 0 in Row: 33  Col: 26 in all layers
+-Loaded Data: 1 in Row: 33  Col: 27 in all layers
+-Loaded Data: 0 in Row: 33  Col: 27 in all layers
+-Loaded Data: 1 in Row: 33  Col: 28 in all layers
+-Loaded Data: 0 in Row: 33  Col: 28 in all layers
+-Loaded Data: 1 in Row: 33  Col: 29 in all layers
+-Loaded Data: 0 in Row: 33  Col: 29 in all layers
+-Loaded Data: 1 in Row: 33  Col: 30 in all layers
+-Loaded Data: 0 in Row: 33  Col: 30 in all layers
+-Loaded Data: 1 in Row: 33  Col: 31 in all layers
+-Loaded Data: 0 in Row: 33  Col: 31 in all layers
+calculated Output shift is  1707
+Using output shift: 0
+No Mismatches!!!, 32 matches
+Everything Works!! Total number of hits = 32
+16:38:12
+Testing Row:32 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 32  Col: 0 in all layers
+-Loaded Data: 0 in Row: 32  Col: 0 in all layers
+-Loaded Data: 1 in Row: 32  Col: 1 in all layers
+-Loaded Data: 0 in Row: 32  Col: 1 in all layers
+-Loaded Data: 1 in Row: 32  Col: 2 in all layers
+-Loaded Data: 0 in Row: 32  Col: 2 in all layers
+-Loaded Data: 1 in Row: 32  Col: 3 in all layers
+-Loaded Data: 0 in Row: 32  Col: 3 in all layers
+-Loaded Data: 1 in Row: 32  Col: 4 in all layers
+-Loaded Data: 0 in Row: 32  Col: 4 in all layers
+-Loaded Data: 1 in Row: 32  Col: 5 in all layers
+-Loaded Data: 0 in Row: 32  Col: 5 in all layers
+-Loaded Data: 1 in Row: 32  Col: 6 in all layers
+-Loaded Data: 0 in Row: 32  Col: 6 in all layers
+-Loaded Data: 1 in Row: 32  Col: 7 in all layers
+-Loaded Data: 0 in Row: 32  Col: 7 in all layers
+-Loaded Data: 1 in Row: 32  Col: 8 in all layers
+-Loaded Data: 0 in Row: 32  Col: 8 in all layers
+-Loaded Data: 1 in Row: 32  Col: 9 in all layers
+-Loaded Data: 0 in Row: 32  Col: 9 in all layers
+-Loaded Data: 1 in Row: 32  Col: 10 in all layers
+-Loaded Data: 0 in Row: 32  Col: 10 in all layers
+-Loaded Data: 1 in Row: 32  Col: 11 in all layers
+-Loaded Data: 0 in Row: 32  Col: 11 in all layers
+-Loaded Data: 1 in Row: 32  Col: 12 in all layers
+-Loaded Data: 0 in Row: 32  Col: 12 in all layers
+-Loaded Data: 1 in Row: 32  Col: 13 in all layers
+-Loaded Data: 0 in Row: 32  Col: 13 in all layers
+-Loaded Data: 1 in Row: 32  Col: 14 in all layers
+-Loaded Data: 0 in Row: 32  Col: 14 in all layers
+-Loaded Data: 1 in Row: 32  Col: 15 in all layers
+-Loaded Data: 0 in Row: 32  Col: 15 in all layers
+-Loaded Data: 1 in Row: 32  Col: 16 in all layers
+-Loaded Data: 0 in Row: 32  Col: 16 in all layers
+-Loaded Data: 1 in Row: 32  Col: 17 in all layers
+-Loaded Data: 0 in Row: 32  Col: 17 in all layers
+-Loaded Data: 1 in Row: 32  Col: 18 in all layers
+-Loaded Data: 0 in Row: 32  Col: 18 in all layers
+-Loaded Data: 1 in Row: 32  Col: 19 in all layers
+-Loaded Data: 0 in Row: 32  Col: 19 in all layers
+-Loaded Data: 1 in Row: 32  Col: 20 in all layers
+-Loaded Data: 0 in Row: 32  Col: 20 in all layers
+-Loaded Data: 1 in Row: 32  Col: 21 in all layers
+-Loaded Data: 0 in Row: 32  Col: 21 in all layers
+-Loaded Data: 1 in Row: 32  Col: 22 in all layers
+-Loaded Data: 0 in Row: 32  Col: 22 in all layers
+-Loaded Data: 1 in Row: 32  Col: 23 in all layers
+-Loaded Data: 0 in Row: 32  Col: 23 in all layers
+-Loaded Data: 1 in Row: 32  Col: 24 in all layers
+-Loaded Data: 0 in Row: 32  Col: 24 in all layers
+-Loaded Data: 1 in Row: 32  Col: 25 in all layers
+-Loaded Data: 0 in Row: 32  Col: 25 in all layers
+-Loaded Data: 1 in Row: 32  Col: 26 in all layers
+-Loaded Data: 0 in Row: 32  Col: 26 in all layers
+-Loaded Data: 1 in Row: 32  Col: 27 in all layers
+-Loaded Data: 0 in Row: 32  Col: 27 in all layers
+-Loaded Data: 1 in Row: 32  Col: 28 in all layers
+-Loaded Data: 0 in Row: 32  Col: 28 in all layers
+-Loaded Data: 1 in Row: 32  Col: 29 in all layers
+-Loaded Data: 0 in Row: 32  Col: 29 in all layers
+-Loaded Data: 1 in Row: 32  Col: 30 in all layers
+-Loaded Data: 0 in Row: 32  Col: 30 in all layers
+-Loaded Data: 1 in Row: 32  Col: 31 in all layers
+-Loaded Data: 0 in Row: 32  Col: 31 in all layers
+calculated Output shift is  1281
+Using output shift: 0
+--no match for time slice:  10013 , checkData =  1 row = 32 Column/s Supposed to Match [23]
+There are 1 mismatches!
+There are 31 matches!
+Expected number of hits : 32
+Actual number of hits : 31
+16:38:42
+Testing Row:31 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 31  Col: 0 in all layers
+-Loaded Data: 0 in Row: 31  Col: 0 in all layers
+-Loaded Data: 1 in Row: 31  Col: 1 in all layers
+-Loaded Data: 0 in Row: 31  Col: 1 in all layers
+-Loaded Data: 1 in Row: 31  Col: 2 in all layers
+-Loaded Data: 0 in Row: 31  Col: 2 in all layers
+-Loaded Data: 1 in Row: 31  Col: 3 in all layers
+-Loaded Data: 0 in Row: 31  Col: 3 in all layers
+-Loaded Data: 1 in Row: 31  Col: 4 in all layers
+-Loaded Data: 0 in Row: 31  Col: 4 in all layers
+-Loaded Data: 1 in Row: 31  Col: 5 in all layers
+-Loaded Data: 0 in Row: 31  Col: 5 in all layers
+-Loaded Data: 1 in Row: 31  Col: 6 in all layers
+-Loaded Data: 0 in Row: 31  Col: 6 in all layers
+-Loaded Data: 1 in Row: 31  Col: 7 in all layers
+-Loaded Data: 0 in Row: 31  Col: 7 in all layers
+-Loaded Data: 1 in Row: 31  Col: 8 in all layers
+-Loaded Data: 0 in Row: 31  Col: 8 in all layers
+-Loaded Data: 1 in Row: 31  Col: 9 in all layers
+-Loaded Data: 0 in Row: 31  Col: 9 in all layers
+-Loaded Data: 1 in Row: 31  Col: 10 in all layers
+-Loaded Data: 0 in Row: 31  Col: 10 in all layers
+-Loaded Data: 1 in Row: 31  Col: 11 in all layers
+-Loaded Data: 0 in Row: 31  Col: 11 in all layers
+-Loaded Data: 1 in Row: 31  Col: 12 in all layers
+-Loaded Data: 0 in Row: 31  Col: 12 in all layers
+-Loaded Data: 1 in Row: 31  Col: 13 in all layers
+-Loaded Data: 0 in Row: 31  Col: 13 in all layers
+-Loaded Data: 1 in Row: 31  Col: 14 in all layers
+-Loaded Data: 0 in Row: 31  Col: 14 in all layers
+-Loaded Data: 1 in Row: 31  Col: 15 in all layers
+-Loaded Data: 0 in Row: 31  Col: 15 in all layers
+-Loaded Data: 1 in Row: 31  Col: 16 in all layers
+-Loaded Data: 0 in Row: 31  Col: 16 in all layers
+-Loaded Data: 1 in Row: 31  Col: 17 in all layers
+-Loaded Data: 0 in Row: 31  Col: 17 in all layers
+-Loaded Data: 1 in Row: 31  Col: 18 in all layers
+-Loaded Data: 0 in Row: 31  Col: 18 in all layers
+-Loaded Data: 1 in Row: 31  Col: 19 in all layers
+-Loaded Data: 0 in Row: 31  Col: 19 in all layers
+-Loaded Data: 1 in Row: 31  Col: 20 in all layers
+-Loaded Data: 0 in Row: 31  Col: 20 in all layers
+-Loaded Data: 1 in Row: 31  Col: 21 in all layers
+-Loaded Data: 0 in Row: 31  Col: 21 in all layers
+-Loaded Data: 1 in Row: 31  Col: 22 in all layers
+-Loaded Data: 0 in Row: 31  Col: 22 in all layers
+-Loaded Data: 1 in Row: 31  Col: 23 in all layers
+-Loaded Data: 0 in Row: 31  Col: 23 in all layers
+-Loaded Data: 1 in Row: 31  Col: 24 in all layers
+-Loaded Data: 0 in Row: 31  Col: 24 in all layers
+-Loaded Data: 1 in Row: 31  Col: 25 in all layers
+-Loaded Data: 0 in Row: 31  Col: 25 in all layers
+-Loaded Data: 1 in Row: 31  Col: 26 in all layers
+-Loaded Data: 0 in Row: 31  Col: 26 in all layers
+-Loaded Data: 1 in Row: 31  Col: 27 in all layers
+-Loaded Data: 0 in Row: 31  Col: 27 in all layers
+-Loaded Data: 1 in Row: 31  Col: 28 in all layers
+-Loaded Data: 0 in Row: 31  Col: 28 in all layers
+-Loaded Data: 1 in Row: 31  Col: 29 in all layers
+-Loaded Data: 0 in Row: 31  Col: 29 in all layers
+-Loaded Data: 1 in Row: 31  Col: 30 in all layers
+-Loaded Data: 0 in Row: 31  Col: 30 in all layers
+-Loaded Data: 1 in Row: 31  Col: 31 in all layers
+-Loaded Data: 0 in Row: 31  Col: 31 in all layers
+calculated Output shift is  2985
+Using output shift: 0
+No Mismatches!!!, 32 matches
+Everything Works!! Total number of hits = 32
+16:39:12
+Testing Row:30 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 30  Col: 0 in all layers
+-Loaded Data: 0 in Row: 30  Col: 0 in all layers
+-Loaded Data: 1 in Row: 30  Col: 1 in all layers
+-Loaded Data: 0 in Row: 30  Col: 1 in all layers
+-Loaded Data: 1 in Row: 30  Col: 2 in all layers
+-Loaded Data: 0 in Row: 30  Col: 2 in all layers
+-Loaded Data: 1 in Row: 30  Col: 3 in all layers
+-Loaded Data: 0 in Row: 30  Col: 3 in all layers
+-Loaded Data: 1 in Row: 30  Col: 4 in all layers
+-Loaded Data: 0 in Row: 30  Col: 4 in all layers
+-Loaded Data: 1 in Row: 30  Col: 5 in all layers
+-Loaded Data: 0 in Row: 30  Col: 5 in all layers
+-Loaded Data: 1 in Row: 30  Col: 6 in all layers
+-Loaded Data: 0 in Row: 30  Col: 6 in all layers
+-Loaded Data: 1 in Row: 30  Col: 7 in all layers
+-Loaded Data: 0 in Row: 30  Col: 7 in all layers
+-Loaded Data: 1 in Row: 30  Col: 8 in all layers
+-Loaded Data: 0 in Row: 30  Col: 8 in all layers
+-Loaded Data: 1 in Row: 30  Col: 9 in all layers
+-Loaded Data: 0 in Row: 30  Col: 9 in all layers
+-Loaded Data: 1 in Row: 30  Col: 10 in all layers
+-Loaded Data: 0 in Row: 30  Col: 10 in all layers
+-Loaded Data: 1 in Row: 30  Col: 11 in all layers
+-Loaded Data: 0 in Row: 30  Col: 11 in all layers
+-Loaded Data: 1 in Row: 30  Col: 12 in all layers
+-Loaded Data: 0 in Row: 30  Col: 12 in all layers
+-Loaded Data: 1 in Row: 30  Col: 13 in all layers
+-Loaded Data: 0 in Row: 30  Col: 13 in all layers
+-Loaded Data: 1 in Row: 30  Col: 14 in all layers
+-Loaded Data: 0 in Row: 30  Col: 14 in all layers
+-Loaded Data: 1 in Row: 30  Col: 15 in all layers
+-Loaded Data: 0 in Row: 30  Col: 15 in all layers
+-Loaded Data: 1 in Row: 30  Col: 16 in all layers
+-Loaded Data: 0 in Row: 30  Col: 16 in all layers
+-Loaded Data: 1 in Row: 30  Col: 17 in all layers
+-Loaded Data: 0 in Row: 30  Col: 17 in all layers
+-Loaded Data: 1 in Row: 30  Col: 18 in all layers
+-Loaded Data: 0 in Row: 30  Col: 18 in all layers
+-Loaded Data: 1 in Row: 30  Col: 19 in all layers
+-Loaded Data: 0 in Row: 30  Col: 19 in all layers
+-Loaded Data: 1 in Row: 30  Col: 20 in all layers
+-Loaded Data: 0 in Row: 30  Col: 20 in all layers
+-Loaded Data: 1 in Row: 30  Col: 21 in all layers
+-Loaded Data: 0 in Row: 30  Col: 21 in all layers
+-Loaded Data: 1 in Row: 30  Col: 22 in all layers
+-Loaded Data: 0 in Row: 30  Col: 22 in all layers
+-Loaded Data: 1 in Row: 30  Col: 23 in all layers
+-Loaded Data: 0 in Row: 30  Col: 23 in all layers
+-Loaded Data: 1 in Row: 30  Col: 24 in all layers
+-Loaded Data: 0 in Row: 30  Col: 24 in all layers
+-Loaded Data: 1 in Row: 30  Col: 25 in all layers
+-Loaded Data: 0 in Row: 30  Col: 25 in all layers
+-Loaded Data: 1 in Row: 30  Col: 26 in all layers
+-Loaded Data: 0 in Row: 30  Col: 26 in all layers
+-Loaded Data: 1 in Row: 30  Col: 27 in all layers
+-Loaded Data: 0 in Row: 30  Col: 27 in all layers
+-Loaded Data: 1 in Row: 30  Col: 28 in all layers
+-Loaded Data: 0 in Row: 30  Col: 28 in all layers
+-Loaded Data: 1 in Row: 30  Col: 29 in all layers
+-Loaded Data: 0 in Row: 30  Col: 29 in all layers
+-Loaded Data: 1 in Row: 30  Col: 30 in all layers
+-Loaded Data: 0 in Row: 30  Col: 30 in all layers
+-Loaded Data: 1 in Row: 30  Col: 31 in all layers
+-Loaded Data: 0 in Row: 30  Col: 31 in all layers
+calculated Output shift is  -201
+Using output shift: 0
+--no match for time slice:  6605 , checkData =  1 row = 30 Column/s Supposed to Match [15]
+There are 1 mismatches!
+There are 31 matches!
+Expected number of hits : 32
+Actual number of hits : 31
+16:39:42
+Testing Row:29 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 29  Col: 0 in all layers
+-Loaded Data: 0 in Row: 29  Col: 0 in all layers
+-Loaded Data: 1 in Row: 29  Col: 1 in all layers
+-Loaded Data: 0 in Row: 29  Col: 1 in all layers
+-Loaded Data: 1 in Row: 29  Col: 2 in all layers
+-Loaded Data: 0 in Row: 29  Col: 2 in all layers
+-Loaded Data: 1 in Row: 29  Col: 3 in all layers
+-Loaded Data: 0 in Row: 29  Col: 3 in all layers
+-Loaded Data: 1 in Row: 29  Col: 4 in all layers
+-Loaded Data: 0 in Row: 29  Col: 4 in all layers
+-Loaded Data: 1 in Row: 29  Col: 5 in all layers
+-Loaded Data: 0 in Row: 29  Col: 5 in all layers
+-Loaded Data: 1 in Row: 29  Col: 6 in all layers
+-Loaded Data: 0 in Row: 29  Col: 6 in all layers
+-Loaded Data: 1 in Row: 29  Col: 7 in all layers
+-Loaded Data: 0 in Row: 29  Col: 7 in all layers
+-Loaded Data: 1 in Row: 29  Col: 8 in all layers
+-Loaded Data: 0 in Row: 29  Col: 8 in all layers
+-Loaded Data: 1 in Row: 29  Col: 9 in all layers
+-Loaded Data: 0 in Row: 29  Col: 9 in all layers
+-Loaded Data: 1 in Row: 29  Col: 10 in all layers
+-Loaded Data: 0 in Row: 29  Col: 10 in all layers
+-Loaded Data: 1 in Row: 29  Col: 11 in all layers
+-Loaded Data: 0 in Row: 29  Col: 11 in all layers
+-Loaded Data: 1 in Row: 29  Col: 12 in all layers
+-Loaded Data: 0 in Row: 29  Col: 12 in all layers
+-Loaded Data: 1 in Row: 29  Col: 13 in all layers
+-Loaded Data: 0 in Row: 29  Col: 13 in all layers
+-Loaded Data: 1 in Row: 29  Col: 14 in all layers
+-Loaded Data: 0 in Row: 29  Col: 14 in all layers
+-Loaded Data: 1 in Row: 29  Col: 15 in all layers
+-Loaded Data: 0 in Row: 29  Col: 15 in all layers
+-Loaded Data: 1 in Row: 29  Col: 16 in all layers
+-Loaded Data: 0 in Row: 29  Col: 16 in all layers
+-Loaded Data: 1 in Row: 29  Col: 17 in all layers
+-Loaded Data: 0 in Row: 29  Col: 17 in all layers
+-Loaded Data: 1 in Row: 29  Col: 18 in all layers
+-Loaded Data: 0 in Row: 29  Col: 18 in all layers
+-Loaded Data: 1 in Row: 29  Col: 19 in all layers
+-Loaded Data: 0 in Row: 29  Col: 19 in all layers
+-Loaded Data: 1 in Row: 29  Col: 20 in all layers
+-Loaded Data: 0 in Row: 29  Col: 20 in all layers
+-Loaded Data: 1 in Row: 29  Col: 21 in all layers
+-Loaded Data: 0 in Row: 29  Col: 21 in all layers
+-Loaded Data: 1 in Row: 29  Col: 22 in all layers
+-Loaded Data: 0 in Row: 29  Col: 22 in all layers
+-Loaded Data: 1 in Row: 29  Col: 23 in all layers
+-Loaded Data: 0 in Row: 29  Col: 23 in all layers
+-Loaded Data: 1 in Row: 29  Col: 24 in all layers
+-Loaded Data: 0 in Row: 29  Col: 24 in all layers
+-Loaded Data: 1 in Row: 29  Col: 25 in all layers
+-Loaded Data: 0 in Row: 29  Col: 25 in all layers
+-Loaded Data: 1 in Row: 29  Col: 26 in all layers
+-Loaded Data: 0 in Row: 29  Col: 26 in all layers
+-Loaded Data: 1 in Row: 29  Col: 27 in all layers
+-Loaded Data: 0 in Row: 29  Col: 27 in all layers
+-Loaded Data: 1 in Row: 29  Col: 28 in all layers
+-Loaded Data: 0 in Row: 29  Col: 28 in all layers
+-Loaded Data: 1 in Row: 29  Col: 29 in all layers
+-Loaded Data: 0 in Row: 29  Col: 29 in all layers
+-Loaded Data: 1 in Row: 29  Col: 30 in all layers
+-Loaded Data: 0 in Row: 29  Col: 30 in all layers
+-Loaded Data: 1 in Row: 29  Col: 31 in all layers
+-Loaded Data: 0 in Row: 29  Col: 31 in all layers
+calculated Output shift is  855
+Using output shift: 0
+--no match for time slice:  6179 , checkData =  1 row = 29 Column/s Supposed to Match [14]
+--no match for time slice:  8309 , checkData =  1 row = 29 Column/s Supposed to Match [19]
+There are 2 mismatches!
+There are 30 matches!
+Expected number of hits : 32
+Actual number of hits : 30
+16:40:12
+Testing Row:28 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 28  Col: 0 in all layers
+-Loaded Data: 0 in Row: 28  Col: 0 in all layers
+-Loaded Data: 1 in Row: 28  Col: 1 in all layers
+-Loaded Data: 0 in Row: 28  Col: 1 in all layers
+-Loaded Data: 1 in Row: 28  Col: 2 in all layers
+-Loaded Data: 0 in Row: 28  Col: 2 in all layers
+-Loaded Data: 1 in Row: 28  Col: 3 in all layers
+-Loaded Data: 0 in Row: 28  Col: 3 in all layers
+-Loaded Data: 1 in Row: 28  Col: 4 in all layers
+-Loaded Data: 0 in Row: 28  Col: 4 in all layers
+-Loaded Data: 1 in Row: 28  Col: 5 in all layers
+-Loaded Data: 0 in Row: 28  Col: 5 in all layers
+-Loaded Data: 1 in Row: 28  Col: 6 in all layers
+-Loaded Data: 0 in Row: 28  Col: 6 in all layers
+-Loaded Data: 1 in Row: 28  Col: 7 in all layers
+-Loaded Data: 0 in Row: 28  Col: 7 in all layers
+-Loaded Data: 1 in Row: 28  Col: 8 in all layers
+-Loaded Data: 0 in Row: 28  Col: 8 in all layers
+-Loaded Data: 1 in Row: 28  Col: 9 in all layers
+-Loaded Data: 0 in Row: 28  Col: 9 in all layers
+-Loaded Data: 1 in Row: 28  Col: 10 in all layers
+-Loaded Data: 0 in Row: 28  Col: 10 in all layers
+-Loaded Data: 1 in Row: 28  Col: 11 in all layers
+-Loaded Data: 0 in Row: 28  Col: 11 in all layers
+-Loaded Data: 1 in Row: 28  Col: 12 in all layers
+-Loaded Data: 0 in Row: 28  Col: 12 in all layers
+-Loaded Data: 1 in Row: 28  Col: 13 in all layers
+-Loaded Data: 0 in Row: 28  Col: 13 in all layers
+-Loaded Data: 1 in Row: 28  Col: 14 in all layers
+-Loaded Data: 0 in Row: 28  Col: 14 in all layers
+-Loaded Data: 1 in Row: 28  Col: 15 in all layers
+-Loaded Data: 0 in Row: 28  Col: 15 in all layers
+-Loaded Data: 1 in Row: 28  Col: 16 in all layers
+-Loaded Data: 0 in Row: 28  Col: 16 in all layers
+-Loaded Data: 1 in Row: 28  Col: 17 in all layers
+-Loaded Data: 0 in Row: 28  Col: 17 in all layers
+-Loaded Data: 1 in Row: 28  Col: 18 in all layers
+-Loaded Data: 0 in Row: 28  Col: 18 in all layers
+-Loaded Data: 1 in Row: 28  Col: 19 in all layers
+-Loaded Data: 0 in Row: 28  Col: 19 in all layers
+-Loaded Data: 1 in Row: 28  Col: 20 in all layers
+-Loaded Data: 0 in Row: 28  Col: 20 in all layers
+-Loaded Data: 1 in Row: 28  Col: 21 in all layers
+-Loaded Data: 0 in Row: 28  Col: 21 in all layers
+-Loaded Data: 1 in Row: 28  Col: 22 in all layers
+-Loaded Data: 0 in Row: 28  Col: 22 in all layers
+-Loaded Data: 1 in Row: 28  Col: 23 in all layers
+-Loaded Data: 0 in Row: 28  Col: 23 in all layers
+-Loaded Data: 1 in Row: 28  Col: 24 in all layers
+-Loaded Data: 0 in Row: 28  Col: 24 in all layers
+-Loaded Data: 1 in Row: 28  Col: 25 in all layers
+-Loaded Data: 0 in Row: 28  Col: 25 in all layers
+-Loaded Data: 1 in Row: 28  Col: 26 in all layers
+-Loaded Data: 0 in Row: 28  Col: 26 in all layers
+-Loaded Data: 1 in Row: 28  Col: 27 in all layers
+-Loaded Data: 0 in Row: 28  Col: 27 in all layers
+-Loaded Data: 1 in Row: 28  Col: 28 in all layers
+-Loaded Data: 0 in Row: 28  Col: 28 in all layers
+-Loaded Data: 1 in Row: 28  Col: 29 in all layers
+-Loaded Data: 0 in Row: 28  Col: 29 in all layers
+-Loaded Data: 1 in Row: 28  Col: 30 in all layers
+-Loaded Data: 0 in Row: 28  Col: 30 in all layers
+-Loaded Data: 1 in Row: 28  Col: 31 in all layers
+-Loaded Data: 0 in Row: 28  Col: 31 in all layers
+calculated Output shift is  3455
+Using output shift: 0
+--no match for time slice:  5753 , checkData =  1 row = 28 Column/s Supposed to Match [13]
+--no match for time slice:  7883 , checkData =  1 row = 28 Column/s Supposed to Match [18]
+There are 2 mismatches!
+There are 30 matches!
+Expected number of hits : 32
+Actual number of hits : 30
+16:40:42
+Testing Row:27 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 27  Col: 0 in all layers
+-Loaded Data: 0 in Row: 27  Col: 0 in all layers
+-Loaded Data: 1 in Row: 27  Col: 1 in all layers
+-Loaded Data: 0 in Row: 27  Col: 1 in all layers
+-Loaded Data: 1 in Row: 27  Col: 2 in all layers
+-Loaded Data: 0 in Row: 27  Col: 2 in all layers
+-Loaded Data: 1 in Row: 27  Col: 3 in all layers
+-Loaded Data: 0 in Row: 27  Col: 3 in all layers
+-Loaded Data: 1 in Row: 27  Col: 4 in all layers
+-Loaded Data: 0 in Row: 27  Col: 4 in all layers
+-Loaded Data: 1 in Row: 27  Col: 5 in all layers
+-Loaded Data: 0 in Row: 27  Col: 5 in all layers
+-Loaded Data: 1 in Row: 27  Col: 6 in all layers
+-Loaded Data: 0 in Row: 27  Col: 6 in all layers
+-Loaded Data: 1 in Row: 27  Col: 7 in all layers
+-Loaded Data: 0 in Row: 27  Col: 7 in all layers
+-Loaded Data: 1 in Row: 27  Col: 8 in all layers
+-Loaded Data: 0 in Row: 27  Col: 8 in all layers
+-Loaded Data: 1 in Row: 27  Col: 9 in all layers
+-Loaded Data: 0 in Row: 27  Col: 9 in all layers
+-Loaded Data: 1 in Row: 27  Col: 10 in all layers
+-Loaded Data: 0 in Row: 27  Col: 10 in all layers
+-Loaded Data: 1 in Row: 27  Col: 11 in all layers
+-Loaded Data: 0 in Row: 27  Col: 11 in all layers
+-Loaded Data: 1 in Row: 27  Col: 12 in all layers
+-Loaded Data: 0 in Row: 27  Col: 12 in all layers
+-Loaded Data: 1 in Row: 27  Col: 13 in all layers
+-Loaded Data: 0 in Row: 27  Col: 13 in all layers
+-Loaded Data: 1 in Row: 27  Col: 14 in all layers
+-Loaded Data: 0 in Row: 27  Col: 14 in all layers
+-Loaded Data: 1 in Row: 27  Col: 15 in all layers
+-Loaded Data: 0 in Row: 27  Col: 15 in all layers
+-Loaded Data: 1 in Row: 27  Col: 16 in all layers
+-Loaded Data: 0 in Row: 27  Col: 16 in all layers
+-Loaded Data: 1 in Row: 27  Col: 17 in all layers
+-Loaded Data: 0 in Row: 27  Col: 17 in all layers
+-Loaded Data: 1 in Row: 27  Col: 18 in all layers
+-Loaded Data: 0 in Row: 27  Col: 18 in all layers
+-Loaded Data: 1 in Row: 27  Col: 19 in all layers
+-Loaded Data: 0 in Row: 27  Col: 19 in all layers
+-Loaded Data: 1 in Row: 27  Col: 20 in all layers
+-Loaded Data: 0 in Row: 27  Col: 20 in all layers
+-Loaded Data: 1 in Row: 27  Col: 21 in all layers
+-Loaded Data: 0 in Row: 27  Col: 21 in all layers
+-Loaded Data: 1 in Row: 27  Col: 22 in all layers
+-Loaded Data: 0 in Row: 27  Col: 22 in all layers
+-Loaded Data: 1 in Row: 27  Col: 23 in all layers
+-Loaded Data: 0 in Row: 27  Col: 23 in all layers
+-Loaded Data: 1 in Row: 27  Col: 24 in all layers
+-Loaded Data: 0 in Row: 27  Col: 24 in all layers
+-Loaded Data: 1 in Row: 27  Col: 25 in all layers
+-Loaded Data: 0 in Row: 27  Col: 25 in all layers
+-Loaded Data: 1 in Row: 27  Col: 26 in all layers
+-Loaded Data: 0 in Row: 27  Col: 26 in all layers
+-Loaded Data: 1 in Row: 27  Col: 27 in all layers
+-Loaded Data: 0 in Row: 27  Col: 27 in all layers
+-Loaded Data: 1 in Row: 27  Col: 28 in all layers
+-Loaded Data: 0 in Row: 27  Col: 28 in all layers
+-Loaded Data: 1 in Row: 27  Col: 29 in all layers
+-Loaded Data: 0 in Row: 27  Col: 29 in all layers
+-Loaded Data: 1 in Row: 27  Col: 30 in all layers
+-Loaded Data: 0 in Row: 27  Col: 30 in all layers
+-Loaded Data: 1 in Row: 27  Col: 31 in all layers
+-Loaded Data: 0 in Row: 27  Col: 31 in all layers
+calculated Output shift is  429
+Using output shift: 0
+--no match for time slice:  1067 , checkData =  1 row = 27 Column/s Supposed to Match [2]
+--no match for time slice:  6179 , checkData =  1 row = 27 Column/s Supposed to Match [14]
+--no match for time slice:  9161 , checkData =  1 row = 27 Column/s Supposed to Match [21]
+--no match for time slice:  12995 , checkData =  1 row = 27 Column/s Supposed to Match [30]
+There are 4 mismatches!
+There are 28 matches!
+Expected number of hits : 32
+Actual number of hits : 28
+16:41:12
+Testing Row:26 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 26  Col: 0 in all layers
+-Loaded Data: 0 in Row: 26  Col: 0 in all layers
+-Loaded Data: 1 in Row: 26  Col: 1 in all layers
+-Loaded Data: 0 in Row: 26  Col: 1 in all layers
+-Loaded Data: 1 in Row: 26  Col: 2 in all layers
+-Loaded Data: 0 in Row: 26  Col: 2 in all layers
+-Loaded Data: 1 in Row: 26  Col: 3 in all layers
+-Loaded Data: 0 in Row: 26  Col: 3 in all layers
+-Loaded Data: 1 in Row: 26  Col: 4 in all layers
+-Loaded Data: 0 in Row: 26  Col: 4 in all layers
+-Loaded Data: 1 in Row: 26  Col: 5 in all layers
+-Loaded Data: 0 in Row: 26  Col: 5 in all layers
+-Loaded Data: 1 in Row: 26  Col: 6 in all layers
+-Loaded Data: 0 in Row: 26  Col: 6 in all layers
+-Loaded Data: 1 in Row: 26  Col: 7 in all layers
+-Loaded Data: 0 in Row: 26  Col: 7 in all layers
+-Loaded Data: 1 in Row: 26  Col: 8 in all layers
+-Loaded Data: 0 in Row: 26  Col: 8 in all layers
+-Loaded Data: 1 in Row: 26  Col: 9 in all layers
+-Loaded Data: 0 in Row: 26  Col: 9 in all layers
+-Loaded Data: 1 in Row: 26  Col: 10 in all layers
+-Loaded Data: 0 in Row: 26  Col: 10 in all layers
+-Loaded Data: 1 in Row: 26  Col: 11 in all layers
+-Loaded Data: 0 in Row: 26  Col: 11 in all layers
+-Loaded Data: 1 in Row: 26  Col: 12 in all layers
+-Loaded Data: 0 in Row: 26  Col: 12 in all layers
+-Loaded Data: 1 in Row: 26  Col: 13 in all layers
+-Loaded Data: 0 in Row: 26  Col: 13 in all layers
+-Loaded Data: 1 in Row: 26  Col: 14 in all layers
+-Loaded Data: 0 in Row: 26  Col: 14 in all layers
+-Loaded Data: 1 in Row: 26  Col: 15 in all layers
+-Loaded Data: 0 in Row: 26  Col: 15 in all layers
+-Loaded Data: 1 in Row: 26  Col: 16 in all layers
+-Loaded Data: 0 in Row: 26  Col: 16 in all layers
+-Loaded Data: 1 in Row: 26  Col: 17 in all layers
+-Loaded Data: 0 in Row: 26  Col: 17 in all layers
+-Loaded Data: 1 in Row: 26  Col: 18 in all layers
+-Loaded Data: 0 in Row: 26  Col: 18 in all layers
+-Loaded Data: 1 in Row: 26  Col: 19 in all layers
+-Loaded Data: 0 in Row: 26  Col: 19 in all layers
+-Loaded Data: 1 in Row: 26  Col: 20 in all layers
+-Loaded Data: 0 in Row: 26  Col: 20 in all layers
+-Loaded Data: 1 in Row: 26  Col: 21 in all layers
+-Loaded Data: 0 in Row: 26  Col: 21 in all layers
+-Loaded Data: 1 in Row: 26  Col: 22 in all layers
+-Loaded Data: 0 in Row: 26  Col: 22 in all layers
+-Loaded Data: 1 in Row: 26  Col: 23 in all layers
+-Loaded Data: 0 in Row: 26  Col: 23 in all layers
+-Loaded Data: 1 in Row: 26  Col: 24 in all layers
+-Loaded Data: 0 in Row: 26  Col: 24 in all layers
+-Loaded Data: 1 in Row: 26  Col: 25 in all layers
+-Loaded Data: 0 in Row: 26  Col: 25 in all layers
+-Loaded Data: 1 in Row: 26  Col: 26 in all layers
+-Loaded Data: 0 in Row: 26  Col: 26 in all layers
+-Loaded Data: 1 in Row: 26  Col: 27 in all layers
+-Loaded Data: 0 in Row: 26  Col: 27 in all layers
+-Loaded Data: 1 in Row: 26  Col: 28 in all layers
+-Loaded Data: 0 in Row: 26  Col: 28 in all layers
+-Loaded Data: 1 in Row: 26  Col: 29 in all layers
+-Loaded Data: 0 in Row: 26  Col: 29 in all layers
+-Loaded Data: 1 in Row: 26  Col: 30 in all layers
+-Loaded Data: 0 in Row: 26  Col: 30 in all layers
+-Loaded Data: 1 in Row: 26  Col: 31 in all layers
+-Loaded Data: 0 in Row: 26  Col: 31 in all layers
+calculated Output shift is  -201
+Using output shift: 0
+--no match for time slice:  641 , checkData =  1 row = 26 Column/s Supposed to Match [1]
+--no match for time slice:  12569 , checkData =  1 row = 26 Column/s Supposed to Match [29]
+There are 2 mismatches!
+There are 30 matches!
+Expected number of hits : 32
+Actual number of hits : 30
+16:41:42
+Testing Row:25 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 25  Col: 0 in all layers
+-Loaded Data: 0 in Row: 25  Col: 0 in all layers
+-Loaded Data: 1 in Row: 25  Col: 1 in all layers
+-Loaded Data: 0 in Row: 25  Col: 1 in all layers
+-Loaded Data: 1 in Row: 25  Col: 2 in all layers
+-Loaded Data: 0 in Row: 25  Col: 2 in all layers
+-Loaded Data: 1 in Row: 25  Col: 3 in all layers
+-Loaded Data: 0 in Row: 25  Col: 3 in all layers
+-Loaded Data: 1 in Row: 25  Col: 4 in all layers
+-Loaded Data: 0 in Row: 25  Col: 4 in all layers
+-Loaded Data: 1 in Row: 25  Col: 5 in all layers
+-Loaded Data: 0 in Row: 25  Col: 5 in all layers
+-Loaded Data: 1 in Row: 25  Col: 6 in all layers
+-Loaded Data: 0 in Row: 25  Col: 6 in all layers
+-Loaded Data: 1 in Row: 25  Col: 7 in all layers
+-Loaded Data: 0 in Row: 25  Col: 7 in all layers
+-Loaded Data: 1 in Row: 25  Col: 8 in all layers
+-Loaded Data: 0 in Row: 25  Col: 8 in all layers
+-Loaded Data: 1 in Row: 25  Col: 9 in all layers
+-Loaded Data: 0 in Row: 25  Col: 9 in all layers
+-Loaded Data: 1 in Row: 25  Col: 10 in all layers
+-Loaded Data: 0 in Row: 25  Col: 10 in all layers
+-Loaded Data: 1 in Row: 25  Col: 11 in all layers
+-Loaded Data: 0 in Row: 25  Col: 11 in all layers
+-Loaded Data: 1 in Row: 25  Col: 12 in all layers
+-Loaded Data: 0 in Row: 25  Col: 12 in all layers
+-Loaded Data: 1 in Row: 25  Col: 13 in all layers
+-Loaded Data: 0 in Row: 25  Col: 13 in all layers
+-Loaded Data: 1 in Row: 25  Col: 14 in all layers
+-Loaded Data: 0 in Row: 25  Col: 14 in all layers
+-Loaded Data: 1 in Row: 25  Col: 15 in all layers
+-Loaded Data: 0 in Row: 25  Col: 15 in all layers
+-Loaded Data: 1 in Row: 25  Col: 16 in all layers
+-Loaded Data: 0 in Row: 25  Col: 16 in all layers
+-Loaded Data: 1 in Row: 25  Col: 17 in all layers
+-Loaded Data: 0 in Row: 25  Col: 17 in all layers
+-Loaded Data: 1 in Row: 25  Col: 18 in all layers
+-Loaded Data: 0 in Row: 25  Col: 18 in all layers
+-Loaded Data: 1 in Row: 25  Col: 19 in all layers
+-Loaded Data: 0 in Row: 25  Col: 19 in all layers
+-Loaded Data: 1 in Row: 25  Col: 20 in all layers
+-Loaded Data: 0 in Row: 25  Col: 20 in all layers
+-Loaded Data: 1 in Row: 25  Col: 21 in all layers
+-Loaded Data: 0 in Row: 25  Col: 21 in all layers
+-Loaded Data: 1 in Row: 25  Col: 22 in all layers
+-Loaded Data: 0 in Row: 25  Col: 22 in all layers
+-Loaded Data: 1 in Row: 25  Col: 23 in all layers
+-Loaded Data: 0 in Row: 25  Col: 23 in all layers
+-Loaded Data: 1 in Row: 25  Col: 24 in all layers
+-Loaded Data: 0 in Row: 25  Col: 24 in all layers
+-Loaded Data: 1 in Row: 25  Col: 25 in all layers
+-Loaded Data: 0 in Row: 25  Col: 25 in all layers
+-Loaded Data: 1 in Row: 25  Col: 26 in all layers
+-Loaded Data: 0 in Row: 25  Col: 26 in all layers
+-Loaded Data: 1 in Row: 25  Col: 27 in all layers
+-Loaded Data: 0 in Row: 25  Col: 27 in all layers
+-Loaded Data: 1 in Row: 25  Col: 28 in all layers
+-Loaded Data: 0 in Row: 25  Col: 28 in all layers
+-Loaded Data: 1 in Row: 25  Col: 29 in all layers
+-Loaded Data: 0 in Row: 25  Col: 29 in all layers
+-Loaded Data: 1 in Row: 25  Col: 30 in all layers
+-Loaded Data: 0 in Row: 25  Col: 30 in all layers
+-Loaded Data: 1 in Row: 25  Col: 31 in all layers
+-Loaded Data: 0 in Row: 25  Col: 31 in all layers
+calculated Output shift is  47
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 25 Column/s Supposed to Match [0]
+--no match for time slice:  1493 , checkData =  1 row = 25 Column/s Supposed to Match [3]
+--no match for time slice:  7031 , checkData =  1 row = 25 Column/s Supposed to Match [16]
+--no match for time slice:  10013 , checkData =  1 row = 25 Column/s Supposed to Match [23]
+There are 4 mismatches!
+There are 28 matches!
+Expected number of hits : 32
+Actual number of hits : 28
+16:42:11
+Testing Row:24 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 24  Col: 0 in all layers
+-Loaded Data: 0 in Row: 24  Col: 0 in all layers
+-Loaded Data: 1 in Row: 24  Col: 1 in all layers
+-Loaded Data: 0 in Row: 24  Col: 1 in all layers
+-Loaded Data: 1 in Row: 24  Col: 2 in all layers
+-Loaded Data: 0 in Row: 24  Col: 2 in all layers
+-Loaded Data: 1 in Row: 24  Col: 3 in all layers
+-Loaded Data: 0 in Row: 24  Col: 3 in all layers
+-Loaded Data: 1 in Row: 24  Col: 4 in all layers
+-Loaded Data: 0 in Row: 24  Col: 4 in all layers
+-Loaded Data: 1 in Row: 24  Col: 5 in all layers
+-Loaded Data: 0 in Row: 24  Col: 5 in all layers
+-Loaded Data: 1 in Row: 24  Col: 6 in all layers
+-Loaded Data: 0 in Row: 24  Col: 6 in all layers
+-Loaded Data: 1 in Row: 24  Col: 7 in all layers
+-Loaded Data: 0 in Row: 24  Col: 7 in all layers
+-Loaded Data: 1 in Row: 24  Col: 8 in all layers
+-Loaded Data: 0 in Row: 24  Col: 8 in all layers
+-Loaded Data: 1 in Row: 24  Col: 9 in all layers
+-Loaded Data: 0 in Row: 24  Col: 9 in all layers
+-Loaded Data: 1 in Row: 24  Col: 10 in all layers
+-Loaded Data: 0 in Row: 24  Col: 10 in all layers
+-Loaded Data: 1 in Row: 24  Col: 11 in all layers
+-Loaded Data: 0 in Row: 24  Col: 11 in all layers
+-Loaded Data: 1 in Row: 24  Col: 12 in all layers
+-Loaded Data: 0 in Row: 24  Col: 12 in all layers
+-Loaded Data: 1 in Row: 24  Col: 13 in all layers
+-Loaded Data: 0 in Row: 24  Col: 13 in all layers
+-Loaded Data: 1 in Row: 24  Col: 14 in all layers
+-Loaded Data: 0 in Row: 24  Col: 14 in all layers
+-Loaded Data: 1 in Row: 24  Col: 15 in all layers
+-Loaded Data: 0 in Row: 24  Col: 15 in all layers
+-Loaded Data: 1 in Row: 24  Col: 16 in all layers
+-Loaded Data: 0 in Row: 24  Col: 16 in all layers
+-Loaded Data: 1 in Row: 24  Col: 17 in all layers
+-Loaded Data: 0 in Row: 24  Col: 17 in all layers
+-Loaded Data: 1 in Row: 24  Col: 18 in all layers
+-Loaded Data: 0 in Row: 24  Col: 18 in all layers
+-Loaded Data: 1 in Row: 24  Col: 19 in all layers
+-Loaded Data: 0 in Row: 24  Col: 19 in all layers
+-Loaded Data: 1 in Row: 24  Col: 20 in all layers
+-Loaded Data: 0 in Row: 24  Col: 20 in all layers
+-Loaded Data: 1 in Row: 24  Col: 21 in all layers
+-Loaded Data: 0 in Row: 24  Col: 21 in all layers
+-Loaded Data: 1 in Row: 24  Col: 22 in all layers
+-Loaded Data: 0 in Row: 24  Col: 22 in all layers
+-Loaded Data: 1 in Row: 24  Col: 23 in all layers
+-Loaded Data: 0 in Row: 24  Col: 23 in all layers
+-Loaded Data: 1 in Row: 24  Col: 24 in all layers
+-Loaded Data: 0 in Row: 24  Col: 24 in all layers
+-Loaded Data: 1 in Row: 24  Col: 25 in all layers
+-Loaded Data: 0 in Row: 24  Col: 25 in all layers
+-Loaded Data: 1 in Row: 24  Col: 26 in all layers
+-Loaded Data: 0 in Row: 24  Col: 26 in all layers
+-Loaded Data: 1 in Row: 24  Col: 27 in all layers
+-Loaded Data: 0 in Row: 24  Col: 27 in all layers
+-Loaded Data: 1 in Row: 24  Col: 28 in all layers
+-Loaded Data: 0 in Row: 24  Col: 28 in all layers
+-Loaded Data: 1 in Row: 24  Col: 29 in all layers
+-Loaded Data: 0 in Row: 24  Col: 29 in all layers
+-Loaded Data: 1 in Row: 24  Col: 30 in all layers
+-Loaded Data: 0 in Row: 24  Col: 30 in all layers
+-Loaded Data: 1 in Row: 24  Col: 31 in all layers
+-Loaded Data: 0 in Row: 24  Col: 31 in all layers
+calculated Output shift is  7245
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 24 Column/s Supposed to Match [0]
+--no match for time slice:  1067 , checkData =  1 row = 24 Column/s Supposed to Match [2]
+--no match for time slice:  6179 , checkData =  1 row = 24 Column/s Supposed to Match [14]
+There are 3 mismatches!
+There are 29 matches!
+Expected number of hits : 32
+Actual number of hits : 29
+16:42:41
+Testing Row:23 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 23  Col: 0 in all layers
+-Loaded Data: 0 in Row: 23  Col: 0 in all layers
+-Loaded Data: 1 in Row: 23  Col: 1 in all layers
+-Loaded Data: 0 in Row: 23  Col: 1 in all layers
+-Loaded Data: 1 in Row: 23  Col: 2 in all layers
+-Loaded Data: 0 in Row: 23  Col: 2 in all layers
+-Loaded Data: 1 in Row: 23  Col: 3 in all layers
+-Loaded Data: 0 in Row: 23  Col: 3 in all layers
+-Loaded Data: 1 in Row: 23  Col: 4 in all layers
+-Loaded Data: 0 in Row: 23  Col: 4 in all layers
+-Loaded Data: 1 in Row: 23  Col: 5 in all layers
+-Loaded Data: 0 in Row: 23  Col: 5 in all layers
+-Loaded Data: 1 in Row: 23  Col: 6 in all layers
+-Loaded Data: 0 in Row: 23  Col: 6 in all layers
+-Loaded Data: 1 in Row: 23  Col: 7 in all layers
+-Loaded Data: 0 in Row: 23  Col: 7 in all layers
+-Loaded Data: 1 in Row: 23  Col: 8 in all layers
+-Loaded Data: 0 in Row: 23  Col: 8 in all layers
+-Loaded Data: 1 in Row: 23  Col: 9 in all layers
+-Loaded Data: 0 in Row: 23  Col: 9 in all layers
+-Loaded Data: 1 in Row: 23  Col: 10 in all layers
+-Loaded Data: 0 in Row: 23  Col: 10 in all layers
+-Loaded Data: 1 in Row: 23  Col: 11 in all layers
+-Loaded Data: 0 in Row: 23  Col: 11 in all layers
+-Loaded Data: 1 in Row: 23  Col: 12 in all layers
+-Loaded Data: 0 in Row: 23  Col: 12 in all layers
+-Loaded Data: 1 in Row: 23  Col: 13 in all layers
+-Loaded Data: 0 in Row: 23  Col: 13 in all layers
+-Loaded Data: 1 in Row: 23  Col: 14 in all layers
+-Loaded Data: 0 in Row: 23  Col: 14 in all layers
+-Loaded Data: 1 in Row: 23  Col: 15 in all layers
+-Loaded Data: 0 in Row: 23  Col: 15 in all layers
+-Loaded Data: 1 in Row: 23  Col: 16 in all layers
+-Loaded Data: 0 in Row: 23  Col: 16 in all layers
+-Loaded Data: 1 in Row: 23  Col: 17 in all layers
+-Loaded Data: 0 in Row: 23  Col: 17 in all layers
+-Loaded Data: 1 in Row: 23  Col: 18 in all layers
+-Loaded Data: 0 in Row: 23  Col: 18 in all layers
+-Loaded Data: 1 in Row: 23  Col: 19 in all layers
+-Loaded Data: 0 in Row: 23  Col: 19 in all layers
+-Loaded Data: 1 in Row: 23  Col: 20 in all layers
+-Loaded Data: 0 in Row: 23  Col: 20 in all layers
+-Loaded Data: 1 in Row: 23  Col: 21 in all layers
+-Loaded Data: 0 in Row: 23  Col: 21 in all layers
+-Loaded Data: 1 in Row: 23  Col: 22 in all layers
+-Loaded Data: 0 in Row: 23  Col: 22 in all layers
+-Loaded Data: 1 in Row: 23  Col: 23 in all layers
+-Loaded Data: 0 in Row: 23  Col: 23 in all layers
+-Loaded Data: 1 in Row: 23  Col: 24 in all layers
+-Loaded Data: 0 in Row: 23  Col: 24 in all layers
+-Loaded Data: 1 in Row: 23  Col: 25 in all layers
+-Loaded Data: 0 in Row: 23  Col: 25 in all layers
+-Loaded Data: 1 in Row: 23  Col: 26 in all layers
+-Loaded Data: 0 in Row: 23  Col: 26 in all layers
+-Loaded Data: 1 in Row: 23  Col: 27 in all layers
+-Loaded Data: 0 in Row: 23  Col: 27 in all layers
+-Loaded Data: 1 in Row: 23  Col: 28 in all layers
+-Loaded Data: 0 in Row: 23  Col: 28 in all layers
+-Loaded Data: 1 in Row: 23  Col: 29 in all layers
+-Loaded Data: 0 in Row: 23  Col: 29 in all layers
+-Loaded Data: 1 in Row: 23  Col: 30 in all layers
+-Loaded Data: 0 in Row: 23  Col: 30 in all layers
+-Loaded Data: 1 in Row: 23  Col: 31 in all layers
+-Loaded Data: 0 in Row: 23  Col: 31 in all layers
+calculated Output shift is  47
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 23 Column/s Supposed to Match [0]
+--no match for time slice:  1067 , checkData =  1 row = 23 Column/s Supposed to Match [2]
+--no match for time slice:  1493 , checkData =  1 row = 23 Column/s Supposed to Match [3]
+--no match for time slice:  7883 , checkData =  1 row = 23 Column/s Supposed to Match [18]
+There are 4 mismatches!
+There are 28 matches!
+Expected number of hits : 32
+Actual number of hits : 28
+16:43:11
+Testing Row:22 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 22  Col: 0 in all layers
+-Loaded Data: 0 in Row: 22  Col: 0 in all layers
+-Loaded Data: 1 in Row: 22  Col: 1 in all layers
+-Loaded Data: 0 in Row: 22  Col: 1 in all layers
+-Loaded Data: 1 in Row: 22  Col: 2 in all layers
+-Loaded Data: 0 in Row: 22  Col: 2 in all layers
+-Loaded Data: 1 in Row: 22  Col: 3 in all layers
+-Loaded Data: 0 in Row: 22  Col: 3 in all layers
+-Loaded Data: 1 in Row: 22  Col: 4 in all layers
+-Loaded Data: 0 in Row: 22  Col: 4 in all layers
+-Loaded Data: 1 in Row: 22  Col: 5 in all layers
+-Loaded Data: 0 in Row: 22  Col: 5 in all layers
+-Loaded Data: 1 in Row: 22  Col: 6 in all layers
+-Loaded Data: 0 in Row: 22  Col: 6 in all layers
+-Loaded Data: 1 in Row: 22  Col: 7 in all layers
+-Loaded Data: 0 in Row: 22  Col: 7 in all layers
+-Loaded Data: 1 in Row: 22  Col: 8 in all layers
+-Loaded Data: 0 in Row: 22  Col: 8 in all layers
+-Loaded Data: 1 in Row: 22  Col: 9 in all layers
+-Loaded Data: 0 in Row: 22  Col: 9 in all layers
+-Loaded Data: 1 in Row: 22  Col: 10 in all layers
+-Loaded Data: 0 in Row: 22  Col: 10 in all layers
+-Loaded Data: 1 in Row: 22  Col: 11 in all layers
+-Loaded Data: 0 in Row: 22  Col: 11 in all layers
+-Loaded Data: 1 in Row: 22  Col: 12 in all layers
+-Loaded Data: 0 in Row: 22  Col: 12 in all layers
+-Loaded Data: 1 in Row: 22  Col: 13 in all layers
+-Loaded Data: 0 in Row: 22  Col: 13 in all layers
+-Loaded Data: 1 in Row: 22  Col: 14 in all layers
+-Loaded Data: 0 in Row: 22  Col: 14 in all layers
+-Loaded Data: 1 in Row: 22  Col: 15 in all layers
+-Loaded Data: 0 in Row: 22  Col: 15 in all layers
+-Loaded Data: 1 in Row: 22  Col: 16 in all layers
+-Loaded Data: 0 in Row: 22  Col: 16 in all layers
+-Loaded Data: 1 in Row: 22  Col: 17 in all layers
+-Loaded Data: 0 in Row: 22  Col: 17 in all layers
+-Loaded Data: 1 in Row: 22  Col: 18 in all layers
+-Loaded Data: 0 in Row: 22  Col: 18 in all layers
+-Loaded Data: 1 in Row: 22  Col: 19 in all layers
+-Loaded Data: 0 in Row: 22  Col: 19 in all layers
+-Loaded Data: 1 in Row: 22  Col: 20 in all layers
+-Loaded Data: 0 in Row: 22  Col: 20 in all layers
+-Loaded Data: 1 in Row: 22  Col: 21 in all layers
+-Loaded Data: 0 in Row: 22  Col: 21 in all layers
+-Loaded Data: 1 in Row: 22  Col: 22 in all layers
+-Loaded Data: 0 in Row: 22  Col: 22 in all layers
+-Loaded Data: 1 in Row: 22  Col: 23 in all layers
+-Loaded Data: 0 in Row: 22  Col: 23 in all layers
+-Loaded Data: 1 in Row: 22  Col: 24 in all layers
+-Loaded Data: 0 in Row: 22  Col: 24 in all layers
+-Loaded Data: 1 in Row: 22  Col: 25 in all layers
+-Loaded Data: 0 in Row: 22  Col: 25 in all layers
+-Loaded Data: 1 in Row: 22  Col: 26 in all layers
+-Loaded Data: 0 in Row: 22  Col: 26 in all layers
+-Loaded Data: 1 in Row: 22  Col: 27 in all layers
+-Loaded Data: 0 in Row: 22  Col: 27 in all layers
+-Loaded Data: 1 in Row: 22  Col: 28 in all layers
+-Loaded Data: 0 in Row: 22  Col: 28 in all layers
+-Loaded Data: 1 in Row: 22  Col: 29 in all layers
+-Loaded Data: 0 in Row: 22  Col: 29 in all layers
+-Loaded Data: 1 in Row: 22  Col: 30 in all layers
+-Loaded Data: 0 in Row: 22  Col: 30 in all layers
+-Loaded Data: 1 in Row: 22  Col: 31 in all layers
+-Loaded Data: 0 in Row: 22  Col: 31 in all layers
+calculated Output shift is  -201
+Using output shift: 0
+--no match for time slice:  641 , checkData =  1 row = 22 Column/s Supposed to Match [1]
+--no match for time slice:  4049 , checkData =  1 row = 22 Column/s Supposed to Match [9]
+--no match for time slice:  7457 , checkData =  1 row = 22 Column/s Supposed to Match [17]
+There are 3 mismatches!
+There are 29 matches!
+Expected number of hits : 32
+Actual number of hits : 29
+16:43:41
+Testing Row:21 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 21  Col: 0 in all layers
+-Loaded Data: 0 in Row: 21  Col: 0 in all layers
+-Loaded Data: 1 in Row: 21  Col: 1 in all layers
+-Loaded Data: 0 in Row: 21  Col: 1 in all layers
+-Loaded Data: 1 in Row: 21  Col: 2 in all layers
+-Loaded Data: 0 in Row: 21  Col: 2 in all layers
+-Loaded Data: 1 in Row: 21  Col: 3 in all layers
+-Loaded Data: 0 in Row: 21  Col: 3 in all layers
+-Loaded Data: 1 in Row: 21  Col: 4 in all layers
+-Loaded Data: 0 in Row: 21  Col: 4 in all layers
+-Loaded Data: 1 in Row: 21  Col: 5 in all layers
+-Loaded Data: 0 in Row: 21  Col: 5 in all layers
+-Loaded Data: 1 in Row: 21  Col: 6 in all layers
+-Loaded Data: 0 in Row: 21  Col: 6 in all layers
+-Loaded Data: 1 in Row: 21  Col: 7 in all layers
+-Loaded Data: 0 in Row: 21  Col: 7 in all layers
+-Loaded Data: 1 in Row: 21  Col: 8 in all layers
+-Loaded Data: 0 in Row: 21  Col: 8 in all layers
+-Loaded Data: 1 in Row: 21  Col: 9 in all layers
+-Loaded Data: 0 in Row: 21  Col: 9 in all layers
+-Loaded Data: 1 in Row: 21  Col: 10 in all layers
+-Loaded Data: 0 in Row: 21  Col: 10 in all layers
+-Loaded Data: 1 in Row: 21  Col: 11 in all layers
+-Loaded Data: 0 in Row: 21  Col: 11 in all layers
+-Loaded Data: 1 in Row: 21  Col: 12 in all layers
+-Loaded Data: 0 in Row: 21  Col: 12 in all layers
+-Loaded Data: 1 in Row: 21  Col: 13 in all layers
+-Loaded Data: 0 in Row: 21  Col: 13 in all layers
+-Loaded Data: 1 in Row: 21  Col: 14 in all layers
+-Loaded Data: 0 in Row: 21  Col: 14 in all layers
+-Loaded Data: 1 in Row: 21  Col: 15 in all layers
+-Loaded Data: 0 in Row: 21  Col: 15 in all layers
+-Loaded Data: 1 in Row: 21  Col: 16 in all layers
+-Loaded Data: 0 in Row: 21  Col: 16 in all layers
+-Loaded Data: 1 in Row: 21  Col: 17 in all layers
+-Loaded Data: 0 in Row: 21  Col: 17 in all layers
+-Loaded Data: 1 in Row: 21  Col: 18 in all layers
+-Loaded Data: 0 in Row: 21  Col: 18 in all layers
+-Loaded Data: 1 in Row: 21  Col: 19 in all layers
+-Loaded Data: 0 in Row: 21  Col: 19 in all layers
+-Loaded Data: 1 in Row: 21  Col: 20 in all layers
+-Loaded Data: 0 in Row: 21  Col: 20 in all layers
+-Loaded Data: 1 in Row: 21  Col: 21 in all layers
+-Loaded Data: 0 in Row: 21  Col: 21 in all layers
+-Loaded Data: 1 in Row: 21  Col: 22 in all layers
+-Loaded Data: 0 in Row: 21  Col: 22 in all layers
+-Loaded Data: 1 in Row: 21  Col: 23 in all layers
+-Loaded Data: 0 in Row: 21  Col: 23 in all layers
+-Loaded Data: 1 in Row: 21  Col: 24 in all layers
+-Loaded Data: 0 in Row: 21  Col: 24 in all layers
+-Loaded Data: 1 in Row: 21  Col: 25 in all layers
+-Loaded Data: 0 in Row: 21  Col: 25 in all layers
+-Loaded Data: 1 in Row: 21  Col: 26 in all layers
+-Loaded Data: 0 in Row: 21  Col: 26 in all layers
+-Loaded Data: 1 in Row: 21  Col: 27 in all layers
+-Loaded Data: 0 in Row: 21  Col: 27 in all layers
+-Loaded Data: 1 in Row: 21  Col: 28 in all layers
+-Loaded Data: 0 in Row: 21  Col: 28 in all layers
+-Loaded Data: 1 in Row: 21  Col: 29 in all layers
+-Loaded Data: 0 in Row: 21  Col: 29 in all layers
+-Loaded Data: 1 in Row: 21  Col: 30 in all layers
+-Loaded Data: 0 in Row: 21  Col: 30 in all layers
+-Loaded Data: 1 in Row: 21  Col: 31 in all layers
+-Loaded Data: 0 in Row: 21  Col: 31 in all layers
+calculated Output shift is  47
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 21 Column/s Supposed to Match [0]
+--no match for time slice:  3197 , checkData =  1 row = 21 Column/s Supposed to Match [7]
+--no match for time slice:  6179 , checkData =  1 row = 21 Column/s Supposed to Match [14]
+--no match for time slice:  8309 , checkData =  1 row = 21 Column/s Supposed to Match [19]
+--no match for time slice:  9161 , checkData =  1 row = 21 Column/s Supposed to Match [21]
+--no match for time slice:  10013 , checkData =  1 row = 21 Column/s Supposed to Match [23]
+--no match for time slice:  10439 , checkData =  1 row = 21 Column/s Supposed to Match [24]
+There are 7 mismatches!
+There are 25 matches!
+Expected number of hits : 32
+Actual number of hits : 25
+16:44:11
+Testing Row:20 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 20  Col: 0 in all layers
+-Loaded Data: 0 in Row: 20  Col: 0 in all layers
+-Loaded Data: 1 in Row: 20  Col: 1 in all layers
+-Loaded Data: 0 in Row: 20  Col: 1 in all layers
+-Loaded Data: 1 in Row: 20  Col: 2 in all layers
+-Loaded Data: 0 in Row: 20  Col: 2 in all layers
+-Loaded Data: 1 in Row: 20  Col: 3 in all layers
+-Loaded Data: 0 in Row: 20  Col: 3 in all layers
+-Loaded Data: 1 in Row: 20  Col: 4 in all layers
+-Loaded Data: 0 in Row: 20  Col: 4 in all layers
+-Loaded Data: 1 in Row: 20  Col: 5 in all layers
+-Loaded Data: 0 in Row: 20  Col: 5 in all layers
+-Loaded Data: 1 in Row: 20  Col: 6 in all layers
+-Loaded Data: 0 in Row: 20  Col: 6 in all layers
+-Loaded Data: 1 in Row: 20  Col: 7 in all layers
+-Loaded Data: 0 in Row: 20  Col: 7 in all layers
+-Loaded Data: 1 in Row: 20  Col: 8 in all layers
+-Loaded Data: 0 in Row: 20  Col: 8 in all layers
+-Loaded Data: 1 in Row: 20  Col: 9 in all layers
+-Loaded Data: 0 in Row: 20  Col: 9 in all layers
+-Loaded Data: 1 in Row: 20  Col: 10 in all layers
+-Loaded Data: 0 in Row: 20  Col: 10 in all layers
+-Loaded Data: 1 in Row: 20  Col: 11 in all layers
+-Loaded Data: 0 in Row: 20  Col: 11 in all layers
+-Loaded Data: 1 in Row: 20  Col: 12 in all layers
+-Loaded Data: 0 in Row: 20  Col: 12 in all layers
+-Loaded Data: 1 in Row: 20  Col: 13 in all layers
+-Loaded Data: 0 in Row: 20  Col: 13 in all layers
+-Loaded Data: 1 in Row: 20  Col: 14 in all layers
+-Loaded Data: 0 in Row: 20  Col: 14 in all layers
+-Loaded Data: 1 in Row: 20  Col: 15 in all layers
+-Loaded Data: 0 in Row: 20  Col: 15 in all layers
+-Loaded Data: 1 in Row: 20  Col: 16 in all layers
+-Loaded Data: 0 in Row: 20  Col: 16 in all layers
+-Loaded Data: 1 in Row: 20  Col: 17 in all layers
+-Loaded Data: 0 in Row: 20  Col: 17 in all layers
+-Loaded Data: 1 in Row: 20  Col: 18 in all layers
+-Loaded Data: 0 in Row: 20  Col: 18 in all layers
+-Loaded Data: 1 in Row: 20  Col: 19 in all layers
+-Loaded Data: 0 in Row: 20  Col: 19 in all layers
+-Loaded Data: 1 in Row: 20  Col: 20 in all layers
+-Loaded Data: 0 in Row: 20  Col: 20 in all layers
+-Loaded Data: 1 in Row: 20  Col: 21 in all layers
+-Loaded Data: 0 in Row: 20  Col: 21 in all layers
+-Loaded Data: 1 in Row: 20  Col: 22 in all layers
+-Loaded Data: 0 in Row: 20  Col: 22 in all layers
+-Loaded Data: 1 in Row: 20  Col: 23 in all layers
+-Loaded Data: 0 in Row: 20  Col: 23 in all layers
+-Loaded Data: 1 in Row: 20  Col: 24 in all layers
+-Loaded Data: 0 in Row: 20  Col: 24 in all layers
+-Loaded Data: 1 in Row: 20  Col: 25 in all layers
+-Loaded Data: 0 in Row: 20  Col: 25 in all layers
+-Loaded Data: 1 in Row: 20  Col: 26 in all layers
+-Loaded Data: 0 in Row: 20  Col: 26 in all layers
+-Loaded Data: 1 in Row: 20  Col: 27 in all layers
+-Loaded Data: 0 in Row: 20  Col: 27 in all layers
+-Loaded Data: 1 in Row: 20  Col: 28 in all layers
+-Loaded Data: 0 in Row: 20  Col: 28 in all layers
+-Loaded Data: 1 in Row: 20  Col: 29 in all layers
+-Loaded Data: 0 in Row: 20  Col: 29 in all layers
+-Loaded Data: 1 in Row: 20  Col: 30 in all layers
+-Loaded Data: 0 in Row: 20  Col: 30 in all layers
+-Loaded Data: 1 in Row: 20  Col: 31 in all layers
+-Loaded Data: 0 in Row: 20  Col: 31 in all layers
+calculated Output shift is  4733
+Using output shift: 0
+--no match for time slice:  4901 , checkData =  1 row = 20 Column/s Supposed to Match [11]
+--no match for time slice:  7883 , checkData =  1 row = 20 Column/s Supposed to Match [18]
+--no match for time slice:  9161 , checkData =  1 row = 20 Column/s Supposed to Match [21]
+There are 3 mismatches!
+There are 29 matches!
+Expected number of hits : 32
+Actual number of hits : 29
+16:44:41
+Testing Row:19 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 19  Col: 0 in all layers
+-Loaded Data: 0 in Row: 19  Col: 0 in all layers
+-Loaded Data: 1 in Row: 19  Col: 1 in all layers
+-Loaded Data: 0 in Row: 19  Col: 1 in all layers
+-Loaded Data: 1 in Row: 19  Col: 2 in all layers
+-Loaded Data: 0 in Row: 19  Col: 2 in all layers
+-Loaded Data: 1 in Row: 19  Col: 3 in all layers
+-Loaded Data: 0 in Row: 19  Col: 3 in all layers
+-Loaded Data: 1 in Row: 19  Col: 4 in all layers
+-Loaded Data: 0 in Row: 19  Col: 4 in all layers
+-Loaded Data: 1 in Row: 19  Col: 5 in all layers
+-Loaded Data: 0 in Row: 19  Col: 5 in all layers
+-Loaded Data: 1 in Row: 19  Col: 6 in all layers
+-Loaded Data: 0 in Row: 19  Col: 6 in all layers
+-Loaded Data: 1 in Row: 19  Col: 7 in all layers
+-Loaded Data: 0 in Row: 19  Col: 7 in all layers
+-Loaded Data: 1 in Row: 19  Col: 8 in all layers
+-Loaded Data: 0 in Row: 19  Col: 8 in all layers
+-Loaded Data: 1 in Row: 19  Col: 9 in all layers
+-Loaded Data: 0 in Row: 19  Col: 9 in all layers
+-Loaded Data: 1 in Row: 19  Col: 10 in all layers
+-Loaded Data: 0 in Row: 19  Col: 10 in all layers
+-Loaded Data: 1 in Row: 19  Col: 11 in all layers
+-Loaded Data: 0 in Row: 19  Col: 11 in all layers
+-Loaded Data: 1 in Row: 19  Col: 12 in all layers
+-Loaded Data: 0 in Row: 19  Col: 12 in all layers
+-Loaded Data: 1 in Row: 19  Col: 13 in all layers
+-Loaded Data: 0 in Row: 19  Col: 13 in all layers
+-Loaded Data: 1 in Row: 19  Col: 14 in all layers
+-Loaded Data: 0 in Row: 19  Col: 14 in all layers
+-Loaded Data: 1 in Row: 19  Col: 15 in all layers
+-Loaded Data: 0 in Row: 19  Col: 15 in all layers
+-Loaded Data: 1 in Row: 19  Col: 16 in all layers
+-Loaded Data: 0 in Row: 19  Col: 16 in all layers
+-Loaded Data: 1 in Row: 19  Col: 17 in all layers
+-Loaded Data: 0 in Row: 19  Col: 17 in all layers
+-Loaded Data: 1 in Row: 19  Col: 18 in all layers
+-Loaded Data: 0 in Row: 19  Col: 18 in all layers
+-Loaded Data: 1 in Row: 19  Col: 19 in all layers
+-Loaded Data: 0 in Row: 19  Col: 19 in all layers
+-Loaded Data: 1 in Row: 19  Col: 20 in all layers
+-Loaded Data: 0 in Row: 19  Col: 20 in all layers
+-Loaded Data: 1 in Row: 19  Col: 21 in all layers
+-Loaded Data: 0 in Row: 19  Col: 21 in all layers
+-Loaded Data: 1 in Row: 19  Col: 22 in all layers
+-Loaded Data: 0 in Row: 19  Col: 22 in all layers
+-Loaded Data: 1 in Row: 19  Col: 23 in all layers
+-Loaded Data: 0 in Row: 19  Col: 23 in all layers
+-Loaded Data: 1 in Row: 19  Col: 24 in all layers
+-Loaded Data: 0 in Row: 19  Col: 24 in all layers
+-Loaded Data: 1 in Row: 19  Col: 25 in all layers
+-Loaded Data: 0 in Row: 19  Col: 25 in all layers
+-Loaded Data: 1 in Row: 19  Col: 26 in all layers
+-Loaded Data: 0 in Row: 19  Col: 26 in all layers
+-Loaded Data: 1 in Row: 19  Col: 27 in all layers
+-Loaded Data: 0 in Row: 19  Col: 27 in all layers
+-Loaded Data: 1 in Row: 19  Col: 28 in all layers
+-Loaded Data: 0 in Row: 19  Col: 28 in all layers
+-Loaded Data: 1 in Row: 19  Col: 29 in all layers
+-Loaded Data: 0 in Row: 19  Col: 29 in all layers
+-Loaded Data: 1 in Row: 19  Col: 30 in all layers
+-Loaded Data: 0 in Row: 19  Col: 30 in all layers
+-Loaded Data: 1 in Row: 19  Col: 31 in all layers
+-Loaded Data: 0 in Row: 19  Col: 31 in all layers
+calculated Output shift is  47
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 19 Column/s Supposed to Match [0]
+--no match for time slice:  1067 , checkData =  1 row = 19 Column/s Supposed to Match [2]
+--no match for time slice:  2345 , checkData =  1 row = 19 Column/s Supposed to Match [5]
+--no match for time slice:  4049 , checkData =  1 row = 19 Column/s Supposed to Match [9]
+--no match for time slice:  5327 , checkData =  1 row = 19 Column/s Supposed to Match [12]
+--no match for time slice:  7031 , checkData =  1 row = 19 Column/s Supposed to Match [16]
+There are 6 mismatches!
+There are 26 matches!
+Expected number of hits : 32
+Actual number of hits : 26
+16:45:11
+Testing Row:18 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 18  Col: 0 in all layers
+-Loaded Data: 0 in Row: 18  Col: 0 in all layers
+-Loaded Data: 1 in Row: 18  Col: 1 in all layers
+-Loaded Data: 0 in Row: 18  Col: 1 in all layers
+-Loaded Data: 1 in Row: 18  Col: 2 in all layers
+-Loaded Data: 0 in Row: 18  Col: 2 in all layers
+-Loaded Data: 1 in Row: 18  Col: 3 in all layers
+-Loaded Data: 0 in Row: 18  Col: 3 in all layers
+-Loaded Data: 1 in Row: 18  Col: 4 in all layers
+-Loaded Data: 0 in Row: 18  Col: 4 in all layers
+-Loaded Data: 1 in Row: 18  Col: 5 in all layers
+-Loaded Data: 0 in Row: 18  Col: 5 in all layers
+-Loaded Data: 1 in Row: 18  Col: 6 in all layers
+-Loaded Data: 0 in Row: 18  Col: 6 in all layers
+-Loaded Data: 1 in Row: 18  Col: 7 in all layers
+-Loaded Data: 0 in Row: 18  Col: 7 in all layers
+-Loaded Data: 1 in Row: 18  Col: 8 in all layers
+-Loaded Data: 0 in Row: 18  Col: 8 in all layers
+-Loaded Data: 1 in Row: 18  Col: 9 in all layers
+-Loaded Data: 0 in Row: 18  Col: 9 in all layers
+-Loaded Data: 1 in Row: 18  Col: 10 in all layers
+-Loaded Data: 0 in Row: 18  Col: 10 in all layers
+-Loaded Data: 1 in Row: 18  Col: 11 in all layers
+-Loaded Data: 0 in Row: 18  Col: 11 in all layers
+-Loaded Data: 1 in Row: 18  Col: 12 in all layers
+-Loaded Data: 0 in Row: 18  Col: 12 in all layers
+-Loaded Data: 1 in Row: 18  Col: 13 in all layers
+-Loaded Data: 0 in Row: 18  Col: 13 in all layers
+-Loaded Data: 1 in Row: 18  Col: 14 in all layers
+-Loaded Data: 0 in Row: 18  Col: 14 in all layers
+-Loaded Data: 1 in Row: 18  Col: 15 in all layers
+-Loaded Data: 0 in Row: 18  Col: 15 in all layers
+-Loaded Data: 1 in Row: 18  Col: 16 in all layers
+-Loaded Data: 0 in Row: 18  Col: 16 in all layers
+-Loaded Data: 1 in Row: 18  Col: 17 in all layers
+-Loaded Data: 0 in Row: 18  Col: 17 in all layers
+-Loaded Data: 1 in Row: 18  Col: 18 in all layers
+-Loaded Data: 0 in Row: 18  Col: 18 in all layers
+-Loaded Data: 1 in Row: 18  Col: 19 in all layers
+-Loaded Data: 0 in Row: 18  Col: 19 in all layers
+-Loaded Data: 1 in Row: 18  Col: 20 in all layers
+-Loaded Data: 0 in Row: 18  Col: 20 in all layers
+-Loaded Data: 1 in Row: 18  Col: 21 in all layers
+-Loaded Data: 0 in Row: 18  Col: 21 in all layers
+-Loaded Data: 1 in Row: 18  Col: 22 in all layers
+-Loaded Data: 0 in Row: 18  Col: 22 in all layers
+-Loaded Data: 1 in Row: 18  Col: 23 in all layers
+-Loaded Data: 0 in Row: 18  Col: 23 in all layers
+-Loaded Data: 1 in Row: 18  Col: 24 in all layers
+-Loaded Data: 0 in Row: 18  Col: 24 in all layers
+-Loaded Data: 1 in Row: 18  Col: 25 in all layers
+-Loaded Data: 0 in Row: 18  Col: 25 in all layers
+-Loaded Data: 1 in Row: 18  Col: 26 in all layers
+-Loaded Data: 0 in Row: 18  Col: 26 in all layers
+-Loaded Data: 1 in Row: 18  Col: 27 in all layers
+-Loaded Data: 0 in Row: 18  Col: 27 in all layers
+-Loaded Data: 1 in Row: 18  Col: 28 in all layers
+-Loaded Data: 0 in Row: 18  Col: 28 in all layers
+-Loaded Data: 1 in Row: 18  Col: 29 in all layers
+-Loaded Data: 0 in Row: 18  Col: 29 in all layers
+-Loaded Data: 1 in Row: 18  Col: 30 in all layers
+-Loaded Data: 0 in Row: 18  Col: 30 in all layers
+-Loaded Data: 1 in Row: 18  Col: 31 in all layers
+-Loaded Data: 0 in Row: 18  Col: 31 in all layers
+calculated Output shift is  47
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 18 Column/s Supposed to Match [0]
+--no match for time slice:  641 , checkData =  1 row = 18 Column/s Supposed to Match [1]
+--no match for time slice:  2771 , checkData =  1 row = 18 Column/s Supposed to Match [6]
+--no match for time slice:  6605 , checkData =  1 row = 18 Column/s Supposed to Match [15]
+--no match for time slice:  7457 , checkData =  1 row = 18 Column/s Supposed to Match [17]
+--no match for time slice:  9161 , checkData =  1 row = 18 Column/s Supposed to Match [21]
+--no match for time slice:  10439 , checkData =  1 row = 18 Column/s Supposed to Match [24]
+--no match for time slice:  10865 , checkData =  1 row = 18 Column/s Supposed to Match [25]
+There are 8 mismatches!
+There are 24 matches!
+Expected number of hits : 32
+Actual number of hits : 24
+16:45:42
+Testing Row:17 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 17  Col: 0 in all layers
+-Loaded Data: 0 in Row: 17  Col: 0 in all layers
+-Loaded Data: 1 in Row: 17  Col: 1 in all layers
+-Loaded Data: 0 in Row: 17  Col: 1 in all layers
+-Loaded Data: 1 in Row: 17  Col: 2 in all layers
+-Loaded Data: 0 in Row: 17  Col: 2 in all layers
+-Loaded Data: 1 in Row: 17  Col: 3 in all layers
+-Loaded Data: 0 in Row: 17  Col: 3 in all layers
+-Loaded Data: 1 in Row: 17  Col: 4 in all layers
+-Loaded Data: 0 in Row: 17  Col: 4 in all layers
+-Loaded Data: 1 in Row: 17  Col: 5 in all layers
+-Loaded Data: 0 in Row: 17  Col: 5 in all layers
+-Loaded Data: 1 in Row: 17  Col: 6 in all layers
+-Loaded Data: 0 in Row: 17  Col: 6 in all layers
+-Loaded Data: 1 in Row: 17  Col: 7 in all layers
+-Loaded Data: 0 in Row: 17  Col: 7 in all layers
+-Loaded Data: 1 in Row: 17  Col: 8 in all layers
+-Loaded Data: 0 in Row: 17  Col: 8 in all layers
+-Loaded Data: 1 in Row: 17  Col: 9 in all layers
+-Loaded Data: 0 in Row: 17  Col: 9 in all layers
+-Loaded Data: 1 in Row: 17  Col: 10 in all layers
+-Loaded Data: 0 in Row: 17  Col: 10 in all layers
+-Loaded Data: 1 in Row: 17  Col: 11 in all layers
+-Loaded Data: 0 in Row: 17  Col: 11 in all layers
+-Loaded Data: 1 in Row: 17  Col: 12 in all layers
+-Loaded Data: 0 in Row: 17  Col: 12 in all layers
+-Loaded Data: 1 in Row: 17  Col: 13 in all layers
+-Loaded Data: 0 in Row: 17  Col: 13 in all layers
+-Loaded Data: 1 in Row: 17  Col: 14 in all layers
+-Loaded Data: 0 in Row: 17  Col: 14 in all layers
+-Loaded Data: 1 in Row: 17  Col: 15 in all layers
+-Loaded Data: 0 in Row: 17  Col: 15 in all layers
+-Loaded Data: 1 in Row: 17  Col: 16 in all layers
+-Loaded Data: 0 in Row: 17  Col: 16 in all layers
+-Loaded Data: 1 in Row: 17  Col: 17 in all layers
+-Loaded Data: 0 in Row: 17  Col: 17 in all layers
+-Loaded Data: 1 in Row: 17  Col: 18 in all layers
+-Loaded Data: 0 in Row: 17  Col: 18 in all layers
+-Loaded Data: 1 in Row: 17  Col: 19 in all layers
+-Loaded Data: 0 in Row: 17  Col: 19 in all layers
+-Loaded Data: 1 in Row: 17  Col: 20 in all layers
+-Loaded Data: 0 in Row: 17  Col: 20 in all layers
+-Loaded Data: 1 in Row: 17  Col: 21 in all layers
+-Loaded Data: 0 in Row: 17  Col: 21 in all layers
+-Loaded Data: 1 in Row: 17  Col: 22 in all layers
+-Loaded Data: 0 in Row: 17  Col: 22 in all layers
+-Loaded Data: 1 in Row: 17  Col: 23 in all layers
+-Loaded Data: 0 in Row: 17  Col: 23 in all layers
+-Loaded Data: 1 in Row: 17  Col: 24 in all layers
+-Loaded Data: 0 in Row: 17  Col: 24 in all layers
+-Loaded Data: 1 in Row: 17  Col: 25 in all layers
+-Loaded Data: 0 in Row: 17  Col: 25 in all layers
+-Loaded Data: 1 in Row: 17  Col: 26 in all layers
+-Loaded Data: 0 in Row: 17  Col: 26 in all layers
+-Loaded Data: 1 in Row: 17  Col: 27 in all layers
+-Loaded Data: 0 in Row: 17  Col: 27 in all layers
+-Loaded Data: 1 in Row: 17  Col: 28 in all layers
+-Loaded Data: 0 in Row: 17  Col: 28 in all layers
+-Loaded Data: 1 in Row: 17  Col: 29 in all layers
+-Loaded Data: 0 in Row: 17  Col: 29 in all layers
+-Loaded Data: 1 in Row: 17  Col: 30 in all layers
+-Loaded Data: 0 in Row: 17  Col: 30 in all layers
+-Loaded Data: 1 in Row: 17  Col: 31 in all layers
+-Loaded Data: 0 in Row: 17  Col: 31 in all layers
+calculated Output shift is  7671
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 17 Column/s Supposed to Match [0]
+--no match for time slice:  4049 , checkData =  1 row = 17 Column/s Supposed to Match [9]
+--no match for time slice:  4901 , checkData =  1 row = 17 Column/s Supposed to Match [11]
+--no match for time slice:  7457 , checkData =  1 row = 17 Column/s Supposed to Match [17]
+--no match for time slice:  7883 , checkData =  1 row = 17 Column/s Supposed to Match [18]
+There are 5 mismatches!
+There are 27 matches!
+Expected number of hits : 32
+Actual number of hits : 27
+16:46:11
+Testing Row:16 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 16  Col: 0 in all layers
+-Loaded Data: 0 in Row: 16  Col: 0 in all layers
+-Loaded Data: 1 in Row: 16  Col: 1 in all layers
+-Loaded Data: 0 in Row: 16  Col: 1 in all layers
+-Loaded Data: 1 in Row: 16  Col: 2 in all layers
+-Loaded Data: 0 in Row: 16  Col: 2 in all layers
+-Loaded Data: 1 in Row: 16  Col: 3 in all layers
+-Loaded Data: 0 in Row: 16  Col: 3 in all layers
+-Loaded Data: 1 in Row: 16  Col: 4 in all layers
+-Loaded Data: 0 in Row: 16  Col: 4 in all layers
+-Loaded Data: 1 in Row: 16  Col: 5 in all layers
+-Loaded Data: 0 in Row: 16  Col: 5 in all layers
+-Loaded Data: 1 in Row: 16  Col: 6 in all layers
+-Loaded Data: 0 in Row: 16  Col: 6 in all layers
+-Loaded Data: 1 in Row: 16  Col: 7 in all layers
+-Loaded Data: 0 in Row: 16  Col: 7 in all layers
+-Loaded Data: 1 in Row: 16  Col: 8 in all layers
+-Loaded Data: 0 in Row: 16  Col: 8 in all layers
+-Loaded Data: 1 in Row: 16  Col: 9 in all layers
+-Loaded Data: 0 in Row: 16  Col: 9 in all layers
+-Loaded Data: 1 in Row: 16  Col: 10 in all layers
+-Loaded Data: 0 in Row: 16  Col: 10 in all layers
+-Loaded Data: 1 in Row: 16  Col: 11 in all layers
+-Loaded Data: 0 in Row: 16  Col: 11 in all layers
+-Loaded Data: 1 in Row: 16  Col: 12 in all layers
+-Loaded Data: 0 in Row: 16  Col: 12 in all layers
+-Loaded Data: 1 in Row: 16  Col: 13 in all layers
+-Loaded Data: 0 in Row: 16  Col: 13 in all layers
+-Loaded Data: 1 in Row: 16  Col: 14 in all layers
+-Loaded Data: 0 in Row: 16  Col: 14 in all layers
+-Loaded Data: 1 in Row: 16  Col: 15 in all layers
+-Loaded Data: 0 in Row: 16  Col: 15 in all layers
+-Loaded Data: 1 in Row: 16  Col: 16 in all layers
+-Loaded Data: 0 in Row: 16  Col: 16 in all layers
+-Loaded Data: 1 in Row: 16  Col: 17 in all layers
+-Loaded Data: 0 in Row: 16  Col: 17 in all layers
+-Loaded Data: 1 in Row: 16  Col: 18 in all layers
+-Loaded Data: 0 in Row: 16  Col: 18 in all layers
+-Loaded Data: 1 in Row: 16  Col: 19 in all layers
+-Loaded Data: 0 in Row: 16  Col: 19 in all layers
+-Loaded Data: 1 in Row: 16  Col: 20 in all layers
+-Loaded Data: 0 in Row: 16  Col: 20 in all layers
+-Loaded Data: 1 in Row: 16  Col: 21 in all layers
+-Loaded Data: 0 in Row: 16  Col: 21 in all layers
+-Loaded Data: 1 in Row: 16  Col: 22 in all layers
+-Loaded Data: 0 in Row: 16  Col: 22 in all layers
+-Loaded Data: 1 in Row: 16  Col: 23 in all layers
+-Loaded Data: 0 in Row: 16  Col: 23 in all layers
+-Loaded Data: 1 in Row: 16  Col: 24 in all layers
+-Loaded Data: 0 in Row: 16  Col: 24 in all layers
+-Loaded Data: 1 in Row: 16  Col: 25 in all layers
+-Loaded Data: 0 in Row: 16  Col: 25 in all layers
+-Loaded Data: 1 in Row: 16  Col: 26 in all layers
+-Loaded Data: 0 in Row: 16  Col: 26 in all layers
+-Loaded Data: 1 in Row: 16  Col: 27 in all layers
+-Loaded Data: 0 in Row: 16  Col: 27 in all layers
+-Loaded Data: 1 in Row: 16  Col: 28 in all layers
+-Loaded Data: 0 in Row: 16  Col: 28 in all layers
+-Loaded Data: 1 in Row: 16  Col: 29 in all layers
+-Loaded Data: 0 in Row: 16  Col: 29 in all layers
+-Loaded Data: 1 in Row: 16  Col: 30 in all layers
+-Loaded Data: 0 in Row: 16  Col: 30 in all layers
+-Loaded Data: 1 in Row: 16  Col: 31 in all layers
+-Loaded Data: 0 in Row: 16  Col: 31 in all layers
+calculated Output shift is  1281
+Using output shift: 0
+--no match for time slice:  3623 , checkData =  1 row = 16 Column/s Supposed to Match [8]
+--no match for time slice:  4475 , checkData =  1 row = 16 Column/s Supposed to Match [10]
+--no match for time slice:  7883 , checkData =  1 row = 16 Column/s Supposed to Match [18]
+--no match for time slice:  8309 , checkData =  1 row = 16 Column/s Supposed to Match [19]
+--no match for time slice:  8735 , checkData =  1 row = 16 Column/s Supposed to Match [20]
+--no match for time slice:  9161 , checkData =  1 row = 16 Column/s Supposed to Match [21]
+There are 6 mismatches!
+There are 26 matches!
+Expected number of hits : 32
+Actual number of hits : 26
+16:46:41
+Testing Row:15 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 15  Col: 0 in all layers
+-Loaded Data: 0 in Row: 15  Col: 0 in all layers
+-Loaded Data: 1 in Row: 15  Col: 1 in all layers
+-Loaded Data: 0 in Row: 15  Col: 1 in all layers
+-Loaded Data: 1 in Row: 15  Col: 2 in all layers
+-Loaded Data: 0 in Row: 15  Col: 2 in all layers
+-Loaded Data: 1 in Row: 15  Col: 3 in all layers
+-Loaded Data: 0 in Row: 15  Col: 3 in all layers
+-Loaded Data: 1 in Row: 15  Col: 4 in all layers
+-Loaded Data: 0 in Row: 15  Col: 4 in all layers
+-Loaded Data: 1 in Row: 15  Col: 5 in all layers
+-Loaded Data: 0 in Row: 15  Col: 5 in all layers
+-Loaded Data: 1 in Row: 15  Col: 6 in all layers
+-Loaded Data: 0 in Row: 15  Col: 6 in all layers
+-Loaded Data: 1 in Row: 15  Col: 7 in all layers
+-Loaded Data: 0 in Row: 15  Col: 7 in all layers
+-Loaded Data: 1 in Row: 15  Col: 8 in all layers
+-Loaded Data: 0 in Row: 15  Col: 8 in all layers
+-Loaded Data: 1 in Row: 15  Col: 9 in all layers
+-Loaded Data: 0 in Row: 15  Col: 9 in all layers
+-Loaded Data: 1 in Row: 15  Col: 10 in all layers
+-Loaded Data: 0 in Row: 15  Col: 10 in all layers
+-Loaded Data: 1 in Row: 15  Col: 11 in all layers
+-Loaded Data: 0 in Row: 15  Col: 11 in all layers
+-Loaded Data: 1 in Row: 15  Col: 12 in all layers
+-Loaded Data: 0 in Row: 15  Col: 12 in all layers
+-Loaded Data: 1 in Row: 15  Col: 13 in all layers
+-Loaded Data: 0 in Row: 15  Col: 13 in all layers
+-Loaded Data: 1 in Row: 15  Col: 14 in all layers
+-Loaded Data: 0 in Row: 15  Col: 14 in all layers
+-Loaded Data: 1 in Row: 15  Col: 15 in all layers
+-Loaded Data: 0 in Row: 15  Col: 15 in all layers
+-Loaded Data: 1 in Row: 15  Col: 16 in all layers
+-Loaded Data: 0 in Row: 15  Col: 16 in all layers
+-Loaded Data: 1 in Row: 15  Col: 17 in all layers
+-Loaded Data: 0 in Row: 15  Col: 17 in all layers
+-Loaded Data: 1 in Row: 15  Col: 18 in all layers
+-Loaded Data: 0 in Row: 15  Col: 18 in all layers
+-Loaded Data: 1 in Row: 15  Col: 19 in all layers
+-Loaded Data: 0 in Row: 15  Col: 19 in all layers
+-Loaded Data: 1 in Row: 15  Col: 20 in all layers
+-Loaded Data: 0 in Row: 15  Col: 20 in all layers
+-Loaded Data: 1 in Row: 15  Col: 21 in all layers
+-Loaded Data: 0 in Row: 15  Col: 21 in all layers
+-Loaded Data: 1 in Row: 15  Col: 22 in all layers
+-Loaded Data: 0 in Row: 15  Col: 22 in all layers
+-Loaded Data: 1 in Row: 15  Col: 23 in all layers
+-Loaded Data: 0 in Row: 15  Col: 23 in all layers
+-Loaded Data: 1 in Row: 15  Col: 24 in all layers
+-Loaded Data: 0 in Row: 15  Col: 24 in all layers
+-Loaded Data: 1 in Row: 15  Col: 25 in all layers
+-Loaded Data: 0 in Row: 15  Col: 25 in all layers
+-Loaded Data: 1 in Row: 15  Col: 26 in all layers
+-Loaded Data: 0 in Row: 15  Col: 26 in all layers
+-Loaded Data: 1 in Row: 15  Col: 27 in all layers
+-Loaded Data: 0 in Row: 15  Col: 27 in all layers
+-Loaded Data: 1 in Row: 15  Col: 28 in all layers
+-Loaded Data: 0 in Row: 15  Col: 28 in all layers
+-Loaded Data: 1 in Row: 15  Col: 29 in all layers
+-Loaded Data: 0 in Row: 15  Col: 29 in all layers
+-Loaded Data: 1 in Row: 15  Col: 30 in all layers
+-Loaded Data: 0 in Row: 15  Col: 30 in all layers
+-Loaded Data: 1 in Row: 15  Col: 31 in all layers
+-Loaded Data: 0 in Row: 15  Col: 31 in all layers
+calculated Output shift is  3
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 15 Column/s Supposed to Match [0]
+--no match for time slice:  641 , checkData =  1 row = 15 Column/s Supposed to Match [1]
+--no match for time slice:  1067 , checkData =  1 row = 15 Column/s Supposed to Match [2]
+--no match for time slice:  1493 , checkData =  1 row = 15 Column/s Supposed to Match [3]
+--no match for time slice:  2771 , checkData =  1 row = 15 Column/s Supposed to Match [6]
+--no match for time slice:  3623 , checkData =  1 row = 15 Column/s Supposed to Match [8]
+--no match for time slice:  4049 , checkData =  1 row = 15 Column/s Supposed to Match [9]
+--no match for time slice:  6605 , checkData =  1 row = 15 Column/s Supposed to Match [15]
+--no match for time slice:  8309 , checkData =  1 row = 15 Column/s Supposed to Match [19]
+--no match for time slice:  9161 , checkData =  1 row = 15 Column/s Supposed to Match [21]
+There are 10 mismatches!
+There are 22 matches!
+Expected number of hits : 32
+Actual number of hits : 22
+16:47:11
+Testing Row:14 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 14  Col: 0 in all layers
+-Loaded Data: 0 in Row: 14  Col: 0 in all layers
+-Loaded Data: 1 in Row: 14  Col: 1 in all layers
+-Loaded Data: 0 in Row: 14  Col: 1 in all layers
+-Loaded Data: 1 in Row: 14  Col: 2 in all layers
+-Loaded Data: 0 in Row: 14  Col: 2 in all layers
+-Loaded Data: 1 in Row: 14  Col: 3 in all layers
+-Loaded Data: 0 in Row: 14  Col: 3 in all layers
+-Loaded Data: 1 in Row: 14  Col: 4 in all layers
+-Loaded Data: 0 in Row: 14  Col: 4 in all layers
+-Loaded Data: 1 in Row: 14  Col: 5 in all layers
+-Loaded Data: 0 in Row: 14  Col: 5 in all layers
+-Loaded Data: 1 in Row: 14  Col: 6 in all layers
+-Loaded Data: 0 in Row: 14  Col: 6 in all layers
+-Loaded Data: 1 in Row: 14  Col: 7 in all layers
+-Loaded Data: 0 in Row: 14  Col: 7 in all layers
+-Loaded Data: 1 in Row: 14  Col: 8 in all layers
+-Loaded Data: 0 in Row: 14  Col: 8 in all layers
+-Loaded Data: 1 in Row: 14  Col: 9 in all layers
+-Loaded Data: 0 in Row: 14  Col: 9 in all layers
+-Loaded Data: 1 in Row: 14  Col: 10 in all layers
+-Loaded Data: 0 in Row: 14  Col: 10 in all layers
+-Loaded Data: 1 in Row: 14  Col: 11 in all layers
+-Loaded Data: 0 in Row: 14  Col: 11 in all layers
+-Loaded Data: 1 in Row: 14  Col: 12 in all layers
+-Loaded Data: 0 in Row: 14  Col: 12 in all layers
+-Loaded Data: 1 in Row: 14  Col: 13 in all layers
+-Loaded Data: 0 in Row: 14  Col: 13 in all layers
+-Loaded Data: 1 in Row: 14  Col: 14 in all layers
+-Loaded Data: 0 in Row: 14  Col: 14 in all layers
+-Loaded Data: 1 in Row: 14  Col: 15 in all layers
+-Loaded Data: 0 in Row: 14  Col: 15 in all layers
+-Loaded Data: 1 in Row: 14  Col: 16 in all layers
+-Loaded Data: 0 in Row: 14  Col: 16 in all layers
+-Loaded Data: 1 in Row: 14  Col: 17 in all layers
+-Loaded Data: 0 in Row: 14  Col: 17 in all layers
+-Loaded Data: 1 in Row: 14  Col: 18 in all layers
+-Loaded Data: 0 in Row: 14  Col: 18 in all layers
+-Loaded Data: 1 in Row: 14  Col: 19 in all layers
+-Loaded Data: 0 in Row: 14  Col: 19 in all layers
+-Loaded Data: 1 in Row: 14  Col: 20 in all layers
+-Loaded Data: 0 in Row: 14  Col: 20 in all layers
+-Loaded Data: 1 in Row: 14  Col: 21 in all layers
+-Loaded Data: 0 in Row: 14  Col: 21 in all layers
+-Loaded Data: 1 in Row: 14  Col: 22 in all layers
+-Loaded Data: 0 in Row: 14  Col: 22 in all layers
+-Loaded Data: 1 in Row: 14  Col: 23 in all layers
+-Loaded Data: 0 in Row: 14  Col: 23 in all layers
+-Loaded Data: 1 in Row: 14  Col: 24 in all layers
+-Loaded Data: 0 in Row: 14  Col: 24 in all layers
+-Loaded Data: 1 in Row: 14  Col: 25 in all layers
+-Loaded Data: 0 in Row: 14  Col: 25 in all layers
+-Loaded Data: 1 in Row: 14  Col: 26 in all layers
+-Loaded Data: 0 in Row: 14  Col: 26 in all layers
+-Loaded Data: 1 in Row: 14  Col: 27 in all layers
+-Loaded Data: 0 in Row: 14  Col: 27 in all layers
+-Loaded Data: 1 in Row: 14  Col: 28 in all layers
+-Loaded Data: 0 in Row: 14  Col: 28 in all layers
+-Loaded Data: 1 in Row: 14  Col: 29 in all layers
+-Loaded Data: 0 in Row: 14  Col: 29 in all layers
+-Loaded Data: 1 in Row: 14  Col: 30 in all layers
+-Loaded Data: 0 in Row: 14  Col: 30 in all layers
+-Loaded Data: 1 in Row: 14  Col: 31 in all layers
+-Loaded Data: 0 in Row: 14  Col: 31 in all layers
+calculated Output shift is  3455
+Using output shift: 0
+--no match for time slice:  1493 , checkData =  1 row = 14 Column/s Supposed to Match [3]
+--no match for time slice:  1919 , checkData =  1 row = 14 Column/s Supposed to Match [4]
+--no match for time slice:  3623 , checkData =  1 row = 14 Column/s Supposed to Match [8]
+--no match for time slice:  4475 , checkData =  1 row = 14 Column/s Supposed to Match [10]
+--no match for time slice:  5327 , checkData =  1 row = 14 Column/s Supposed to Match [12]
+--no match for time slice:  5753 , checkData =  1 row = 14 Column/s Supposed to Match [13]
+--no match for time slice:  7031 , checkData =  1 row = 14 Column/s Supposed to Match [16]
+--no match for time slice:  7457 , checkData =  1 row = 14 Column/s Supposed to Match [17]
+--no match for time slice:  8735 , checkData =  1 row = 14 Column/s Supposed to Match [20]
+There are 9 mismatches!
+There are 23 matches!
+Expected number of hits : 32
+Actual number of hits : 23
+16:47:41
+Testing Row:13 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 13  Col: 0 in all layers
+-Loaded Data: 0 in Row: 13  Col: 0 in all layers
+-Loaded Data: 1 in Row: 13  Col: 1 in all layers
+-Loaded Data: 0 in Row: 13  Col: 1 in all layers
+-Loaded Data: 1 in Row: 13  Col: 2 in all layers
+-Loaded Data: 0 in Row: 13  Col: 2 in all layers
+-Loaded Data: 1 in Row: 13  Col: 3 in all layers
+-Loaded Data: 0 in Row: 13  Col: 3 in all layers
+-Loaded Data: 1 in Row: 13  Col: 4 in all layers
+-Loaded Data: 0 in Row: 13  Col: 4 in all layers
+-Loaded Data: 1 in Row: 13  Col: 5 in all layers
+-Loaded Data: 0 in Row: 13  Col: 5 in all layers
+-Loaded Data: 1 in Row: 13  Col: 6 in all layers
+-Loaded Data: 0 in Row: 13  Col: 6 in all layers
+-Loaded Data: 1 in Row: 13  Col: 7 in all layers
+-Loaded Data: 0 in Row: 13  Col: 7 in all layers
+-Loaded Data: 1 in Row: 13  Col: 8 in all layers
+-Loaded Data: 0 in Row: 13  Col: 8 in all layers
+-Loaded Data: 1 in Row: 13  Col: 9 in all layers
+-Loaded Data: 0 in Row: 13  Col: 9 in all layers
+-Loaded Data: 1 in Row: 13  Col: 10 in all layers
+-Loaded Data: 0 in Row: 13  Col: 10 in all layers
+-Loaded Data: 1 in Row: 13  Col: 11 in all layers
+-Loaded Data: 0 in Row: 13  Col: 11 in all layers
+-Loaded Data: 1 in Row: 13  Col: 12 in all layers
+-Loaded Data: 0 in Row: 13  Col: 12 in all layers
+-Loaded Data: 1 in Row: 13  Col: 13 in all layers
+-Loaded Data: 0 in Row: 13  Col: 13 in all layers
+-Loaded Data: 1 in Row: 13  Col: 14 in all layers
+-Loaded Data: 0 in Row: 13  Col: 14 in all layers
+-Loaded Data: 1 in Row: 13  Col: 15 in all layers
+-Loaded Data: 0 in Row: 13  Col: 15 in all layers
+-Loaded Data: 1 in Row: 13  Col: 16 in all layers
+-Loaded Data: 0 in Row: 13  Col: 16 in all layers
+-Loaded Data: 1 in Row: 13  Col: 17 in all layers
+-Loaded Data: 0 in Row: 13  Col: 17 in all layers
+-Loaded Data: 1 in Row: 13  Col: 18 in all layers
+-Loaded Data: 0 in Row: 13  Col: 18 in all layers
+-Loaded Data: 1 in Row: 13  Col: 19 in all layers
+-Loaded Data: 0 in Row: 13  Col: 19 in all layers
+-Loaded Data: 1 in Row: 13  Col: 20 in all layers
+-Loaded Data: 0 in Row: 13  Col: 20 in all layers
+-Loaded Data: 1 in Row: 13  Col: 21 in all layers
+-Loaded Data: 0 in Row: 13  Col: 21 in all layers
+-Loaded Data: 1 in Row: 13  Col: 22 in all layers
+-Loaded Data: 0 in Row: 13  Col: 22 in all layers
+-Loaded Data: 1 in Row: 13  Col: 23 in all layers
+-Loaded Data: 0 in Row: 13  Col: 23 in all layers
+-Loaded Data: 1 in Row: 13  Col: 24 in all layers
+-Loaded Data: 0 in Row: 13  Col: 24 in all layers
+-Loaded Data: 1 in Row: 13  Col: 25 in all layers
+-Loaded Data: 0 in Row: 13  Col: 25 in all layers
+-Loaded Data: 1 in Row: 13  Col: 26 in all layers
+-Loaded Data: 0 in Row: 13  Col: 26 in all layers
+-Loaded Data: 1 in Row: 13  Col: 27 in all layers
+-Loaded Data: 0 in Row: 13  Col: 27 in all layers
+-Loaded Data: 1 in Row: 13  Col: 28 in all layers
+-Loaded Data: 0 in Row: 13  Col: 28 in all layers
+-Loaded Data: 1 in Row: 13  Col: 29 in all layers
+-Loaded Data: 0 in Row: 13  Col: 29 in all layers
+-Loaded Data: 1 in Row: 13  Col: 30 in all layers
+-Loaded Data: 0 in Row: 13  Col: 30 in all layers
+-Loaded Data: 1 in Row: 13  Col: 31 in all layers
+-Loaded Data: 0 in Row: 13  Col: 31 in all layers
+calculated Output shift is  2177
+Using output shift: 0
+--no match for time slice:  1493 , checkData =  1 row = 13 Column/s Supposed to Match [3]
+--no match for time slice:  1919 , checkData =  1 row = 13 Column/s Supposed to Match [4]
+--no match for time slice:  2345 , checkData =  1 row = 13 Column/s Supposed to Match [5]
+--no match for time slice:  3623 , checkData =  1 row = 13 Column/s Supposed to Match [8]
+--no match for time slice:  5327 , checkData =  1 row = 13 Column/s Supposed to Match [12]
+--no match for time slice:  5753 , checkData =  1 row = 13 Column/s Supposed to Match [13]
+--no match for time slice:  7031 , checkData =  1 row = 13 Column/s Supposed to Match [16]
+--no match for time slice:  7883 , checkData =  1 row = 13 Column/s Supposed to Match [18]
+--no match for time slice:  8309 , checkData =  1 row = 13 Column/s Supposed to Match [19]
+--no match for time slice:  9587 , checkData =  1 row = 13 Column/s Supposed to Match [22]
+--no match for time slice:  10013 , checkData =  1 row = 13 Column/s Supposed to Match [23]
+--no match for time slice:  10439 , checkData =  1 row = 13 Column/s Supposed to Match [24]
+--no match for time slice:  11291 , checkData =  1 row = 13 Column/s Supposed to Match [26]
+There are 13 mismatches!
+There are 19 matches!
+Expected number of hits : 32
+Actual number of hits : 19
+16:48:11
+Testing Row:12 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 12  Col: 0 in all layers
+-Loaded Data: 0 in Row: 12  Col: 0 in all layers
+-Loaded Data: 1 in Row: 12  Col: 1 in all layers
+-Loaded Data: 0 in Row: 12  Col: 1 in all layers
+-Loaded Data: 1 in Row: 12  Col: 2 in all layers
+-Loaded Data: 0 in Row: 12  Col: 2 in all layers
+-Loaded Data: 1 in Row: 12  Col: 3 in all layers
+-Loaded Data: 0 in Row: 12  Col: 3 in all layers
+-Loaded Data: 1 in Row: 12  Col: 4 in all layers
+-Loaded Data: 0 in Row: 12  Col: 4 in all layers
+-Loaded Data: 1 in Row: 12  Col: 5 in all layers
+-Loaded Data: 0 in Row: 12  Col: 5 in all layers
+-Loaded Data: 1 in Row: 12  Col: 6 in all layers
+-Loaded Data: 0 in Row: 12  Col: 6 in all layers
+-Loaded Data: 1 in Row: 12  Col: 7 in all layers
+-Loaded Data: 0 in Row: 12  Col: 7 in all layers
+-Loaded Data: 1 in Row: 12  Col: 8 in all layers
+-Loaded Data: 0 in Row: 12  Col: 8 in all layers
+-Loaded Data: 1 in Row: 12  Col: 9 in all layers
+-Loaded Data: 0 in Row: 12  Col: 9 in all layers
+-Loaded Data: 1 in Row: 12  Col: 10 in all layers
+-Loaded Data: 0 in Row: 12  Col: 10 in all layers
+-Loaded Data: 1 in Row: 12  Col: 11 in all layers
+-Loaded Data: 0 in Row: 12  Col: 11 in all layers
+-Loaded Data: 1 in Row: 12  Col: 12 in all layers
+-Loaded Data: 0 in Row: 12  Col: 12 in all layers
+-Loaded Data: 1 in Row: 12  Col: 13 in all layers
+-Loaded Data: 0 in Row: 12  Col: 13 in all layers
+-Loaded Data: 1 in Row: 12  Col: 14 in all layers
+-Loaded Data: 0 in Row: 12  Col: 14 in all layers
+-Loaded Data: 1 in Row: 12  Col: 15 in all layers
+-Loaded Data: 0 in Row: 12  Col: 15 in all layers
+-Loaded Data: 1 in Row: 12  Col: 16 in all layers
+-Loaded Data: 0 in Row: 12  Col: 16 in all layers
+-Loaded Data: 1 in Row: 12  Col: 17 in all layers
+-Loaded Data: 0 in Row: 12  Col: 17 in all layers
+-Loaded Data: 1 in Row: 12  Col: 18 in all layers
+-Loaded Data: 0 in Row: 12  Col: 18 in all layers
+-Loaded Data: 1 in Row: 12  Col: 19 in all layers
+-Loaded Data: 0 in Row: 12  Col: 19 in all layers
+-Loaded Data: 1 in Row: 12  Col: 20 in all layers
+-Loaded Data: 0 in Row: 12  Col: 20 in all layers
+-Loaded Data: 1 in Row: 12  Col: 21 in all layers
+-Loaded Data: 0 in Row: 12  Col: 21 in all layers
+-Loaded Data: 1 in Row: 12  Col: 22 in all layers
+-Loaded Data: 0 in Row: 12  Col: 22 in all layers
+-Loaded Data: 1 in Row: 12  Col: 23 in all layers
+-Loaded Data: 0 in Row: 12  Col: 23 in all layers
+-Loaded Data: 1 in Row: 12  Col: 24 in all layers
+-Loaded Data: 0 in Row: 12  Col: 24 in all layers
+-Loaded Data: 1 in Row: 12  Col: 25 in all layers
+-Loaded Data: 0 in Row: 12  Col: 25 in all layers
+-Loaded Data: 1 in Row: 12  Col: 26 in all layers
+-Loaded Data: 0 in Row: 12  Col: 26 in all layers
+-Loaded Data: 1 in Row: 12  Col: 27 in all layers
+-Loaded Data: 0 in Row: 12  Col: 27 in all layers
+-Loaded Data: 1 in Row: 12  Col: 28 in all layers
+-Loaded Data: 0 in Row: 12  Col: 28 in all layers
+-Loaded Data: 1 in Row: 12  Col: 29 in all layers
+-Loaded Data: 0 in Row: 12  Col: 29 in all layers
+-Loaded Data: 1 in Row: 12  Col: 30 in all layers
+-Loaded Data: 0 in Row: 12  Col: 30 in all layers
+-Loaded Data: 1 in Row: 12  Col: 31 in all layers
+-Loaded Data: 0 in Row: 12  Col: 31 in all layers
+calculated Output shift is  473
+Using output shift: 0
+--no match for time slice:  641 , checkData =  1 row = 12 Column/s Supposed to Match [1]
+--no match for time slice:  1067 , checkData =  1 row = 12 Column/s Supposed to Match [2]
+--no match for time slice:  2771 , checkData =  1 row = 12 Column/s Supposed to Match [6]
+--no match for time slice:  3623 , checkData =  1 row = 12 Column/s Supposed to Match [8]
+--no match for time slice:  4049 , checkData =  1 row = 12 Column/s Supposed to Match [9]
+--no match for time slice:  4475 , checkData =  1 row = 12 Column/s Supposed to Match [10]
+--no match for time slice:  4901 , checkData =  1 row = 12 Column/s Supposed to Match [11]
+--no match for time slice:  6179 , checkData =  1 row = 12 Column/s Supposed to Match [14]
+--no match for time slice:  6605 , checkData =  1 row = 12 Column/s Supposed to Match [15]
+--no match for time slice:  7031 , checkData =  1 row = 12 Column/s Supposed to Match [16]
+--no match for time slice:  8735 , checkData =  1 row = 12 Column/s Supposed to Match [20]
+--no match for time slice:  9161 , checkData =  1 row = 12 Column/s Supposed to Match [21]
+There are 12 mismatches!
+There are 20 matches!
+Expected number of hits : 32
+Actual number of hits : 20
+16:48:41
+Testing Row:11 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 11  Col: 0 in all layers
+-Loaded Data: 0 in Row: 11  Col: 0 in all layers
+-Loaded Data: 1 in Row: 11  Col: 1 in all layers
+-Loaded Data: 0 in Row: 11  Col: 1 in all layers
+-Loaded Data: 1 in Row: 11  Col: 2 in all layers
+-Loaded Data: 0 in Row: 11  Col: 2 in all layers
+-Loaded Data: 1 in Row: 11  Col: 3 in all layers
+-Loaded Data: 0 in Row: 11  Col: 3 in all layers
+-Loaded Data: 1 in Row: 11  Col: 4 in all layers
+-Loaded Data: 0 in Row: 11  Col: 4 in all layers
+-Loaded Data: 1 in Row: 11  Col: 5 in all layers
+-Loaded Data: 0 in Row: 11  Col: 5 in all layers
+-Loaded Data: 1 in Row: 11  Col: 6 in all layers
+-Loaded Data: 0 in Row: 11  Col: 6 in all layers
+-Loaded Data: 1 in Row: 11  Col: 7 in all layers
+-Loaded Data: 0 in Row: 11  Col: 7 in all layers
+-Loaded Data: 1 in Row: 11  Col: 8 in all layers
+-Loaded Data: 0 in Row: 11  Col: 8 in all layers
+-Loaded Data: 1 in Row: 11  Col: 9 in all layers
+-Loaded Data: 0 in Row: 11  Col: 9 in all layers
+-Loaded Data: 1 in Row: 11  Col: 10 in all layers
+-Loaded Data: 0 in Row: 11  Col: 10 in all layers
+-Loaded Data: 1 in Row: 11  Col: 11 in all layers
+-Loaded Data: 0 in Row: 11  Col: 11 in all layers
+-Loaded Data: 1 in Row: 11  Col: 12 in all layers
+-Loaded Data: 0 in Row: 11  Col: 12 in all layers
+-Loaded Data: 1 in Row: 11  Col: 13 in all layers
+-Loaded Data: 0 in Row: 11  Col: 13 in all layers
+-Loaded Data: 1 in Row: 11  Col: 14 in all layers
+-Loaded Data: 0 in Row: 11  Col: 14 in all layers
+-Loaded Data: 1 in Row: 11  Col: 15 in all layers
+-Loaded Data: 0 in Row: 11  Col: 15 in all layers
+-Loaded Data: 1 in Row: 11  Col: 16 in all layers
+-Loaded Data: 0 in Row: 11  Col: 16 in all layers
+-Loaded Data: 1 in Row: 11  Col: 17 in all layers
+-Loaded Data: 0 in Row: 11  Col: 17 in all layers
+-Loaded Data: 1 in Row: 11  Col: 18 in all layers
+-Loaded Data: 0 in Row: 11  Col: 18 in all layers
+-Loaded Data: 1 in Row: 11  Col: 19 in all layers
+-Loaded Data: 0 in Row: 11  Col: 19 in all layers
+-Loaded Data: 1 in Row: 11  Col: 20 in all layers
+-Loaded Data: 0 in Row: 11  Col: 20 in all layers
+-Loaded Data: 1 in Row: 11  Col: 21 in all layers
+-Loaded Data: 0 in Row: 11  Col: 21 in all layers
+-Loaded Data: 1 in Row: 11  Col: 22 in all layers
+-Loaded Data: 0 in Row: 11  Col: 22 in all layers
+-Loaded Data: 1 in Row: 11  Col: 23 in all layers
+-Loaded Data: 0 in Row: 11  Col: 23 in all layers
+-Loaded Data: 1 in Row: 11  Col: 24 in all layers
+-Loaded Data: 0 in Row: 11  Col: 24 in all layers
+-Loaded Data: 1 in Row: 11  Col: 25 in all layers
+-Loaded Data: 0 in Row: 11  Col: 25 in all layers
+-Loaded Data: 1 in Row: 11  Col: 26 in all layers
+-Loaded Data: 0 in Row: 11  Col: 26 in all layers
+-Loaded Data: 1 in Row: 11  Col: 27 in all layers
+-Loaded Data: 0 in Row: 11  Col: 27 in all layers
+-Loaded Data: 1 in Row: 11  Col: 28 in all layers
+-Loaded Data: 0 in Row: 11  Col: 28 in all layers
+-Loaded Data: 1 in Row: 11  Col: 29 in all layers
+-Loaded Data: 0 in Row: 11  Col: 29 in all layers
+-Loaded Data: 1 in Row: 11  Col: 30 in all layers
+-Loaded Data: 0 in Row: 11  Col: 30 in all layers
+-Loaded Data: 1 in Row: 11  Col: 31 in all layers
+-Loaded Data: 0 in Row: 11  Col: 31 in all layers
+calculated Output shift is  1751
+Using output shift: 0
+--no match for time slice:  641 , checkData =  1 row = 11 Column/s Supposed to Match [1]
+--no match for time slice:  1919 , checkData =  1 row = 11 Column/s Supposed to Match [4]
+--no match for time slice:  5753 , checkData =  1 row = 11 Column/s Supposed to Match [13]
+--no match for time slice:  6179 , checkData =  1 row = 11 Column/s Supposed to Match [14]
+--no match for time slice:  6605 , checkData =  1 row = 11 Column/s Supposed to Match [15]
+--no match for time slice:  7031 , checkData =  1 row = 11 Column/s Supposed to Match [16]
+--no match for time slice:  7457 , checkData =  1 row = 11 Column/s Supposed to Match [17]
+--no match for time slice:  7883 , checkData =  1 row = 11 Column/s Supposed to Match [18]
+--no match for time slice:  8735 , checkData =  1 row = 11 Column/s Supposed to Match [20]
+--no match for time slice:  10013 , checkData =  1 row = 11 Column/s Supposed to Match [23]
+--no match for time slice:  10439 , checkData =  1 row = 11 Column/s Supposed to Match [24]
+There are 11 mismatches!
+There are 21 matches!
+Expected number of hits : 32
+Actual number of hits : 21
+16:49:11
+Testing Row:10 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 10  Col: 0 in all layers
+-Loaded Data: 0 in Row: 10  Col: 0 in all layers
+-Loaded Data: 1 in Row: 10  Col: 1 in all layers
+-Loaded Data: 0 in Row: 10  Col: 1 in all layers
+-Loaded Data: 1 in Row: 10  Col: 2 in all layers
+-Loaded Data: 0 in Row: 10  Col: 2 in all layers
+-Loaded Data: 1 in Row: 10  Col: 3 in all layers
+-Loaded Data: 0 in Row: 10  Col: 3 in all layers
+-Loaded Data: 1 in Row: 10  Col: 4 in all layers
+-Loaded Data: 0 in Row: 10  Col: 4 in all layers
+-Loaded Data: 1 in Row: 10  Col: 5 in all layers
+-Loaded Data: 0 in Row: 10  Col: 5 in all layers
+-Loaded Data: 1 in Row: 10  Col: 6 in all layers
+-Loaded Data: 0 in Row: 10  Col: 6 in all layers
+-Loaded Data: 1 in Row: 10  Col: 7 in all layers
+-Loaded Data: 0 in Row: 10  Col: 7 in all layers
+-Loaded Data: 1 in Row: 10  Col: 8 in all layers
+-Loaded Data: 0 in Row: 10  Col: 8 in all layers
+-Loaded Data: 1 in Row: 10  Col: 9 in all layers
+-Loaded Data: 0 in Row: 10  Col: 9 in all layers
+-Loaded Data: 1 in Row: 10  Col: 10 in all layers
+-Loaded Data: 0 in Row: 10  Col: 10 in all layers
+-Loaded Data: 1 in Row: 10  Col: 11 in all layers
+-Loaded Data: 0 in Row: 10  Col: 11 in all layers
+-Loaded Data: 1 in Row: 10  Col: 12 in all layers
+-Loaded Data: 0 in Row: 10  Col: 12 in all layers
+-Loaded Data: 1 in Row: 10  Col: 13 in all layers
+-Loaded Data: 0 in Row: 10  Col: 13 in all layers
+-Loaded Data: 1 in Row: 10  Col: 14 in all layers
+-Loaded Data: 0 in Row: 10  Col: 14 in all layers
+-Loaded Data: 1 in Row: 10  Col: 15 in all layers
+-Loaded Data: 0 in Row: 10  Col: 15 in all layers
+-Loaded Data: 1 in Row: 10  Col: 16 in all layers
+-Loaded Data: 0 in Row: 10  Col: 16 in all layers
+-Loaded Data: 1 in Row: 10  Col: 17 in all layers
+-Loaded Data: 0 in Row: 10  Col: 17 in all layers
+-Loaded Data: 1 in Row: 10  Col: 18 in all layers
+-Loaded Data: 0 in Row: 10  Col: 18 in all layers
+-Loaded Data: 1 in Row: 10  Col: 19 in all layers
+-Loaded Data: 0 in Row: 10  Col: 19 in all layers
+-Loaded Data: 1 in Row: 10  Col: 20 in all layers
+-Loaded Data: 0 in Row: 10  Col: 20 in all layers
+-Loaded Data: 1 in Row: 10  Col: 21 in all layers
+-Loaded Data: 0 in Row: 10  Col: 21 in all layers
+-Loaded Data: 1 in Row: 10  Col: 22 in all layers
+-Loaded Data: 0 in Row: 10  Col: 22 in all layers
+-Loaded Data: 1 in Row: 10  Col: 23 in all layers
+-Loaded Data: 0 in Row: 10  Col: 23 in all layers
+-Loaded Data: 1 in Row: 10  Col: 24 in all layers
+-Loaded Data: 0 in Row: 10  Col: 24 in all layers
+-Loaded Data: 1 in Row: 10  Col: 25 in all layers
+-Loaded Data: 0 in Row: 10  Col: 25 in all layers
+-Loaded Data: 1 in Row: 10  Col: 26 in all layers
+-Loaded Data: 0 in Row: 10  Col: 26 in all layers
+-Loaded Data: 1 in Row: 10  Col: 27 in all layers
+-Loaded Data: 0 in Row: 10  Col: 27 in all layers
+-Loaded Data: 1 in Row: 10  Col: 28 in all layers
+-Loaded Data: 0 in Row: 10  Col: 28 in all layers
+-Loaded Data: 1 in Row: 10  Col: 29 in all layers
+-Loaded Data: 0 in Row: 10  Col: 29 in all layers
+-Loaded Data: 1 in Row: 10  Col: 30 in all layers
+-Loaded Data: 0 in Row: 10  Col: 30 in all layers
+-Loaded Data: 1 in Row: 10  Col: 31 in all layers
+-Loaded Data: 0 in Row: 10  Col: 31 in all layers
+calculated Output shift is  1325
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 10 Column/s Supposed to Match [0]
+--no match for time slice:  1493 , checkData =  1 row = 10 Column/s Supposed to Match [3]
+--no match for time slice:  2345 , checkData =  1 row = 10 Column/s Supposed to Match [5]
+--no match for time slice:  3623 , checkData =  1 row = 10 Column/s Supposed to Match [8]
+--no match for time slice:  4475 , checkData =  1 row = 10 Column/s Supposed to Match [10]
+--no match for time slice:  5327 , checkData =  1 row = 10 Column/s Supposed to Match [12]
+--no match for time slice:  5753 , checkData =  1 row = 10 Column/s Supposed to Match [13]
+--no match for time slice:  7457 , checkData =  1 row = 10 Column/s Supposed to Match [17]
+--no match for time slice:  9161 , checkData =  1 row = 10 Column/s Supposed to Match [21]
+--no match for time slice:  9587 , checkData =  1 row = 10 Column/s Supposed to Match [22]
+--no match for time slice:  10013 , checkData =  1 row = 10 Column/s Supposed to Match [23]
+There are 11 mismatches!
+There are 21 matches!
+Expected number of hits : 32
+Actual number of hits : 21
+16:49:41
+Testing Row:9 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 9  Col: 0 in all layers
+-Loaded Data: 0 in Row: 9  Col: 0 in all layers
+-Loaded Data: 1 in Row: 9  Col: 1 in all layers
+-Loaded Data: 0 in Row: 9  Col: 1 in all layers
+-Loaded Data: 1 in Row: 9  Col: 2 in all layers
+-Loaded Data: 0 in Row: 9  Col: 2 in all layers
+-Loaded Data: 1 in Row: 9  Col: 3 in all layers
+-Loaded Data: 0 in Row: 9  Col: 3 in all layers
+-Loaded Data: 1 in Row: 9  Col: 4 in all layers
+-Loaded Data: 0 in Row: 9  Col: 4 in all layers
+-Loaded Data: 1 in Row: 9  Col: 5 in all layers
+-Loaded Data: 0 in Row: 9  Col: 5 in all layers
+-Loaded Data: 1 in Row: 9  Col: 6 in all layers
+-Loaded Data: 0 in Row: 9  Col: 6 in all layers
+-Loaded Data: 1 in Row: 9  Col: 7 in all layers
+-Loaded Data: 0 in Row: 9  Col: 7 in all layers
+-Loaded Data: 1 in Row: 9  Col: 8 in all layers
+-Loaded Data: 0 in Row: 9  Col: 8 in all layers
+-Loaded Data: 1 in Row: 9  Col: 9 in all layers
+-Loaded Data: 0 in Row: 9  Col: 9 in all layers
+-Loaded Data: 1 in Row: 9  Col: 10 in all layers
+-Loaded Data: 0 in Row: 9  Col: 10 in all layers
+-Loaded Data: 1 in Row: 9  Col: 11 in all layers
+-Loaded Data: 0 in Row: 9  Col: 11 in all layers
+-Loaded Data: 1 in Row: 9  Col: 12 in all layers
+-Loaded Data: 0 in Row: 9  Col: 12 in all layers
+-Loaded Data: 1 in Row: 9  Col: 13 in all layers
+-Loaded Data: 0 in Row: 9  Col: 13 in all layers
+-Loaded Data: 1 in Row: 9  Col: 14 in all layers
+-Loaded Data: 0 in Row: 9  Col: 14 in all layers
+-Loaded Data: 1 in Row: 9  Col: 15 in all layers
+-Loaded Data: 0 in Row: 9  Col: 15 in all layers
+-Loaded Data: 1 in Row: 9  Col: 16 in all layers
+-Loaded Data: 0 in Row: 9  Col: 16 in all layers
+-Loaded Data: 1 in Row: 9  Col: 17 in all layers
+-Loaded Data: 0 in Row: 9  Col: 17 in all layers
+-Loaded Data: 1 in Row: 9  Col: 18 in all layers
+-Loaded Data: 0 in Row: 9  Col: 18 in all layers
+-Loaded Data: 1 in Row: 9  Col: 19 in all layers
+-Loaded Data: 0 in Row: 9  Col: 19 in all layers
+-Loaded Data: 1 in Row: 9  Col: 20 in all layers
+-Loaded Data: 0 in Row: 9  Col: 20 in all layers
+-Loaded Data: 1 in Row: 9  Col: 21 in all layers
+-Loaded Data: 0 in Row: 9  Col: 21 in all layers
+-Loaded Data: 1 in Row: 9  Col: 22 in all layers
+-Loaded Data: 0 in Row: 9  Col: 22 in all layers
+-Loaded Data: 1 in Row: 9  Col: 23 in all layers
+-Loaded Data: 0 in Row: 9  Col: 23 in all layers
+-Loaded Data: 1 in Row: 9  Col: 24 in all layers
+-Loaded Data: 0 in Row: 9  Col: 24 in all layers
+-Loaded Data: 1 in Row: 9  Col: 25 in all layers
+-Loaded Data: 0 in Row: 9  Col: 25 in all layers
+-Loaded Data: 1 in Row: 9  Col: 26 in all layers
+-Loaded Data: 0 in Row: 9  Col: 26 in all layers
+-Loaded Data: 1 in Row: 9  Col: 27 in all layers
+-Loaded Data: 0 in Row: 9  Col: 27 in all layers
+-Loaded Data: 1 in Row: 9  Col: 28 in all layers
+-Loaded Data: 0 in Row: 9  Col: 28 in all layers
+-Loaded Data: 1 in Row: 9  Col: 29 in all layers
+-Loaded Data: 0 in Row: 9  Col: 29 in all layers
+-Loaded Data: 1 in Row: 9  Col: 30 in all layers
+-Loaded Data: 0 in Row: 9  Col: 30 in all layers
+-Loaded Data: 1 in Row: 9  Col: 31 in all layers
+-Loaded Data: 0 in Row: 9  Col: 31 in all layers
+calculated Output shift is  8523
+Using output shift: 0
+--no match for time slice:  3197 , checkData =  1 row = 9 Column/s Supposed to Match [7]
+--no match for time slice:  4049 , checkData =  1 row = 9 Column/s Supposed to Match [9]
+--no match for time slice:  4901 , checkData =  1 row = 9 Column/s Supposed to Match [11]
+--no match for time slice:  7457 , checkData =  1 row = 9 Column/s Supposed to Match [17]
+--no match for time slice:  8309 , checkData =  1 row = 9 Column/s Supposed to Match [19]
+--no match for time slice:  10439 , checkData =  1 row = 9 Column/s Supposed to Match [24]
+--no match for time slice:  13421 , checkData =  1 row = 9 Column/s Supposed to Match [31]
+There are 7 mismatches!
+There are 25 matches!
+Expected number of hits : 32
+Actual number of hits : 25
+16:50:12
+Testing Row:8 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 8  Col: 0 in all layers
+-Loaded Data: 0 in Row: 8  Col: 0 in all layers
+-Loaded Data: 1 in Row: 8  Col: 1 in all layers
+-Loaded Data: 0 in Row: 8  Col: 1 in all layers
+-Loaded Data: 1 in Row: 8  Col: 2 in all layers
+-Loaded Data: 0 in Row: 8  Col: 2 in all layers
+-Loaded Data: 1 in Row: 8  Col: 3 in all layers
+-Loaded Data: 0 in Row: 8  Col: 3 in all layers
+-Loaded Data: 1 in Row: 8  Col: 4 in all layers
+-Loaded Data: 0 in Row: 8  Col: 4 in all layers
+-Loaded Data: 1 in Row: 8  Col: 5 in all layers
+-Loaded Data: 0 in Row: 8  Col: 5 in all layers
+-Loaded Data: 1 in Row: 8  Col: 6 in all layers
+-Loaded Data: 0 in Row: 8  Col: 6 in all layers
+-Loaded Data: 1 in Row: 8  Col: 7 in all layers
+-Loaded Data: 0 in Row: 8  Col: 7 in all layers
+-Loaded Data: 1 in Row: 8  Col: 8 in all layers
+-Loaded Data: 0 in Row: 8  Col: 8 in all layers
+-Loaded Data: 1 in Row: 8  Col: 9 in all layers
+-Loaded Data: 0 in Row: 8  Col: 9 in all layers
+-Loaded Data: 1 in Row: 8  Col: 10 in all layers
+-Loaded Data: 0 in Row: 8  Col: 10 in all layers
+-Loaded Data: 1 in Row: 8  Col: 11 in all layers
+-Loaded Data: 0 in Row: 8  Col: 11 in all layers
+-Loaded Data: 1 in Row: 8  Col: 12 in all layers
+-Loaded Data: 0 in Row: 8  Col: 12 in all layers
+-Loaded Data: 1 in Row: 8  Col: 13 in all layers
+-Loaded Data: 0 in Row: 8  Col: 13 in all layers
+-Loaded Data: 1 in Row: 8  Col: 14 in all layers
+-Loaded Data: 0 in Row: 8  Col: 14 in all layers
+-Loaded Data: 1 in Row: 8  Col: 15 in all layers
+-Loaded Data: 0 in Row: 8  Col: 15 in all layers
+-Loaded Data: 1 in Row: 8  Col: 16 in all layers
+-Loaded Data: 0 in Row: 8  Col: 16 in all layers
+-Loaded Data: 1 in Row: 8  Col: 17 in all layers
+-Loaded Data: 0 in Row: 8  Col: 17 in all layers
+-Loaded Data: 1 in Row: 8  Col: 18 in all layers
+-Loaded Data: 0 in Row: 8  Col: 18 in all layers
+-Loaded Data: 1 in Row: 8  Col: 19 in all layers
+-Loaded Data: 0 in Row: 8  Col: 19 in all layers
+-Loaded Data: 1 in Row: 8  Col: 20 in all layers
+-Loaded Data: 0 in Row: 8  Col: 20 in all layers
+-Loaded Data: 1 in Row: 8  Col: 21 in all layers
+-Loaded Data: 0 in Row: 8  Col: 21 in all layers
+-Loaded Data: 1 in Row: 8  Col: 22 in all layers
+-Loaded Data: 0 in Row: 8  Col: 22 in all layers
+-Loaded Data: 1 in Row: 8  Col: 23 in all layers
+-Loaded Data: 0 in Row: 8  Col: 23 in all layers
+-Loaded Data: 1 in Row: 8  Col: 24 in all layers
+-Loaded Data: 0 in Row: 8  Col: 24 in all layers
+-Loaded Data: 1 in Row: 8  Col: 25 in all layers
+-Loaded Data: 0 in Row: 8  Col: 25 in all layers
+-Loaded Data: 1 in Row: 8  Col: 26 in all layers
+-Loaded Data: 0 in Row: 8  Col: 26 in all layers
+-Loaded Data: 1 in Row: 8  Col: 27 in all layers
+-Loaded Data: 0 in Row: 8  Col: 27 in all layers
+-Loaded Data: 1 in Row: 8  Col: 28 in all layers
+-Loaded Data: 0 in Row: 8  Col: 28 in all layers
+-Loaded Data: 1 in Row: 8  Col: 29 in all layers
+-Loaded Data: 0 in Row: 8  Col: 29 in all layers
+-Loaded Data: 1 in Row: 8  Col: 30 in all layers
+-Loaded Data: 0 in Row: 8  Col: 30 in all layers
+-Loaded Data: 1 in Row: 8  Col: 31 in all layers
+-Loaded Data: 0 in Row: 8  Col: 31 in all layers
+calculated Output shift is  429
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 8 Column/s Supposed to Match [0]
+--no match for time slice:  641 , checkData =  1 row = 8 Column/s Supposed to Match [1]
+--no match for time slice:  1493 , checkData =  1 row = 8 Column/s Supposed to Match [3]
+--no match for time slice:  1919 , checkData =  1 row = 8 Column/s Supposed to Match [4]
+--no match for time slice:  2345 , checkData =  1 row = 8 Column/s Supposed to Match [5]
+--no match for time slice:  2771 , checkData =  1 row = 8 Column/s Supposed to Match [6]
+--no match for time slice:  3623 , checkData =  1 row = 8 Column/s Supposed to Match [8]
+--no match for time slice:  4049 , checkData =  1 row = 8 Column/s Supposed to Match [9]
+--no match for time slice:  4901 , checkData =  1 row = 8 Column/s Supposed to Match [11]
+--no match for time slice:  5327 , checkData =  1 row = 8 Column/s Supposed to Match [12]
+--no match for time slice:  5753 , checkData =  1 row = 8 Column/s Supposed to Match [13]
+--no match for time slice:  6605 , checkData =  1 row = 8 Column/s Supposed to Match [15]
+--no match for time slice:  7457 , checkData =  1 row = 8 Column/s Supposed to Match [17]
+--no match for time slice:  9161 , checkData =  1 row = 8 Column/s Supposed to Match [21]
+--no match for time slice:  12995 , checkData =  1 row = 8 Column/s Supposed to Match [30]
+There are 15 mismatches!
+There are 17 matches!
+Expected number of hits : 32
+Actual number of hits : 17
+16:50:42
+Testing Row:7 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 7  Col: 0 in all layers
+-Loaded Data: 0 in Row: 7  Col: 0 in all layers
+-Loaded Data: 1 in Row: 7  Col: 1 in all layers
+-Loaded Data: 0 in Row: 7  Col: 1 in all layers
+-Loaded Data: 1 in Row: 7  Col: 2 in all layers
+-Loaded Data: 0 in Row: 7  Col: 2 in all layers
+-Loaded Data: 1 in Row: 7  Col: 3 in all layers
+-Loaded Data: 0 in Row: 7  Col: 3 in all layers
+-Loaded Data: 1 in Row: 7  Col: 4 in all layers
+-Loaded Data: 0 in Row: 7  Col: 4 in all layers
+-Loaded Data: 1 in Row: 7  Col: 5 in all layers
+-Loaded Data: 0 in Row: 7  Col: 5 in all layers
+-Loaded Data: 1 in Row: 7  Col: 6 in all layers
+-Loaded Data: 0 in Row: 7  Col: 6 in all layers
+-Loaded Data: 1 in Row: 7  Col: 7 in all layers
+-Loaded Data: 0 in Row: 7  Col: 7 in all layers
+-Loaded Data: 1 in Row: 7  Col: 8 in all layers
+-Loaded Data: 0 in Row: 7  Col: 8 in all layers
+-Loaded Data: 1 in Row: 7  Col: 9 in all layers
+-Loaded Data: 0 in Row: 7  Col: 9 in all layers
+-Loaded Data: 1 in Row: 7  Col: 10 in all layers
+-Loaded Data: 0 in Row: 7  Col: 10 in all layers
+-Loaded Data: 1 in Row: 7  Col: 11 in all layers
+-Loaded Data: 0 in Row: 7  Col: 11 in all layers
+-Loaded Data: 1 in Row: 7  Col: 12 in all layers
+-Loaded Data: 0 in Row: 7  Col: 12 in all layers
+-Loaded Data: 1 in Row: 7  Col: 13 in all layers
+-Loaded Data: 0 in Row: 7  Col: 13 in all layers
+-Loaded Data: 1 in Row: 7  Col: 14 in all layers
+-Loaded Data: 0 in Row: 7  Col: 14 in all layers
+-Loaded Data: 1 in Row: 7  Col: 15 in all layers
+-Loaded Data: 0 in Row: 7  Col: 15 in all layers
+-Loaded Data: 1 in Row: 7  Col: 16 in all layers
+-Loaded Data: 0 in Row: 7  Col: 16 in all layers
+-Loaded Data: 1 in Row: 7  Col: 17 in all layers
+-Loaded Data: 0 in Row: 7  Col: 17 in all layers
+-Loaded Data: 1 in Row: 7  Col: 18 in all layers
+-Loaded Data: 0 in Row: 7  Col: 18 in all layers
+-Loaded Data: 1 in Row: 7  Col: 19 in all layers
+-Loaded Data: 0 in Row: 7  Col: 19 in all layers
+-Loaded Data: 1 in Row: 7  Col: 20 in all layers
+-Loaded Data: 0 in Row: 7  Col: 20 in all layers
+-Loaded Data: 1 in Row: 7  Col: 21 in all layers
+-Loaded Data: 0 in Row: 7  Col: 21 in all layers
+-Loaded Data: 1 in Row: 7  Col: 22 in all layers
+-Loaded Data: 0 in Row: 7  Col: 22 in all layers
+-Loaded Data: 1 in Row: 7  Col: 23 in all layers
+-Loaded Data: 0 in Row: 7  Col: 23 in all layers
+-Loaded Data: 1 in Row: 7  Col: 24 in all layers
+-Loaded Data: 0 in Row: 7  Col: 24 in all layers
+-Loaded Data: 1 in Row: 7  Col: 25 in all layers
+-Loaded Data: 0 in Row: 7  Col: 25 in all layers
+-Loaded Data: 1 in Row: 7  Col: 26 in all layers
+-Loaded Data: 0 in Row: 7  Col: 26 in all layers
+-Loaded Data: 1 in Row: 7  Col: 27 in all layers
+-Loaded Data: 0 in Row: 7  Col: 27 in all layers
+-Loaded Data: 1 in Row: 7  Col: 28 in all layers
+-Loaded Data: 0 in Row: 7  Col: 28 in all layers
+-Loaded Data: 1 in Row: 7  Col: 29 in all layers
+-Loaded Data: 0 in Row: 7  Col: 29 in all layers
+-Loaded Data: 1 in Row: 7  Col: 30 in all layers
+-Loaded Data: 0 in Row: 7  Col: 30 in all layers
+-Loaded Data: 1 in Row: 7  Col: 31 in all layers
+-Loaded Data: 0 in Row: 7  Col: 31 in all layers
+calculated Output shift is  1325
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 7 Column/s Supposed to Match [0]
+--no match for time slice:  641 , checkData =  1 row = 7 Column/s Supposed to Match [1]
+--no match for time slice:  1067 , checkData =  1 row = 7 Column/s Supposed to Match [2]
+--no match for time slice:  1493 , checkData =  1 row = 7 Column/s Supposed to Match [3]
+--no match for time slice:  2345 , checkData =  1 row = 7 Column/s Supposed to Match [5]
+--no match for time slice:  3197 , checkData =  1 row = 7 Column/s Supposed to Match [7]
+--no match for time slice:  3623 , checkData =  1 row = 7 Column/s Supposed to Match [8]
+--no match for time slice:  4049 , checkData =  1 row = 7 Column/s Supposed to Match [9]
+--no match for time slice:  4475 , checkData =  1 row = 7 Column/s Supposed to Match [10]
+--no match for time slice:  4901 , checkData =  1 row = 7 Column/s Supposed to Match [11]
+--no match for time slice:  5327 , checkData =  1 row = 7 Column/s Supposed to Match [12]
+--no match for time slice:  6179 , checkData =  1 row = 7 Column/s Supposed to Match [14]
+--no match for time slice:  6605 , checkData =  1 row = 7 Column/s Supposed to Match [15]
+--no match for time slice:  7031 , checkData =  1 row = 7 Column/s Supposed to Match [16]
+--no match for time slice:  7457 , checkData =  1 row = 7 Column/s Supposed to Match [17]
+--no match for time slice:  8309 , checkData =  1 row = 7 Column/s Supposed to Match [19]
+--no match for time slice:  8735 , checkData =  1 row = 7 Column/s Supposed to Match [20]
+--no match for time slice:  9587 , checkData =  1 row = 7 Column/s Supposed to Match [22]
+--no match for time slice:  10013 , checkData =  1 row = 7 Column/s Supposed to Match [23]
+--no match for time slice:  10439 , checkData =  1 row = 7 Column/s Supposed to Match [24]
+--no match for time slice:  11717 , checkData =  1 row = 7 Column/s Supposed to Match [27]
+--no match for time slice:  12995 , checkData =  1 row = 7 Column/s Supposed to Match [30]
+--no match for time slice:  13421 , checkData =  1 row = 7 Column/s Supposed to Match [31]
+There are 23 mismatches!
+There are 9 matches!
+Expected number of hits : 32
+Actual number of hits : 9
+16:51:11
+Testing Row:6 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 6  Col: 0 in all layers
+-Loaded Data: 0 in Row: 6  Col: 0 in all layers
+-Loaded Data: 1 in Row: 6  Col: 1 in all layers
+-Loaded Data: 0 in Row: 6  Col: 1 in all layers
+-Loaded Data: 1 in Row: 6  Col: 2 in all layers
+-Loaded Data: 0 in Row: 6  Col: 2 in all layers
+-Loaded Data: 1 in Row: 6  Col: 3 in all layers
+-Loaded Data: 0 in Row: 6  Col: 3 in all layers
+-Loaded Data: 1 in Row: 6  Col: 4 in all layers
+-Loaded Data: 0 in Row: 6  Col: 4 in all layers
+-Loaded Data: 1 in Row: 6  Col: 5 in all layers
+-Loaded Data: 0 in Row: 6  Col: 5 in all layers
+-Loaded Data: 1 in Row: 6  Col: 6 in all layers
+-Loaded Data: 0 in Row: 6  Col: 6 in all layers
+-Loaded Data: 1 in Row: 6  Col: 7 in all layers
+-Loaded Data: 0 in Row: 6  Col: 7 in all layers
+-Loaded Data: 1 in Row: 6  Col: 8 in all layers
+-Loaded Data: 0 in Row: 6  Col: 8 in all layers
+-Loaded Data: 1 in Row: 6  Col: 9 in all layers
+-Loaded Data: 0 in Row: 6  Col: 9 in all layers
+-Loaded Data: 1 in Row: 6  Col: 10 in all layers
+-Loaded Data: 0 in Row: 6  Col: 10 in all layers
+-Loaded Data: 1 in Row: 6  Col: 11 in all layers
+-Loaded Data: 0 in Row: 6  Col: 11 in all layers
+-Loaded Data: 1 in Row: 6  Col: 12 in all layers
+-Loaded Data: 0 in Row: 6  Col: 12 in all layers
+-Loaded Data: 1 in Row: 6  Col: 13 in all layers
+-Loaded Data: 0 in Row: 6  Col: 13 in all layers
+-Loaded Data: 1 in Row: 6  Col: 14 in all layers
+-Loaded Data: 0 in Row: 6  Col: 14 in all layers
+-Loaded Data: 1 in Row: 6  Col: 15 in all layers
+-Loaded Data: 0 in Row: 6  Col: 15 in all layers
+-Loaded Data: 1 in Row: 6  Col: 16 in all layers
+-Loaded Data: 0 in Row: 6  Col: 16 in all layers
+-Loaded Data: 1 in Row: 6  Col: 17 in all layers
+-Loaded Data: 0 in Row: 6  Col: 17 in all layers
+-Loaded Data: 1 in Row: 6  Col: 18 in all layers
+-Loaded Data: 0 in Row: 6  Col: 18 in all layers
+-Loaded Data: 1 in Row: 6  Col: 19 in all layers
+-Loaded Data: 0 in Row: 6  Col: 19 in all layers
+-Loaded Data: 1 in Row: 6  Col: 20 in all layers
+-Loaded Data: 0 in Row: 6  Col: 20 in all layers
+-Loaded Data: 1 in Row: 6  Col: 21 in all layers
+-Loaded Data: 0 in Row: 6  Col: 21 in all layers
+-Loaded Data: 1 in Row: 6  Col: 22 in all layers
+-Loaded Data: 0 in Row: 6  Col: 22 in all layers
+-Loaded Data: 1 in Row: 6  Col: 23 in all layers
+-Loaded Data: 0 in Row: 6  Col: 23 in all layers
+-Loaded Data: 1 in Row: 6  Col: 24 in all layers
+-Loaded Data: 0 in Row: 6  Col: 24 in all layers
+-Loaded Data: 1 in Row: 6  Col: 25 in all layers
+-Loaded Data: 0 in Row: 6  Col: 25 in all layers
+-Loaded Data: 1 in Row: 6  Col: 26 in all layers
+-Loaded Data: 0 in Row: 6  Col: 26 in all layers
+-Loaded Data: 1 in Row: 6  Col: 27 in all layers
+-Loaded Data: 0 in Row: 6  Col: 27 in all layers
+-Loaded Data: 1 in Row: 6  Col: 28 in all layers
+-Loaded Data: 0 in Row: 6  Col: 28 in all layers
+-Loaded Data: 1 in Row: 6  Col: 29 in all layers
+-Loaded Data: 0 in Row: 6  Col: 29 in all layers
+-Loaded Data: 1 in Row: 6  Col: 30 in all layers
+-Loaded Data: 0 in Row: 6  Col: 30 in all layers
+-Loaded Data: 1 in Row: 6  Col: 31 in all layers
+-Loaded Data: 0 in Row: 6  Col: 31 in all layers
+calculated Output shift is  899
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 6 Column/s Supposed to Match [0]
+--no match for time slice:  641 , checkData =  1 row = 6 Column/s Supposed to Match [1]
+--no match for time slice:  1067 , checkData =  1 row = 6 Column/s Supposed to Match [2]
+--no match for time slice:  1493 , checkData =  1 row = 6 Column/s Supposed to Match [3]
+--no match for time slice:  3197 , checkData =  1 row = 6 Column/s Supposed to Match [7]
+--no match for time slice:  4049 , checkData =  1 row = 6 Column/s Supposed to Match [9]
+--no match for time slice:  4475 , checkData =  1 row = 6 Column/s Supposed to Match [10]
+--no match for time slice:  4901 , checkData =  1 row = 6 Column/s Supposed to Match [11]
+--no match for time slice:  5327 , checkData =  1 row = 6 Column/s Supposed to Match [12]
+--no match for time slice:  5753 , checkData =  1 row = 6 Column/s Supposed to Match [13]
+--no match for time slice:  6179 , checkData =  1 row = 6 Column/s Supposed to Match [14]
+--no match for time slice:  6605 , checkData =  1 row = 6 Column/s Supposed to Match [15]
+--no match for time slice:  7031 , checkData =  1 row = 6 Column/s Supposed to Match [16]
+--no match for time slice:  7457 , checkData =  1 row = 6 Column/s Supposed to Match [17]
+--no match for time slice:  8735 , checkData =  1 row = 6 Column/s Supposed to Match [20]
+--no match for time slice:  9161 , checkData =  1 row = 6 Column/s Supposed to Match [21]
+--no match for time slice:  9587 , checkData =  1 row = 6 Column/s Supposed to Match [22]
+--no match for time slice:  10439 , checkData =  1 row = 6 Column/s Supposed to Match [24]
+--no match for time slice:  12569 , checkData =  1 row = 6 Column/s Supposed to Match [29]
+--no match for time slice:  12995 , checkData =  1 row = 6 Column/s Supposed to Match [30]
+--no match for time slice:  13421 , checkData =  1 row = 6 Column/s Supposed to Match [31]
+There are 21 mismatches!
+There are 11 matches!
+Expected number of hits : 32
+Actual number of hits : 11
+16:51:41
+Testing Row:5 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 5  Col: 0 in all layers
+-Loaded Data: 0 in Row: 5  Col: 0 in all layers
+-Loaded Data: 1 in Row: 5  Col: 1 in all layers
+-Loaded Data: 0 in Row: 5  Col: 1 in all layers
+-Loaded Data: 1 in Row: 5  Col: 2 in all layers
+-Loaded Data: 0 in Row: 5  Col: 2 in all layers
+-Loaded Data: 1 in Row: 5  Col: 3 in all layers
+-Loaded Data: 0 in Row: 5  Col: 3 in all layers
+-Loaded Data: 1 in Row: 5  Col: 4 in all layers
+-Loaded Data: 0 in Row: 5  Col: 4 in all layers
+-Loaded Data: 1 in Row: 5  Col: 5 in all layers
+-Loaded Data: 0 in Row: 5  Col: 5 in all layers
+-Loaded Data: 1 in Row: 5  Col: 6 in all layers
+-Loaded Data: 0 in Row: 5  Col: 6 in all layers
+-Loaded Data: 1 in Row: 5  Col: 7 in all layers
+-Loaded Data: 0 in Row: 5  Col: 7 in all layers
+-Loaded Data: 1 in Row: 5  Col: 8 in all layers
+-Loaded Data: 0 in Row: 5  Col: 8 in all layers
+-Loaded Data: 1 in Row: 5  Col: 9 in all layers
+-Loaded Data: 0 in Row: 5  Col: 9 in all layers
+-Loaded Data: 1 in Row: 5  Col: 10 in all layers
+-Loaded Data: 0 in Row: 5  Col: 10 in all layers
+-Loaded Data: 1 in Row: 5  Col: 11 in all layers
+-Loaded Data: 0 in Row: 5  Col: 11 in all layers
+-Loaded Data: 1 in Row: 5  Col: 12 in all layers
+-Loaded Data: 0 in Row: 5  Col: 12 in all layers
+-Loaded Data: 1 in Row: 5  Col: 13 in all layers
+-Loaded Data: 0 in Row: 5  Col: 13 in all layers
+-Loaded Data: 1 in Row: 5  Col: 14 in all layers
+-Loaded Data: 0 in Row: 5  Col: 14 in all layers
+-Loaded Data: 1 in Row: 5  Col: 15 in all layers
+-Loaded Data: 0 in Row: 5  Col: 15 in all layers
+-Loaded Data: 1 in Row: 5  Col: 16 in all layers
+-Loaded Data: 0 in Row: 5  Col: 16 in all layers
+-Loaded Data: 1 in Row: 5  Col: 17 in all layers
+-Loaded Data: 0 in Row: 5  Col: 17 in all layers
+-Loaded Data: 1 in Row: 5  Col: 18 in all layers
+-Loaded Data: 0 in Row: 5  Col: 18 in all layers
+-Loaded Data: 1 in Row: 5  Col: 19 in all layers
+-Loaded Data: 0 in Row: 5  Col: 19 in all layers
+-Loaded Data: 1 in Row: 5  Col: 20 in all layers
+-Loaded Data: 0 in Row: 5  Col: 20 in all layers
+-Loaded Data: 1 in Row: 5  Col: 21 in all layers
+-Loaded Data: 0 in Row: 5  Col: 21 in all layers
+-Loaded Data: 1 in Row: 5  Col: 22 in all layers
+-Loaded Data: 0 in Row: 5  Col: 22 in all layers
+-Loaded Data: 1 in Row: 5  Col: 23 in all layers
+-Loaded Data: 0 in Row: 5  Col: 23 in all layers
+-Loaded Data: 1 in Row: 5  Col: 24 in all layers
+-Loaded Data: 0 in Row: 5  Col: 24 in all layers
+-Loaded Data: 1 in Row: 5  Col: 25 in all layers
+-Loaded Data: 0 in Row: 5  Col: 25 in all layers
+-Loaded Data: 1 in Row: 5  Col: 26 in all layers
+-Loaded Data: 0 in Row: 5  Col: 26 in all layers
+-Loaded Data: 1 in Row: 5  Col: 27 in all layers
+-Loaded Data: 0 in Row: 5  Col: 27 in all layers
+-Loaded Data: 1 in Row: 5  Col: 28 in all layers
+-Loaded Data: 0 in Row: 5  Col: 28 in all layers
+-Loaded Data: 1 in Row: 5  Col: 29 in all layers
+-Loaded Data: 0 in Row: 5  Col: 29 in all layers
+-Loaded Data: 1 in Row: 5  Col: 30 in all layers
+-Loaded Data: 0 in Row: 5  Col: 30 in all layers
+-Loaded Data: 1 in Row: 5  Col: 31 in all layers
+-Loaded Data: 0 in Row: 5  Col: 31 in all layers
+calculated Output shift is  2603
+Using output shift: 0
+--no match for time slice:  2771 , checkData =  1 row = 5 Column/s Supposed to Match [6]
+--no match for time slice:  4475 , checkData =  1 row = 5 Column/s Supposed to Match [10]
+--no match for time slice:  5753 , checkData =  1 row = 5 Column/s Supposed to Match [13]
+--no match for time slice:  6605 , checkData =  1 row = 5 Column/s Supposed to Match [15]
+--no match for time slice:  8735 , checkData =  1 row = 5 Column/s Supposed to Match [20]
+--no match for time slice:  11291 , checkData =  1 row = 5 Column/s Supposed to Match [26]
+--no match for time slice:  12995 , checkData =  1 row = 5 Column/s Supposed to Match [30]
+There are 7 mismatches!
+There are 25 matches!
+Expected number of hits : 32
+Actual number of hits : 25
+16:52:11
+Testing Row:4 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 4  Col: 0 in all layers
+-Loaded Data: 0 in Row: 4  Col: 0 in all layers
+-Loaded Data: 1 in Row: 4  Col: 1 in all layers
+-Loaded Data: 0 in Row: 4  Col: 1 in all layers
+-Loaded Data: 1 in Row: 4  Col: 2 in all layers
+-Loaded Data: 0 in Row: 4  Col: 2 in all layers
+-Loaded Data: 1 in Row: 4  Col: 3 in all layers
+-Loaded Data: 0 in Row: 4  Col: 3 in all layers
+-Loaded Data: 1 in Row: 4  Col: 4 in all layers
+-Loaded Data: 0 in Row: 4  Col: 4 in all layers
+-Loaded Data: 1 in Row: 4  Col: 5 in all layers
+-Loaded Data: 0 in Row: 4  Col: 5 in all layers
+-Loaded Data: 1 in Row: 4  Col: 6 in all layers
+-Loaded Data: 0 in Row: 4  Col: 6 in all layers
+-Loaded Data: 1 in Row: 4  Col: 7 in all layers
+-Loaded Data: 0 in Row: 4  Col: 7 in all layers
+-Loaded Data: 1 in Row: 4  Col: 8 in all layers
+-Loaded Data: 0 in Row: 4  Col: 8 in all layers
+-Loaded Data: 1 in Row: 4  Col: 9 in all layers
+-Loaded Data: 0 in Row: 4  Col: 9 in all layers
+-Loaded Data: 1 in Row: 4  Col: 10 in all layers
+-Loaded Data: 0 in Row: 4  Col: 10 in all layers
+-Loaded Data: 1 in Row: 4  Col: 11 in all layers
+-Loaded Data: 0 in Row: 4  Col: 11 in all layers
+-Loaded Data: 1 in Row: 4  Col: 12 in all layers
+-Loaded Data: 0 in Row: 4  Col: 12 in all layers
+-Loaded Data: 1 in Row: 4  Col: 13 in all layers
+-Loaded Data: 0 in Row: 4  Col: 13 in all layers
+-Loaded Data: 1 in Row: 4  Col: 14 in all layers
+-Loaded Data: 0 in Row: 4  Col: 14 in all layers
+-Loaded Data: 1 in Row: 4  Col: 15 in all layers
+-Loaded Data: 0 in Row: 4  Col: 15 in all layers
+-Loaded Data: 1 in Row: 4  Col: 16 in all layers
+-Loaded Data: 0 in Row: 4  Col: 16 in all layers
+-Loaded Data: 1 in Row: 4  Col: 17 in all layers
+-Loaded Data: 0 in Row: 4  Col: 17 in all layers
+-Loaded Data: 1 in Row: 4  Col: 18 in all layers
+-Loaded Data: 0 in Row: 4  Col: 18 in all layers
+-Loaded Data: 1 in Row: 4  Col: 19 in all layers
+-Loaded Data: 0 in Row: 4  Col: 19 in all layers
+-Loaded Data: 1 in Row: 4  Col: 20 in all layers
+-Loaded Data: 0 in Row: 4  Col: 20 in all layers
+-Loaded Data: 1 in Row: 4  Col: 21 in all layers
+-Loaded Data: 0 in Row: 4  Col: 21 in all layers
+-Loaded Data: 1 in Row: 4  Col: 22 in all layers
+-Loaded Data: 0 in Row: 4  Col: 22 in all layers
+-Loaded Data: 1 in Row: 4  Col: 23 in all layers
+-Loaded Data: 0 in Row: 4  Col: 23 in all layers
+-Loaded Data: 1 in Row: 4  Col: 24 in all layers
+-Loaded Data: 0 in Row: 4  Col: 24 in all layers
+-Loaded Data: 1 in Row: 4  Col: 25 in all layers
+-Loaded Data: 0 in Row: 4  Col: 25 in all layers
+-Loaded Data: 1 in Row: 4  Col: 26 in all layers
+-Loaded Data: 0 in Row: 4  Col: 26 in all layers
+-Loaded Data: 1 in Row: 4  Col: 27 in all layers
+-Loaded Data: 0 in Row: 4  Col: 27 in all layers
+-Loaded Data: 1 in Row: 4  Col: 28 in all layers
+-Loaded Data: 0 in Row: 4  Col: 28 in all layers
+-Loaded Data: 1 in Row: 4  Col: 29 in all layers
+-Loaded Data: 0 in Row: 4  Col: 29 in all layers
+-Loaded Data: 1 in Row: 4  Col: 30 in all layers
+-Loaded Data: 0 in Row: 4  Col: 30 in all layers
+-Loaded Data: 1 in Row: 4  Col: 31 in all layers
+-Loaded Data: 0 in Row: 4  Col: 31 in all layers
+calculated Output shift is  855
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 4 Column/s Supposed to Match [0]
+--no match for time slice:  1493 , checkData =  1 row = 4 Column/s Supposed to Match [3]
+--no match for time slice:  2771 , checkData =  1 row = 4 Column/s Supposed to Match [6]
+--no match for time slice:  3197 , checkData =  1 row = 4 Column/s Supposed to Match [7]
+--no match for time slice:  3623 , checkData =  1 row = 4 Column/s Supposed to Match [8]
+--no match for time slice:  4901 , checkData =  1 row = 4 Column/s Supposed to Match [11]
+--no match for time slice:  5327 , checkData =  1 row = 4 Column/s Supposed to Match [12]
+--no match for time slice:  5753 , checkData =  1 row = 4 Column/s Supposed to Match [13]
+--no match for time slice:  6179 , checkData =  1 row = 4 Column/s Supposed to Match [14]
+--no match for time slice:  7031 , checkData =  1 row = 4 Column/s Supposed to Match [16]
+--no match for time slice:  7457 , checkData =  1 row = 4 Column/s Supposed to Match [17]
+--no match for time slice:  8735 , checkData =  1 row = 4 Column/s Supposed to Match [20]
+--no match for time slice:  11291 , checkData =  1 row = 4 Column/s Supposed to Match [26]
+--no match for time slice:  12143 , checkData =  1 row = 4 Column/s Supposed to Match [28]
+--no match for time slice:  12569 , checkData =  1 row = 4 Column/s Supposed to Match [29]
+--no match for time slice:  12995 , checkData =  1 row = 4 Column/s Supposed to Match [30]
+--no match for time slice:  13421 , checkData =  1 row = 4 Column/s Supposed to Match [31]
+There are 17 mismatches!
+There are 15 matches!
+Expected number of hits : 32
+Actual number of hits : 15
+16:52:41
+Testing Row:3 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 3  Col: 0 in all layers
+-Loaded Data: 0 in Row: 3  Col: 0 in all layers
+-Loaded Data: 1 in Row: 3  Col: 1 in all layers
+-Loaded Data: 0 in Row: 3  Col: 1 in all layers
+-Loaded Data: 1 in Row: 3  Col: 2 in all layers
+-Loaded Data: 0 in Row: 3  Col: 2 in all layers
+-Loaded Data: 1 in Row: 3  Col: 3 in all layers
+-Loaded Data: 0 in Row: 3  Col: 3 in all layers
+-Loaded Data: 1 in Row: 3  Col: 4 in all layers
+-Loaded Data: 0 in Row: 3  Col: 4 in all layers
+-Loaded Data: 1 in Row: 3  Col: 5 in all layers
+-Loaded Data: 0 in Row: 3  Col: 5 in all layers
+-Loaded Data: 1 in Row: 3  Col: 6 in all layers
+-Loaded Data: 0 in Row: 3  Col: 6 in all layers
+-Loaded Data: 1 in Row: 3  Col: 7 in all layers
+-Loaded Data: 0 in Row: 3  Col: 7 in all layers
+-Loaded Data: 1 in Row: 3  Col: 8 in all layers
+-Loaded Data: 0 in Row: 3  Col: 8 in all layers
+-Loaded Data: 1 in Row: 3  Col: 9 in all layers
+-Loaded Data: 0 in Row: 3  Col: 9 in all layers
+-Loaded Data: 1 in Row: 3  Col: 10 in all layers
+-Loaded Data: 0 in Row: 3  Col: 10 in all layers
+-Loaded Data: 1 in Row: 3  Col: 11 in all layers
+-Loaded Data: 0 in Row: 3  Col: 11 in all layers
+-Loaded Data: 1 in Row: 3  Col: 12 in all layers
+-Loaded Data: 0 in Row: 3  Col: 12 in all layers
+-Loaded Data: 1 in Row: 3  Col: 13 in all layers
+-Loaded Data: 0 in Row: 3  Col: 13 in all layers
+-Loaded Data: 1 in Row: 3  Col: 14 in all layers
+-Loaded Data: 0 in Row: 3  Col: 14 in all layers
+-Loaded Data: 1 in Row: 3  Col: 15 in all layers
+-Loaded Data: 0 in Row: 3  Col: 15 in all layers
+-Loaded Data: 1 in Row: 3  Col: 16 in all layers
+-Loaded Data: 0 in Row: 3  Col: 16 in all layers
+-Loaded Data: 1 in Row: 3  Col: 17 in all layers
+-Loaded Data: 0 in Row: 3  Col: 17 in all layers
+-Loaded Data: 1 in Row: 3  Col: 18 in all layers
+-Loaded Data: 0 in Row: 3  Col: 18 in all layers
+-Loaded Data: 1 in Row: 3  Col: 19 in all layers
+-Loaded Data: 0 in Row: 3  Col: 19 in all layers
+-Loaded Data: 1 in Row: 3  Col: 20 in all layers
+-Loaded Data: 0 in Row: 3  Col: 20 in all layers
+-Loaded Data: 1 in Row: 3  Col: 21 in all layers
+-Loaded Data: 0 in Row: 3  Col: 21 in all layers
+-Loaded Data: 1 in Row: 3  Col: 22 in all layers
+-Loaded Data: 0 in Row: 3  Col: 22 in all layers
+-Loaded Data: 1 in Row: 3  Col: 23 in all layers
+-Loaded Data: 0 in Row: 3  Col: 23 in all layers
+-Loaded Data: 1 in Row: 3  Col: 24 in all layers
+-Loaded Data: 0 in Row: 3  Col: 24 in all layers
+-Loaded Data: 1 in Row: 3  Col: 25 in all layers
+-Loaded Data: 0 in Row: 3  Col: 25 in all layers
+-Loaded Data: 1 in Row: 3  Col: 26 in all layers
+-Loaded Data: 0 in Row: 3  Col: 26 in all layers
+-Loaded Data: 1 in Row: 3  Col: 27 in all layers
+-Loaded Data: 0 in Row: 3  Col: 27 in all layers
+-Loaded Data: 1 in Row: 3  Col: 28 in all layers
+-Loaded Data: 0 in Row: 3  Col: 28 in all layers
+-Loaded Data: 1 in Row: 3  Col: 29 in all layers
+-Loaded Data: 0 in Row: 3  Col: 29 in all layers
+-Loaded Data: 1 in Row: 3  Col: 30 in all layers
+-Loaded Data: 0 in Row: 3  Col: 30 in all layers
+-Loaded Data: 1 in Row: 3  Col: 31 in all layers
+-Loaded Data: 0 in Row: 3  Col: 31 in all layers
+calculated Output shift is  1325
+Using output shift: 0
+--no match for time slice:  1067 , checkData =  1 row = 3 Column/s Supposed to Match [2]
+--no match for time slice:  1493 , checkData =  1 row = 3 Column/s Supposed to Match [3]
+--no match for time slice:  1919 , checkData =  1 row = 3 Column/s Supposed to Match [4]
+--no match for time slice:  3197 , checkData =  1 row = 3 Column/s Supposed to Match [7]
+--no match for time slice:  4049 , checkData =  1 row = 3 Column/s Supposed to Match [9]
+--no match for time slice:  5753 , checkData =  1 row = 3 Column/s Supposed to Match [13]
+--no match for time slice:  6179 , checkData =  1 row = 3 Column/s Supposed to Match [14]
+--no match for time slice:  7883 , checkData =  1 row = 3 Column/s Supposed to Match [18]
+--no match for time slice:  8309 , checkData =  1 row = 3 Column/s Supposed to Match [19]
+--no match for time slice:  9161 , checkData =  1 row = 3 Column/s Supposed to Match [21]
+--no match for time slice:  9587 , checkData =  1 row = 3 Column/s Supposed to Match [22]
+--no match for time slice:  10865 , checkData =  1 row = 3 Column/s Supposed to Match [25]
+--no match for time slice:  11291 , checkData =  1 row = 3 Column/s Supposed to Match [26]
+--no match for time slice:  11717 , checkData =  1 row = 3 Column/s Supposed to Match [27]
+There are 14 mismatches!
+There are 18 matches!
+Expected number of hits : 32
+Actual number of hits : 18
+16:53:11
+Testing Row:2 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 2  Col: 0 in all layers
+-Loaded Data: 0 in Row: 2  Col: 0 in all layers
+-Loaded Data: 1 in Row: 2  Col: 1 in all layers
+-Loaded Data: 0 in Row: 2  Col: 1 in all layers
+-Loaded Data: 1 in Row: 2  Col: 2 in all layers
+-Loaded Data: 0 in Row: 2  Col: 2 in all layers
+-Loaded Data: 1 in Row: 2  Col: 3 in all layers
+-Loaded Data: 0 in Row: 2  Col: 3 in all layers
+-Loaded Data: 1 in Row: 2  Col: 4 in all layers
+-Loaded Data: 0 in Row: 2  Col: 4 in all layers
+-Loaded Data: 1 in Row: 2  Col: 5 in all layers
+-Loaded Data: 0 in Row: 2  Col: 5 in all layers
+-Loaded Data: 1 in Row: 2  Col: 6 in all layers
+-Loaded Data: 0 in Row: 2  Col: 6 in all layers
+-Loaded Data: 1 in Row: 2  Col: 7 in all layers
+-Loaded Data: 0 in Row: 2  Col: 7 in all layers
+-Loaded Data: 1 in Row: 2  Col: 8 in all layers
+-Loaded Data: 0 in Row: 2  Col: 8 in all layers
+-Loaded Data: 1 in Row: 2  Col: 9 in all layers
+-Loaded Data: 0 in Row: 2  Col: 9 in all layers
+-Loaded Data: 1 in Row: 2  Col: 10 in all layers
+-Loaded Data: 0 in Row: 2  Col: 10 in all layers
+-Loaded Data: 1 in Row: 2  Col: 11 in all layers
+-Loaded Data: 0 in Row: 2  Col: 11 in all layers
+-Loaded Data: 1 in Row: 2  Col: 12 in all layers
+-Loaded Data: 0 in Row: 2  Col: 12 in all layers
+-Loaded Data: 1 in Row: 2  Col: 13 in all layers
+-Loaded Data: 0 in Row: 2  Col: 13 in all layers
+-Loaded Data: 1 in Row: 2  Col: 14 in all layers
+-Loaded Data: 0 in Row: 2  Col: 14 in all layers
+-Loaded Data: 1 in Row: 2  Col: 15 in all layers
+-Loaded Data: 0 in Row: 2  Col: 15 in all layers
+-Loaded Data: 1 in Row: 2  Col: 16 in all layers
+-Loaded Data: 0 in Row: 2  Col: 16 in all layers
+-Loaded Data: 1 in Row: 2  Col: 17 in all layers
+-Loaded Data: 0 in Row: 2  Col: 17 in all layers
+-Loaded Data: 1 in Row: 2  Col: 18 in all layers
+-Loaded Data: 0 in Row: 2  Col: 18 in all layers
+-Loaded Data: 1 in Row: 2  Col: 19 in all layers
+-Loaded Data: 0 in Row: 2  Col: 19 in all layers
+-Loaded Data: 1 in Row: 2  Col: 20 in all layers
+-Loaded Data: 0 in Row: 2  Col: 20 in all layers
+-Loaded Data: 1 in Row: 2  Col: 21 in all layers
+-Loaded Data: 0 in Row: 2  Col: 21 in all layers
+-Loaded Data: 1 in Row: 2  Col: 22 in all layers
+-Loaded Data: 0 in Row: 2  Col: 22 in all layers
+-Loaded Data: 1 in Row: 2  Col: 23 in all layers
+-Loaded Data: 0 in Row: 2  Col: 23 in all layers
+-Loaded Data: 1 in Row: 2  Col: 24 in all layers
+-Loaded Data: 0 in Row: 2  Col: 24 in all layers
+-Loaded Data: 1 in Row: 2  Col: 25 in all layers
+-Loaded Data: 0 in Row: 2  Col: 25 in all layers
+-Loaded Data: 1 in Row: 2  Col: 26 in all layers
+-Loaded Data: 0 in Row: 2  Col: 26 in all layers
+-Loaded Data: 1 in Row: 2  Col: 27 in all layers
+-Loaded Data: 0 in Row: 2  Col: 27 in all layers
+-Loaded Data: 1 in Row: 2  Col: 28 in all layers
+-Loaded Data: 0 in Row: 2  Col: 28 in all layers
+-Loaded Data: 1 in Row: 2  Col: 29 in all layers
+-Loaded Data: 0 in Row: 2  Col: 29 in all layers
+-Loaded Data: 1 in Row: 2  Col: 30 in all layers
+-Loaded Data: 0 in Row: 2  Col: 30 in all layers
+-Loaded Data: 1 in Row: 2  Col: 31 in all layers
+-Loaded Data: 0 in Row: 2  Col: 31 in all layers
+calculated Output shift is  1751
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 2 Column/s Supposed to Match [0]
+--no match for time slice:  1919 , checkData =  1 row = 2 Column/s Supposed to Match [4]
+--no match for time slice:  2771 , checkData =  1 row = 2 Column/s Supposed to Match [6]
+--no match for time slice:  3197 , checkData =  1 row = 2 Column/s Supposed to Match [7]
+--no match for time slice:  4049 , checkData =  1 row = 2 Column/s Supposed to Match [9]
+--no match for time slice:  5327 , checkData =  1 row = 2 Column/s Supposed to Match [12]
+--no match for time slice:  6179 , checkData =  1 row = 2 Column/s Supposed to Match [14]
+--no match for time slice:  6605 , checkData =  1 row = 2 Column/s Supposed to Match [15]
+--no match for time slice:  7031 , checkData =  1 row = 2 Column/s Supposed to Match [16]
+--no match for time slice:  7883 , checkData =  1 row = 2 Column/s Supposed to Match [18]
+--no match for time slice:  8309 , checkData =  1 row = 2 Column/s Supposed to Match [19]
+--no match for time slice:  9161 , checkData =  1 row = 2 Column/s Supposed to Match [21]
+--no match for time slice:  9587 , checkData =  1 row = 2 Column/s Supposed to Match [22]
+--no match for time slice:  10439 , checkData =  1 row = 2 Column/s Supposed to Match [24]
+--no match for time slice:  10865 , checkData =  1 row = 2 Column/s Supposed to Match [25]
+--no match for time slice:  12995 , checkData =  1 row = 2 Column/s Supposed to Match [30]
+--no match for time slice:  13421 , checkData =  1 row = 2 Column/s Supposed to Match [31]
+There are 17 mismatches!
+There are 15 matches!
+Expected number of hits : 32
+Actual number of hits : 15
+16:53:41
+Testing Row:1 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 1  Col: 0 in all layers
+-Loaded Data: 0 in Row: 1  Col: 0 in all layers
+-Loaded Data: 1 in Row: 1  Col: 1 in all layers
+-Loaded Data: 0 in Row: 1  Col: 1 in all layers
+-Loaded Data: 1 in Row: 1  Col: 2 in all layers
+-Loaded Data: 0 in Row: 1  Col: 2 in all layers
+-Loaded Data: 1 in Row: 1  Col: 3 in all layers
+-Loaded Data: 0 in Row: 1  Col: 3 in all layers
+-Loaded Data: 1 in Row: 1  Col: 4 in all layers
+-Loaded Data: 0 in Row: 1  Col: 4 in all layers
+-Loaded Data: 1 in Row: 1  Col: 5 in all layers
+-Loaded Data: 0 in Row: 1  Col: 5 in all layers
+-Loaded Data: 1 in Row: 1  Col: 6 in all layers
+-Loaded Data: 0 in Row: 1  Col: 6 in all layers
+-Loaded Data: 1 in Row: 1  Col: 7 in all layers
+-Loaded Data: 0 in Row: 1  Col: 7 in all layers
+-Loaded Data: 1 in Row: 1  Col: 8 in all layers
+-Loaded Data: 0 in Row: 1  Col: 8 in all layers
+-Loaded Data: 1 in Row: 1  Col: 9 in all layers
+-Loaded Data: 0 in Row: 1  Col: 9 in all layers
+-Loaded Data: 1 in Row: 1  Col: 10 in all layers
+-Loaded Data: 0 in Row: 1  Col: 10 in all layers
+-Loaded Data: 1 in Row: 1  Col: 11 in all layers
+-Loaded Data: 0 in Row: 1  Col: 11 in all layers
+-Loaded Data: 1 in Row: 1  Col: 12 in all layers
+-Loaded Data: 0 in Row: 1  Col: 12 in all layers
+-Loaded Data: 1 in Row: 1  Col: 13 in all layers
+-Loaded Data: 0 in Row: 1  Col: 13 in all layers
+-Loaded Data: 1 in Row: 1  Col: 14 in all layers
+-Loaded Data: 0 in Row: 1  Col: 14 in all layers
+-Loaded Data: 1 in Row: 1  Col: 15 in all layers
+-Loaded Data: 0 in Row: 1  Col: 15 in all layers
+-Loaded Data: 1 in Row: 1  Col: 16 in all layers
+-Loaded Data: 0 in Row: 1  Col: 16 in all layers
+-Loaded Data: 1 in Row: 1  Col: 17 in all layers
+-Loaded Data: 0 in Row: 1  Col: 17 in all layers
+-Loaded Data: 1 in Row: 1  Col: 18 in all layers
+-Loaded Data: 0 in Row: 1  Col: 18 in all layers
+-Loaded Data: 1 in Row: 1  Col: 19 in all layers
+-Loaded Data: 0 in Row: 1  Col: 19 in all layers
+-Loaded Data: 1 in Row: 1  Col: 20 in all layers
+-Loaded Data: 0 in Row: 1  Col: 20 in all layers
+-Loaded Data: 1 in Row: 1  Col: 21 in all layers
+-Loaded Data: 0 in Row: 1  Col: 21 in all layers
+-Loaded Data: 1 in Row: 1  Col: 22 in all layers
+-Loaded Data: 0 in Row: 1  Col: 22 in all layers
+-Loaded Data: 1 in Row: 1  Col: 23 in all layers
+-Loaded Data: 0 in Row: 1  Col: 23 in all layers
+-Loaded Data: 1 in Row: 1  Col: 24 in all layers
+-Loaded Data: 0 in Row: 1  Col: 24 in all layers
+-Loaded Data: 1 in Row: 1  Col: 25 in all layers
+-Loaded Data: 0 in Row: 1  Col: 25 in all layers
+-Loaded Data: 1 in Row: 1  Col: 26 in all layers
+-Loaded Data: 0 in Row: 1  Col: 26 in all layers
+-Loaded Data: 1 in Row: 1  Col: 27 in all layers
+-Loaded Data: 0 in Row: 1  Col: 27 in all layers
+-Loaded Data: 1 in Row: 1  Col: 28 in all layers
+-Loaded Data: 0 in Row: 1  Col: 28 in all layers
+-Loaded Data: 1 in Row: 1  Col: 29 in all layers
+-Loaded Data: 0 in Row: 1  Col: 29 in all layers
+-Loaded Data: 1 in Row: 1  Col: 30 in all layers
+-Loaded Data: 0 in Row: 1  Col: 30 in all layers
+-Loaded Data: 1 in Row: 1  Col: 31 in all layers
+-Loaded Data: 0 in Row: 1  Col: 31 in all layers
+calculated Output shift is  47
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 1 Column/s Supposed to Match [0]
+--no match for time slice:  641 , checkData =  1 row = 1 Column/s Supposed to Match [1]
+--no match for time slice:  1067 , checkData =  1 row = 1 Column/s Supposed to Match [2]
+--no match for time slice:  1493 , checkData =  1 row = 1 Column/s Supposed to Match [3]
+--no match for time slice:  1919 , checkData =  1 row = 1 Column/s Supposed to Match [4]
+--no match for time slice:  2345 , checkData =  1 row = 1 Column/s Supposed to Match [5]
+--no match for time slice:  2771 , checkData =  1 row = 1 Column/s Supposed to Match [6]
+--no match for time slice:  3197 , checkData =  1 row = 1 Column/s Supposed to Match [7]
+--no match for time slice:  4049 , checkData =  1 row = 1 Column/s Supposed to Match [9]
+--no match for time slice:  4475 , checkData =  1 row = 1 Column/s Supposed to Match [10]
+--no match for time slice:  4901 , checkData =  1 row = 1 Column/s Supposed to Match [11]
+--no match for time slice:  5327 , checkData =  1 row = 1 Column/s Supposed to Match [12]
+--no match for time slice:  6179 , checkData =  1 row = 1 Column/s Supposed to Match [14]
+--no match for time slice:  6605 , checkData =  1 row = 1 Column/s Supposed to Match [15]
+--no match for time slice:  7031 , checkData =  1 row = 1 Column/s Supposed to Match [16]
+--no match for time slice:  7883 , checkData =  1 row = 1 Column/s Supposed to Match [18]
+--no match for time slice:  8309 , checkData =  1 row = 1 Column/s Supposed to Match [19]
+--no match for time slice:  9161 , checkData =  1 row = 1 Column/s Supposed to Match [21]
+--no match for time slice:  9587 , checkData =  1 row = 1 Column/s Supposed to Match [22]
+--no match for time slice:  10013 , checkData =  1 row = 1 Column/s Supposed to Match [23]
+--no match for time slice:  10439 , checkData =  1 row = 1 Column/s Supposed to Match [24]
+--no match for time slice:  10865 , checkData =  1 row = 1 Column/s Supposed to Match [25]
+--no match for time slice:  11291 , checkData =  1 row = 1 Column/s Supposed to Match [26]
+--no match for time slice:  11717 , checkData =  1 row = 1 Column/s Supposed to Match [27]
+--no match for time slice:  12143 , checkData =  1 row = 1 Column/s Supposed to Match [28]
+--no match for time slice:  13421 , checkData =  1 row = 1 Column/s Supposed to Match [31]
+There are 26 mismatches!
+There are 6 matches!
+Expected number of hits : 32
+Actual number of hits : 6
+16:54:11
+Testing Row:0 with data: 1 and loading: 0 after test 
+-Loaded Data: 1 in Row: 0  Col: 0 in all layers
+-Loaded Data: 0 in Row: 0  Col: 0 in all layers
+-Loaded Data: 1 in Row: 0  Col: 1 in all layers
+-Loaded Data: 0 in Row: 0  Col: 1 in all layers
+-Loaded Data: 1 in Row: 0  Col: 2 in all layers
+-Loaded Data: 0 in Row: 0  Col: 2 in all layers
+-Loaded Data: 1 in Row: 0  Col: 3 in all layers
+-Loaded Data: 0 in Row: 0  Col: 3 in all layers
+-Loaded Data: 1 in Row: 0  Col: 4 in all layers
+-Loaded Data: 0 in Row: 0  Col: 4 in all layers
+-Loaded Data: 1 in Row: 0  Col: 5 in all layers
+-Loaded Data: 0 in Row: 0  Col: 5 in all layers
+-Loaded Data: 1 in Row: 0  Col: 6 in all layers
+-Loaded Data: 0 in Row: 0  Col: 6 in all layers
+-Loaded Data: 1 in Row: 0  Col: 7 in all layers
+-Loaded Data: 0 in Row: 0  Col: 7 in all layers
+-Loaded Data: 1 in Row: 0  Col: 8 in all layers
+-Loaded Data: 0 in Row: 0  Col: 8 in all layers
+-Loaded Data: 1 in Row: 0  Col: 9 in all layers
+-Loaded Data: 0 in Row: 0  Col: 9 in all layers
+-Loaded Data: 1 in Row: 0  Col: 10 in all layers
+-Loaded Data: 0 in Row: 0  Col: 10 in all layers
+-Loaded Data: 1 in Row: 0  Col: 11 in all layers
+-Loaded Data: 0 in Row: 0  Col: 11 in all layers
+-Loaded Data: 1 in Row: 0  Col: 12 in all layers
+-Loaded Data: 0 in Row: 0  Col: 12 in all layers
+-Loaded Data: 1 in Row: 0  Col: 13 in all layers
+-Loaded Data: 0 in Row: 0  Col: 13 in all layers
+-Loaded Data: 1 in Row: 0  Col: 14 in all layers
+-Loaded Data: 0 in Row: 0  Col: 14 in all layers
+-Loaded Data: 1 in Row: 0  Col: 15 in all layers
+-Loaded Data: 0 in Row: 0  Col: 15 in all layers
+-Loaded Data: 1 in Row: 0  Col: 16 in all layers
+-Loaded Data: 0 in Row: 0  Col: 16 in all layers
+-Loaded Data: 1 in Row: 0  Col: 17 in all layers
+-Loaded Data: 0 in Row: 0  Col: 17 in all layers
+-Loaded Data: 1 in Row: 0  Col: 18 in all layers
+-Loaded Data: 0 in Row: 0  Col: 18 in all layers
+-Loaded Data: 1 in Row: 0  Col: 19 in all layers
+-Loaded Data: 0 in Row: 0  Col: 19 in all layers
+-Loaded Data: 1 in Row: 0  Col: 20 in all layers
+-Loaded Data: 0 in Row: 0  Col: 20 in all layers
+-Loaded Data: 1 in Row: 0  Col: 21 in all layers
+-Loaded Data: 0 in Row: 0  Col: 21 in all layers
+-Loaded Data: 1 in Row: 0  Col: 22 in all layers
+-Loaded Data: 0 in Row: 0  Col: 22 in all layers
+-Loaded Data: 1 in Row: 0  Col: 23 in all layers
+-Loaded Data: 0 in Row: 0  Col: 23 in all layers
+-Loaded Data: 1 in Row: 0  Col: 24 in all layers
+-Loaded Data: 0 in Row: 0  Col: 24 in all layers
+-Loaded Data: 1 in Row: 0  Col: 25 in all layers
+-Loaded Data: 0 in Row: 0  Col: 25 in all layers
+-Loaded Data: 1 in Row: 0  Col: 26 in all layers
+-Loaded Data: 0 in Row: 0  Col: 26 in all layers
+-Loaded Data: 1 in Row: 0  Col: 27 in all layers
+-Loaded Data: 0 in Row: 0  Col: 27 in all layers
+-Loaded Data: 1 in Row: 0  Col: 28 in all layers
+-Loaded Data: 0 in Row: 0  Col: 28 in all layers
+-Loaded Data: 1 in Row: 0  Col: 29 in all layers
+-Loaded Data: 0 in Row: 0  Col: 29 in all layers
+-Loaded Data: 1 in Row: 0  Col: 30 in all layers
+-Loaded Data: 0 in Row: 0  Col: 30 in all layers
+-Loaded Data: 1 in Row: 0  Col: 31 in all layers
+-Loaded Data: 0 in Row: 0  Col: 31 in all layers
+calculated Output shift is  899
+Using output shift: 0
+--no match for time slice:  215 , checkData =  1 row = 0 Column/s Supposed to Match [0]
+--no match for time slice:  641 , checkData =  1 row = 0 Column/s Supposed to Match [1]
+--no match for time slice:  1067 , checkData =  1 row = 0 Column/s Supposed to Match [2]
+--no match for time slice:  1493 , checkData =  1 row = 0 Column/s Supposed to Match [3]
+--no match for time slice:  1919 , checkData =  1 row = 0 Column/s Supposed to Match [4]
+--no match for time slice:  2771 , checkData =  1 row = 0 Column/s Supposed to Match [6]
+--no match for time slice:  3197 , checkData =  1 row = 0 Column/s Supposed to Match [7]
+--no match for time slice:  4049 , checkData =  1 row = 0 Column/s Supposed to Match [9]
+--no match for time slice:  4475 , checkData =  1 row = 0 Column/s Supposed to Match [10]
+--no match for time slice:  5327 , checkData =  1 row = 0 Column/s Supposed to Match [12]
+--no match for time slice:  5753 , checkData =  1 row = 0 Column/s Supposed to Match [13]
+--no match for time slice:  6179 , checkData =  1 row = 0 Column/s Supposed to Match [14]
+--no match for time slice:  6605 , checkData =  1 row = 0 Column/s Supposed to Match [15]
+--no match for time slice:  7883 , checkData =  1 row = 0 Column/s Supposed to Match [18]
+--no match for time slice:  8309 , checkData =  1 row = 0 Column/s Supposed to Match [19]
+--no match for time slice:  8735 , checkData =  1 row = 0 Column/s Supposed to Match [20]
+--no match for time slice:  9161 , checkData =  1 row = 0 Column/s Supposed to Match [21]
+--no match for time slice:  11291 , checkData =  1 row = 0 Column/s Supposed to Match [26]
+--no match for time slice:  11717 , checkData =  1 row = 0 Column/s Supposed to Match [27]
+--no match for time slice:  12995 , checkData =  1 row = 0 Column/s Supposed to Match [30]
+There are 20 mismatches!
+There are 12 matches!
+Expected number of hits : 32
+Actual number of hits : 12
+Total number of mismatches = 297
+------------------------ 
+
+16:54:41
