@@ -33,7 +33,7 @@ do
 timestamp=$(date +%T)
 echo $timestamp |tee -a $log
 echo "----Loading Rows $row_start to $row_end with $initial_data_load"
-python load_rowRange_Value.py $row_start $row_end $initial_data_load --go | grep 'match\|Testing Row\|shift\|Loaded|\Loading\|number of hits'| tee -a $log
+python load_rowRange_Value.py $row_start $row_end $initial_data_load --go | grep 'match\|Testing Row\|shift\|Loaded\|Loading\|number of hits'| tee -a $log
 sleep 1s
 row_start=$[$row_start+4]
 row_end=$[$row_end+4]
