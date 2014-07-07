@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 row_start = 1
 row_end = 20
 file_name = "10kPatterns_sec27_0DC_higPT_0DC.txt"
-append = "highPT"
+append = "REARRANGE_"
 file_start = 5
 
 inputFile = file(file_name, "r+")
@@ -31,10 +31,10 @@ for i in range(1,len(data)):
     database.append(int(strNums[3]))
     database.append(int(strNums[4]))
     
-    database_A.append(int(strNums[1]))
-    database_B.append(int(strNums[2]))
-    database_C.append(int(strNums[3]))
-    database_D.append(int(strNums[4]))
+    database_A.append(int(bin(strNums[1])[11:17]))
+    database_B.append(int(strNums[2][9:15]))
+    database_C.append(int(strNums[3][9:15]))
+    database_D.append(int(strNums[4][9:15]))
     
 database_np = np.array(database)
 

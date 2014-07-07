@@ -15,9 +15,3 @@ echo "Starting script_3:"
 
 echo "Starting script_4:"
 ./RUN_reverse_stresstest_32767_1_0.sh
-
-echo "Starting script_5"
-./RUN_least_stresstest_0_32766_0.sh
-
-echo "Starting script_5"
-./RUN_least_stresstest_32767_1_32767.sh
