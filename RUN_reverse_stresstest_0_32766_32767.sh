@@ -17,7 +17,7 @@ rm ./results/$log
 rm ./results/$image_name
 rm ./root/tmp1_i.txt
 rm ./root/tmp1_f.txt
-rm ./root/tmp.root
+rm ./root/tmp1.root
 
 timestamp=$(date +%T)
 echo $timestamp |tee -a $log
