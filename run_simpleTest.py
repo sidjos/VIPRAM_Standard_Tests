@@ -39,12 +39,10 @@ def GenerateInputs(testname):
     
     row = 0 
     col = 0    
-    data = 32767
-    data_load = 0
+    data = 0
     
-    print "\nTesting Row:"+str(row)+" with data:",data,"and loading:",data_load,"after test","\n"		
+    print "\nTesting Row:"+str(row)+" and Col" + str(col) +" with data:",data,"and loading:",data,"after test","\n"		
     
-
     inputPattern.initializeLoadPhase() 	    
     inputPattern.loadSinglePattern(row, col,[data,data,data,data], 20)
             
@@ -54,15 +52,11 @@ def GenerateInputs(testname):
     inputPattern.checkPattern( [21845, 21845, 21845, 21845] ,row)
     inputPattern.checkPattern( [data,data,data,data] ,row)
     
+    for row in range(128):
+    	for i in range(10):inputPattern.checkPattern( [21845, 21845, 21845, 21845] ,row)
+    	inputPattern.doRowChecker(row)
+    	for i in range(10):inputPattern.checkPattern( [21845, 21845, 21845, 21845] ,row)
     
-    for i in range(10):inputPattern.checkPattern( [21845, 21845, 21845, 21845] ,row)
-    inputPattern.doRowChecker(row)
-    for i in range(10):inputPattern.checkPattern( [21845, 21845, 21845, 21845] ,row)
-    
-    inputPattern.initializeLoadPhase()
-    inputPattern.loadSinglePattern(row, col,[data_load,data_load,data_load,data_load], 20)
-    print "-Loaded Data:", data_load, "in Row:", row," Col:", col, "in all layers"
-
     inputPattern.close()
     return inputPattern
 
@@ -352,53 +346,53 @@ if __name__ == '__main__':
 	bounds=[0,1,2,3]
         norm = colors.BoundaryNorm(bounds, cmap.N)
 
-#    	plt.figure()
-#    	plt.imshow(outputPattern,cmap=cmap1, norm = norm, interpolation = 'Nearest',aspect='auto')
-#    	plt.grid("on")
-#	plt.xticks([i for i in range(0,32)])
-#	yr= [4*i for i in range(-1,32)]
-#	yr.append(127)
-#	plt.yticks(yr)
-#    	plt.title("protoVIPRAM 2D \n Test: Real Hits = Expected Hits, number of hits :" + str(int(np.sum(outputPattern))))
-#    	plt.xlabel("Columns")
-#   	plt.ylabel("Rows")
+    	plt.figure()
+    	plt.imshow(outputPattern,cmap=cmap1, norm = norm, interpolation = 'Nearest',aspect='auto')
+    	plt.grid("on")
+	plt.xticks([i for i in range(0,32)])
+	yr= [4*i for i in range(-1,32)]
+	yr.append(127)
+	plt.yticks(yr)
+    	plt.title("protoVIPRAM 2D \n Test: Real Hits = Expected Hits, number of hits :" + str(int(np.sum(outputPattern))))
+    	plt.xlabel("Columns")
+   	plt.ylabel("Rows")
     
     
     else:
     	print "Expected number of hits :", int(np.sum(expected_outputPattern_cumulative))
         print "Actual number of hits :", int(np.sum(outputPattern_cumulative))
 	
-#    	bounds=[0,1,2,3]
-#    	norm = colors.BoundaryNorm(bounds, cmap.N)
-#    	plt.figure()
-#    	plt.imshow(outputPattern,cmap='Reds', norm = norm, interpolation = 'Nearest',aspect='auto')
-#    	#plt.text(col,row,"CAM")
-#    	plt.grid("on")
-#	plt.xticks([i for i in range(32)])
-#	yr= [4*i for i in range(32)]
-#	yr.append(127)
-#	plt.yticks(yr)
-#    	plt.title("protoVIPRAM 2D")
-#    	plt.xlabel("Columns")
-#    	plt.ylabel("Rows")
+    	bounds=[0,1,2,3]
+    	norm = colors.BoundaryNorm(bounds, cmap.N)
+    	plt.figure()
+    	plt.imshow(outputPattern,cmap=cmap1, norm = norm, interpolation = 'Nearest',aspect='auto')
+    	#plt.text(col,row,"CAM")
+    	plt.grid("on")
+	plt.xticks([i for i in range(32)])
+	yr= [4*i for i in range(32)]
+	yr.append(127)
+	plt.yticks(yr)
+    	plt.title("protoVIPRAM 2D")
+    	plt.xlabel("Columns")
+    	plt.ylabel("Rows")
     
-#    	plt.figure()
-#    	plt.imshow(expected_outputPattern,cmap='Blues', norm = norm, interpolation = 'Nearest',aspect='auto')
-#    	#plt.text(col,row,"CAM")
-#    	plt.grid("on")
-#	plt.xticks([i for i in range(32)])
-#	yr= [4*i for i in range(32)]
-#	yr.append(127)
-#	plt.yticks(yr)
-#    	plt.title("protoVIPRAM 2D : Expected Output Patterns")
-#    	plt.xlabel("Columns")
-#    	plt.ylabel("Rows")    
+    	plt.figure()
+    	plt.imshow(expected_outputPattern,cmap=cmap, norm = norm, interpolation = 'Nearest',aspect='auto')
+    	#plt.text(col,row,"CAM")
+    	plt.grid("on")
+	plt.xticks([i for i in range(32)])
+	yr= [4*i for i in range(32)]
+	yr.append(127)
+	plt.yticks(yr)
+    	plt.title("protoVIPRAM 2D : Expected Output Patterns")
+    	plt.xlabel("Columns")
+    	plt.ylabel("Rows")    
 
     print "------------------------","\n";
     
-#    print "Close plot to continue"
+    print "Close plot to continue"
 
-#    plt.show()
+    plt.show()
         
              
         
